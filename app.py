@@ -44,7 +44,7 @@ f = {"start": str(dates[0]), "end": str(dates[1]),
 w, p = db.where(f)
 p = tuple(p)
 
-st.title("SmartMart Sales Dashboard")
+st.title("SmartMart Sales Dashboard (Live)")
 
 # ---------- KPI cards ----------
 k = q(f"""SELECT COALESCE(SUM(revenue),0) revenue, COUNT(DISTINCT transaction_id) orders,
