@@ -1,0 +1,9 @@
+{
+  "rows_raw": 6180,
+  "invalid_dates": 0,
+  "missing_required_dropped": 0,
+  "invalid_numeric_dropped": 62,
+  "duplicates_removed": 177,
+  "missing_customer_rows": 122,
+  "rows_clean": 5941
+}

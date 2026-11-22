@@ -1,0 +1,2004 @@
+transaction_id,order_date,customer_id,product_id,quantity,discount,channel,product_name,category,unit_price,customer_name,city,region
+TXN002939,2025-01-01,C0735,P11,4,0.1,Store,Blender,Home Appliances,6000,Customer 735,Lahore,Central
+TXN004647,2025-01-01,C0538,P05,1,0.0,Online,T-Shirt,Clothing,1500,Customer 538,Karachi,South
+TXN000249,2025-01-01,,P02,4,0.0,Online,Laptop,Electronics,120000,,Quetta,West
+TXN001302,2025-01-01,C0760,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 760,Peshawar,North
+TXN001922,2025-01-01,C0195,P08,4,0.05,Store,Sneakers,Clothing,7000,Customer 195,Quetta,West
+TXN002359,2025-01-01,C0473,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 473,Multan,Central
+TXN000059,2025-01-02,C0343,P15,2,0.05,Store,Tea 900g,Grocery,1500,Customer 343,Islamabad,North
+TXN004459,2025-01-02,C0514,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 514,Peshawar,North
+TXN001816,2025-01-02,C0276,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 276,Multan,Central
+TXN002855,2025-01-02,C0779,P08,2,0.0,Store,Sneakers,Clothing,7000,Customer 779,Lahore,Central
+TXN003505,2025-01-02,C0786,P11,2,0.1,Online,Blender,Home Appliances,6000,Customer 786,Islamabad,North
+TXN000813,2025-01-03,C0363,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 363,Lahore,Central
+TXN000332,2025-01-03,C0650,P12,3,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 650,Quetta,West
+TXN003559,2025-01-03,C0778,P05,4,0.0,Online,T-Shirt,Clothing,1500,Customer 778,Karachi,South
+TXN002393,2025-01-04,,P11,4,0.1,Store,Blender,Home Appliances,6000,,Lahore,Central
+TXN003183,2025-01-04,C0275,P14,4,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 275,Multan,Central
+TXN000627,2025-01-05,C0463,P02,2,0.0,Online,LAPTOP ,Electronics,120000,Customer 463,Peshawar,North
+TXN004079,2025-01-05,C0609,P03,4,0.05,Online,Headphones,Electronics,8000,Customer 609,Quetta,West
+TXN002202,2025-01-05,C0016,P09,2,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 16,Peshawar,North
+TXN004576,2025-01-05,C0157,P05,2,0.0,Store,T-Shirt,Clothing,1500,Customer 157,Karachi,South
+TXN000506,2025-01-05,C0248,P11,1,0.1,Store,Blender,Home Appliances,6000,Customer 248,Multan,Central
+TXN001859,2025-01-05,C0185,P11,1,0.0,Online,Blender,Home Appliances,6000,Customer 185,Multan,Central
+TXN005544,2025-01-05,C0340,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 340,Quetta,West
+TXN005892,2025-01-05,C0511,P10,2,0.0,Online,Air Fryer,Home Appliances,18000,Customer 511,Quetta,West
+TXN002575,2025-01-06,C0225,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 225,Peshawar,North
+TXN002132,2025-01-06,,P01,4,0.0,Online,Smartphone,Electronics,45000,,Peshawar,North
+TXN005285,2025-01-06,C0601,P12,3,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 601,Islamabad,North
+TXN001480,2025-01-06,C0637,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 637,Lahore,Central
+TXN005629,2025-01-07,C0723,P02,2,0.0,Online,Laptop,Electronics,120000,Customer 723,Quetta,West
+TXN005028,2025-01-07,C0219,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 219,Multan,Central
+TXN004603,2025-01-07,C0036,P04,3,0.0,Online,Smart Watch,Electronics,15000,Customer 36,Karachi,South
+TXN002017,2025-01-07,C0298,P15,4,0.1,Store,Tea 900g,Grocery,1500,Customer 298,Multan,Central
+TXN005436,2025-01-07,C0106,P10,3,0.1,Store,Air Fryer,Home Appliances,18000,Customer 106,Peshawar,North
+TXN001013,2025-01-07,C0078,P05,1,0.05,Online,T-Shirt,Clothing,1500,Customer 78,Lahore,Central
+TXN000624,2025-01-08,C0607,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 607,Lahore,Central
+TXN003184,2025-01-08,C0684,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 684,Quetta,West
+TXN002810,2025-01-08,C0652,P04,3,0.05,Online,Smart Watch,Electronics,15000,Customer 652,Islamabad,North
+TXN003013,2025-01-08,C0273,P07,3,0.05,Store,Jacket,Clothing,6500,Customer 273,Karachi,South
+TXN003370,2025-01-08,C0747,P03,2,0.05,Store,Headphones,Electronics,8000,Customer 747,Islamabad,North
+TXN004718,2025-01-08,C0192,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 192,Islamabad,North
+TXN005709,2025-01-08,C0237,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 237,Islamabad,North
+TXN005048,2025-01-08,C0242,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 242,Islamabad,North
+TXN001312,2025-01-08,C0680,P07,1,0.05,Online,Jacket,Clothing,6500,Customer 680,Quetta,West
+TXN000271,2025-01-09,C0239,P09,4,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 239,Lahore,Central
+TXN000529,2025-01-09,C0314,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 314,Lahore,Central
+TXN000474,2025-01-09,C0658,P02,-1,0.05,Store,Laptop,Electronics,120000,Customer 658,Islamabad,North
+TXN004736,2025-01-09,C0494,P16,4,0.1,Online,SUGAR 5KG ,Grocery,700,Customer 494,Islamabad,North
+TXN004843,2025-01-09,C0243,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 243,Karachi,South
+TXN004736,2025-01-09,C0494,P16,4,0.1,Online,Sugar 5kg,Grocery,700,Customer 494,Islamabad,North
+TXN005412,2025-01-10,C0774,P12,3,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 774,Peshawar,North
+TXN001638,2025-01-10,C0781,P05,1,0.0,Online,T-Shirt,Clothing,1500,Customer 781,Quetta,West
+TXN002433,2025-01-10,C0466,P06,1,0.1,Online,Jeans,Clothing,3500,Customer 466,Quetta,West
+TXN000868,2025-01-11,C0377,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 377,Peshawar,North
+TXN004329,2025-01-11,C0740,P09,2,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 740,Quetta,West
+TXN000868,2025-01-11,C0377,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 377,Peshawar,North
+TXN000498,2025-01-11,C0198,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 198,Karachi,South
+TXN005654,2025-01-11,C0389,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 389,Quetta,West
+TXN004324,2025-01-12,C0292,P04,3,0.0,Store,Smart Watch,Electronics,15000,Customer 292,Lahore,Central
+TXN002719,2025-01-12,C0733,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 733,Quetta,West
+TXN003401,2025-01-12,C0186,P13,3,0.05,Store,Rice 5kg,Grocery,1400,Customer 186,Multan,Central
+TXN002590,2025-01-12,C0320,P04,4,0.1,Online,Smart Watch,Electronics,15000,Customer 320,Peshawar,North
+TXN005918,2025-01-12,C0407,P10,4,0.2,Online,Air Fryer,Home Appliances,18000,Customer 407,Multan,Central
+TXN001234,2025-01-12,C0201,P07,3,0.0,Online,JACKET ,Clothing,6500,Customer 201,Multan,Central
+TXN004199,2025-01-12,C0443,P06,2,0.1,Store,Jeans,Clothing,3500,Customer 443,Karachi,South
+TXN005550,2025-01-12,C0341,P15,4,0.1,Store,Tea 900g,Grocery,1500,Customer 341,Islamabad,North
+TXN002406,2025-01-12,C0790,P09,4,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 790,Karachi,South
+TXN004124,2025-01-13,C0089,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 89,Peshawar,North
+TXN004844,2025-01-13,C0677,P07,2,0.05,Store,Jacket,Clothing,6500,Customer 677,Islamabad,North
+TXN000527,2025-01-13,C0197,P14,2,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 197,Multan,Central
+TXN002967,2025-01-13,C0285,P12,3,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 285,Multan,Central
+TXN005155,2025-01-14,C0290,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 290,Multan,Central
+TXN004798,2025-01-14,C0528,P03,1,0.0,Online,Headphones,Electronics,8000,Customer 528,Karachi,South
+TXN001668,2025-01-14,C0619,P06,2,0.05,Store,Jeans,Clothing,3500,Customer 619,Karachi,South
+TXN003366,2025-01-14,C0334,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 334,Peshawar,North
+TXN005119,2025-01-15,C0251,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 251,Lahore,Central
+TXN005297,2025-01-15,C0254,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 254,Lahore,Central
+TXN005423,2025-01-15,C0413,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 413,Lahore,Central
+TXN001485,2025-01-15,C0637,P04,3,0.0,Online,Smart Watch,Electronics,15000,Customer 637,Lahore,Central
+TXN000027,2025-01-15,C0431,P08,3,0.05,Store,Sneakers,Clothing,7000,Customer 431,Karachi,South
+TXN001832,2025-01-15,C0496,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 496,Multan,Central
+TXN002392,2025-01-16,C0783,P15,2,0.05,Store,Tea 900g,Grocery,1500,Customer 783,Karachi,South
+TXN000903,2025-01-16,C0406,P14,2,0.2,Store,Cooking Oil 5L,Grocery,3200,Customer 406,Islamabad,North
+TXN003029,2025-01-16,C0698,P15,4,0.0,Store,Tea 900g,Grocery,1500,Customer 698,Islamabad,North
+TXN004022,2025-01-16,,P11,1,0.05,Online,Blender,Home Appliances,6000,,Peshawar,North
+TXN001173,2025-01-16,C0348,P04,3,0.2,Store,Smart Watch,Electronics,15000,Customer 348,Quetta,West
+TXN002919,2025-01-17,C0442,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 442,Lahore,Central
+TXN000896,2025-01-17,C0565,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 565,Quetta,West
+TXN004223,2025-01-17,C0533,P05,2,0.05,Online,T-Shirt,Clothing,1500,Customer 533,Karachi,South
+TXN003643,2025-01-17,C0276,P16,2,0.0,Online,Sugar 5kg,Grocery,700,Customer 276,Multan,Central
+TXN004204,2025-01-17,C0406,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 406,Islamabad,North
+TXN000896,2025-01-17,C0565,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 565,Quetta,West
+TXN002812,2025-01-17,C0584,P11,3,0.0,Online,Blender,Home Appliances,6000,Customer 584,Karachi,South
+TXN001467,2025-01-18,C0114,P16,3,0.05,Store,Sugar 5kg,Grocery,700,Customer 114,Multan,Central
+TXN005451,2025-01-18,,P08,1,0.0,Online,Sneakers,Clothing,7000,,Multan,Central
+TXN000710,2025-01-18,C0372,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 372,Islamabad,North
+TXN004870,2025-01-18,C0440,P07,2,0.05,Store,Jacket,Clothing,6500,Customer 440,Multan,Central
+TXN005054,2025-01-18,,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,,Islamabad,North
+TXN000013,2025-01-19,C0330,P11,4,0.1,Store,Blender,Home Appliances,6000,Customer 330,Islamabad,North
+TXN004923,2025-01-19,C0457,P13,4,0.2,Online,Rice 5kg,Grocery,1400,Customer 457,Karachi,South
+TXN000980,2025-01-19,C0204,P11,4,0.1,Store,Blender,Home Appliances,6000,Customer 204,Peshawar,North
+TXN003415,2025-01-20,C0658,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 658,Islamabad,North
+TXN001336,2025-01-20,C0557,P16,4,0.1,Store,Sugar 5kg,Grocery,700,Customer 557,Peshawar,North
+TXN005972,2025-01-20,C0702,P09,2,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 702,Islamabad,North
+TXN003932,2025-01-20,C0762,P16,4,0.05,Online,Sugar 5kg,Grocery,700,Customer 762,Islamabad,North
+TXN003237,2025-01-20,C0393,P05,1,0.05,Online,T-SHIRT ,Clothing,1500,Customer 393,Multan,Central
+TXN002776,2025-01-21,C0600,P14,1,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 600,Islamabad,North
+TXN001456,2025-01-21,C0384,P08,4,0.0,Online,Sneakers,Clothing,7000,Customer 384,Lahore,Central
+TXN003220,2025-01-22,C0323,P10,4,0.0,Online,AIR FRYER ,Home Appliances,18000,Customer 323,Islamabad,North
+TXN004774,2025-01-22,C0704,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 704,Lahore,Central
+TXN000262,2025-01-22,C0039,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 39,Lahore,Central
+TXN002997,2025-01-22,C0499,P13,2,0.1,Online,Rice 5kg,Grocery,1400,Customer 499,Quetta,West
+TXN000747,2025-01-22,C0530,P15,2,0.2,Store,Tea 900g,Grocery,1500,Customer 530,Quetta,West
+TXN005113,2025-01-23,C0642,P04,3,0.0,Store,Smart Watch,Electronics,15000,Customer 642,Quetta,West
+TXN003213,2025-01-24,C0524,P07,2,0.0,Store,Jacket,Clothing,6500,Customer 524,Peshawar,North
+TXN000349,2025-01-24,C0226,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 226,Lahore,Central
+TXN002773,2025-01-24,C0131,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 131,Islamabad,North
+TXN002788,2025-01-24,C0765,P07,4,0.1,Store,Jacket,Clothing,6500,Customer 765,Multan,Central
+TXN004602,2025-01-24,C0659,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 659,Karachi,South
+TXN005931,2025-01-24,C0722,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 722,Quetta,West
+TXN005458,2025-01-24,C0428,P05,1,0.05,Store,T-SHIRT ,Clothing,1500,Customer 428,Peshawar,North
+TXN001918,2025-01-25,C0389,P05,3,0.05,Store,T-Shirt,Clothing,1500,Customer 389,Quetta,West
+TXN003229,2025-01-25,C0604,P04,3,0.05,Store,Smart Watch,Electronics,15000,Customer 604,Karachi,South
+TXN004523,2025-01-25,C0419,P07,1,0.1,Store,Jacket,Clothing,6500,Customer 419,Lahore,Central
+TXN002468,2025-01-25,C0218,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 218,Karachi,South
+TXN003872,2025-01-25,C0621,P11,1,0.2,Online,Blender,Home Appliances,6000,Customer 621,Multan,Central
+TXN005747,2025-01-25,C0656,P02,1,0.1,Online,Laptop,Electronics,120000,Customer 656,Islamabad,North
+TXN003229,2025-01-25,C0604,P04,3,0.05,Store,Smart Watch,Electronics,15000,Customer 604,Karachi,South
+TXN004087,2025-01-26,C0002,P08,3,0.05,Online,Sneakers,Clothing,7000,Customer 2,Peshawar,North
+TXN000141,2025-01-26,C0653,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 653,Lahore,Central
+TXN005532,2025-01-26,C0522,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 522,Karachi,South
+TXN000383,2025-01-26,C0049,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 49,Peshawar,North
+TXN004266,2025-01-26,C0416,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 416,Peshawar,North
+TXN005998,2025-01-27,C0446,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 446,Islamabad,North
+TXN004056,2025-01-27,C0654,P04,1,0.05,Store,Smart Watch,Electronics,15000,Customer 654,Peshawar,North
+TXN001717,2025-01-27,C0402,P15,2,0.1,Online,Tea 900g,Grocery,1500,Customer 402,Peshawar,North
+TXN003771,2025-01-27,C0627,P11,4,0.05,Store,Blender,Home Appliances,6000,Customer 627,Multan,Central
+TXN005467,2025-01-27,C0236,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 236,Peshawar,North
+TXN004005,2025-01-27,C0500,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 500,Multan,Central
+TXN004772,2025-01-27,C0591,P04,1,0.05,Store,Smart Watch,Electronics,15000,Customer 591,Peshawar,North
+TXN000814,2025-01-28,C0533,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 533,Karachi,South
+TXN003701,2025-01-28,C0075,P09,3,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 75,Peshawar,North
+TXN003176,2025-01-28,C0152,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 152,Lahore,Central
+TXN004312,2025-01-28,C0704,P03,2,0.0,Store,HEADPHONES ,Electronics,8000,Customer 704,Lahore,Central
+TXN002808,2025-01-29,C0371,P08,1,0.1,Store,Sneakers,Clothing,7000,Customer 371,Multan,Central
+TXN005865,2025-01-29,C0215,P16,2,0.0,Store,Sugar 5kg,Grocery,700,Customer 215,Peshawar,North
+TXN003960,2025-01-29,C0664,P07,2,0.1,Store,Jacket,Clothing,6500,Customer 664,Lahore,Central
+TXN004826,2025-01-29,C0544,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 544,Lahore,Central
+TXN005934,2025-01-29,C0347,P12,4,0.2,Online,Vacuum Cleaner,Home Appliances,25000,Customer 347,Quetta,West
+TXN004557,2025-01-30,C0230,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 230,Lahore,Central
+TXN003077,2025-01-30,C0787,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 787,Karachi,South
+TXN003791,2025-01-30,C0791,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 791,Karachi,South
+TXN005648,2025-01-31,C0117,P11,3,0.0,Online,Blender,Home Appliances,6000,Customer 117,Karachi,South
+TXN003945,2025-02-01,C0659,P05,4,0.05,Online,T-Shirt,Clothing,1500,Customer 659,Karachi,South
+TXN004354,2025-02-01,C0786,P01,2,0.05,Online,Smartphone,Electronics,45000,Customer 786,Islamabad,North
+TXN001275,2025-02-01,C0657,P13,4,0.0,Store,RICE 5KG ,Grocery,1400,Customer 657,Peshawar,North
+TXN005724,2025-02-01,C0111,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 111,Lahore,Central
+TXN003693,2025-02-01,C0036,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 36,Karachi,South
+TXN000075,2025-02-02,C0355,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 355,Quetta,West
+TXN003883,2025-02-02,C0558,P04,2,0.0,Store,Smart Watch,Electronics,15000,Customer 558,Quetta,West
+TXN005060,2025-02-02,C0037,P06,4,0.0,Store,JEANS ,Clothing,3500,Customer 37,Quetta,West
+TXN004070,2025-02-02,C0586,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 586,Quetta,West
+TXN003722,2025-02-03,C0521,P06,3,0.2,Store,Jeans,Clothing,3500,Customer 521,Multan,Central
+TXN000672,2025-02-03,C0780,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 780,Quetta,West
+TXN003722,2025-02-03,C0521,P06,3,0.2,Store,Jeans,Clothing,3500,Customer 521,Multan,Central
+TXN004716,2025-02-03,,P03,2,0.1,Store,Headphones,Electronics,8000,,Peshawar,North
+TXN000066,2025-02-03,C0788,P02,3,0.05,Store,Laptop,Electronics,120000,Customer 788,Peshawar,North
+TXN005228,2025-02-03,C0501,P05,1,0.1,Online,T-Shirt,Clothing,1500,Customer 501,Karachi,South
+TXN005557,2025-02-03,C0778,P10,4,0.05,Online,Air Fryer,Home Appliances,18000,Customer 778,Karachi,South
+TXN001575,2025-02-04,C0732,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 732,Multan,Central
+TXN000933,2025-02-04,C0223,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 223,Peshawar,North
+TXN005889,2025-02-04,C0330,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 330,Islamabad,North
+TXN002421,2025-02-04,,P07,3,0.0,Store,Jacket,Clothing,6500,,Islamabad,North
+TXN005984,2025-02-04,C0501,P14,3,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 501,Karachi,South
+TXN004469,2025-02-04,C0686,P08,1,0.0,Store,Sneakers,Clothing,7000,Customer 686,Peshawar,North
+TXN001701,2025-02-04,C0220,P10,1,0.0,Online,Air Fryer,Home Appliances,18000,Customer 220,Quetta,West
+TXN000132,2025-02-05,C0635,P14,-1,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 635,Lahore,Central
+TXN001381,2025-02-05,C0382,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 382,Quetta,West
+TXN000503,2025-02-05,C0755,P10,4,0.05,Online,Air Fryer,Home Appliances,18000,Customer 755,Islamabad,North
+TXN001411,2025-02-05,C0541,P06,1,0.0,Online,Jeans,Clothing,3500,Customer 541,Peshawar,North
+TXN005588,2025-02-05,C0389,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 389,Quetta,West
+TXN001341,2025-02-06,C0616,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 616,Islamabad,North
+TXN000548,2025-02-06,C0277,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 277,Multan,Central
+TXN005624,2025-02-06,C0600,P07,1,0.05,Online,Jacket,Clothing,6500,Customer 600,Islamabad,North
+TXN002305,2025-02-06,C0189,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 189,Lahore,Central
+TXN001320,2025-02-07,C0641,P07,4,0.0,Online,Jacket,Clothing,6500,Customer 641,Peshawar,North
+TXN000795,2025-02-07,C0394,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 394,Islamabad,North
+TXN004229,2025-02-07,C0286,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 286,Quetta,West
+TXN000182,2025-02-07,C0471,P05,2,0.0,Store,T-Shirt,Clothing,1500,Customer 471,Peshawar,North
+TXN003133,2025-02-08,C0010,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 10,Karachi,South
+TXN000394,2025-02-08,C0696,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 696,Lahore,Central
+TXN003768,2025-02-09,C0303,P09,1,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 303,Karachi,South
+TXN003767,2025-02-10,C0144,P02,3,0.05,Store,Laptop,Electronics,120000,Customer 144,Multan,Central
+TXN005750,2025-02-10,C0029,P10,3,0.1,Store,Air Fryer,Home Appliances,18000,Customer 29,Islamabad,North
+TXN002042,2025-02-10,C0244,P02,1,0.05,Store,Laptop,Electronics,120000,Customer 244,Islamabad,North
+TXN002205,2025-02-10,C0618,P10,-1,0.1,Store,Air Fryer,Home Appliances,18000,Customer 618,Lahore,Central
+TXN003733,2025-02-10,C0586,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 586,Quetta,West
+TXN005022,2025-02-10,C0769,P06,4,0.05,Online,Jeans,Clothing,3500,Customer 769,Karachi,South
+TXN001355,2025-02-10,C0349,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 349,Lahore,Central
+TXN002757,2025-02-10,C0603,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 603,Peshawar,North
+TXN001974,2025-02-11,C0243,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 243,Karachi,South
+TXN000264,2025-02-11,C0014,P16,3,0.05,Store,Sugar 5kg,Grocery,700,Customer 14,Peshawar,North
+TXN002268,2025-02-11,C0386,P01,3,0.1,Store,Smartphone,Electronics,45000,Customer 386,Karachi,South
+TXN003654,2025-02-11,C0111,P12,2,0.05,Online,VACUUM CLEANER ,Home Appliances,25000,Customer 111,Lahore,Central
+TXN004407,2025-02-11,C0362,P06,4,0.05,Store,Jeans,Clothing,3500,Customer 362,Quetta,West
+TXN001907,2025-02-12,C0469,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 469,Lahore,Central
+TXN003357,2025-02-12,C0085,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 85,Islamabad,North
+TXN000241,2025-02-12,C0423,P02,4,0.0,Online,Laptop,Electronics,120000,Customer 423,Peshawar,North
+TXN000739,2025-02-12,,P05,2,0.0,Online,T-SHIRT ,Clothing,1500,,Multan,Central
+TXN004678,2025-02-12,C0732,P13,2,0.05,Store,Rice 5kg,Grocery,1400,Customer 732,Multan,Central
+TXN005407,2025-02-12,C0216,P05,2,0.0,Store,T-Shirt,Clothing,1500,Customer 216,Lahore,Central
+TXN005272,2025-02-12,C0702,P05,4,0.0,Online,T-Shirt,Clothing,1500,Customer 702,Islamabad,North
+TXN004979,2025-02-13,C0769,P09,1,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 769,Karachi,South
+TXN004663,2025-02-13,C0475,P01,4,0.1,Store,Smartphone,Electronics,45000,Customer 475,Islamabad,North
+TXN005846,2025-02-13,C0693,P03,1,0.05,Store,Headphones,Electronics,8000,Customer 693,Quetta,West
+TXN002265,2025-02-13,C0490,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 490,Islamabad,North
+TXN003895,2025-02-13,C0602,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 602,Peshawar,North
+TXN005846,2025-02-13,C0693,P03,1,0.05,Store,Headphones,Electronics,8000,Customer 693,Quetta,West
+TXN000800,2025-02-14,C0219,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 219,Multan,Central
+TXN003784,2025-02-14,C0359,P16,2,0.0,Online,Sugar 5kg,Grocery,700,Customer 359,Karachi,South
+TXN001999,2025-02-14,,P04,3,0.0,Online,Smart Watch,Electronics,15000,,Islamabad,North
+TXN002250,2025-02-14,C0587,P04,4,0.05,Online,Smart Watch,Electronics,15000,Customer 587,Peshawar,North
+TXN002020,2025-02-14,C0131,P04,2,0.0,Store,SMART WATCH ,Electronics,15000,Customer 131,Islamabad,North
+TXN004783,2025-02-15,C0094,P04,4,0.1,Online,Smart Watch,Electronics,15000,Customer 94,Multan,Central
+TXN003131,2025-02-15,C0275,P03,3,0.2,Store,Headphones,Electronics,8000,Customer 275,Multan,Central
+TXN005232,2025-02-15,C0047,P14,1,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 47,Multan,Central
+TXN000106,2025-02-15,C0001,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 1,Karachi,South
+TXN002881,2025-02-15,C0013,P15,2,0.1,Store,Tea 900g,Grocery,1500,Customer 13,Peshawar,North
+TXN000245,2025-02-15,C0674,P06,4,0.0,Store,Jeans,Clothing,3500,Customer 674,Karachi,South
+TXN004610,2025-02-15,C0430,P08,1,0.0,Store,Sneakers,Clothing,7000,Customer 430,Peshawar,North
+TXN003755,2025-02-15,C0744,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 744,Lahore,Central
+TXN005040,2025-02-15,C0235,P12,2,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 235,Multan,Central
+TXN005748,2025-02-16,C0021,P10,1,0.1,Store,Air Fryer,Home Appliances,18000,Customer 21,Islamabad,North
+TXN003412,2025-02-16,C0361,P01,1,0.05,Online,SMARTPHONE ,Electronics,45000,Customer 361,Quetta,West
+TXN005415,2025-02-16,C0002,P09,1,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 2,Peshawar,North
+TXN005156,2025-02-16,C0276,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 276,Multan,Central
+TXN000092,2025-02-16,C0270,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 270,Islamabad,North
+TXN002690,2025-02-16,C0058,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 58,Karachi,South
+TXN001094,2025-02-16,C0168,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 168,Lahore,Central
+TXN002335,2025-02-16,C0170,P11,3,0.05,Online,Blender,Home Appliances,6000,Customer 170,Karachi,South
+TXN000517,2025-02-16,C0540,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 540,Karachi,South
+TXN005426,2025-02-17,C0209,P08,3,0.1,Store,Sneakers,Clothing,7000,Customer 209,Lahore,Central
+TXN003056,2025-02-17,C0388,P08,4,0.1,Store,Sneakers,Clothing,7000,Customer 388,Peshawar,North
+TXN003775,2025-02-17,C0486,P07,4,0.1,Online,Jacket,Clothing,6500,Customer 486,Lahore,Central
+TXN005546,2025-02-17,C0314,P01,2,0.1,Online,Smartphone,Electronics,45000,Customer 314,Lahore,Central
+TXN001608,2025-02-17,C0492,P16,2,0.2,Store,Sugar 5kg,Grocery,700,Customer 492,Quetta,West
+TXN001445,2025-02-17,C0477,P05,2,0.05,Store,T-Shirt,Clothing,1500,Customer 477,Quetta,West
+TXN003719,2025-02-17,C0416,P01,1,0.1,Store,Smartphone,Electronics,45000,Customer 416,Peshawar,North
+TXN000277,2025-02-18,C0650,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 650,Quetta,West
+TXN002646,2025-02-18,C0214,P01,1,0.1,Store,Smartphone,Electronics,45000,Customer 214,Multan,Central
+TXN005075,2025-02-18,C0455,P14,4,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 455,Islamabad,North
+TXN005496,2025-02-18,C0262,P08,4,0.1,Store,Sneakers,Clothing,7000,Customer 262,Lahore,Central
+TXN000277,2025-02-18,C0650,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 650,Quetta,West
+TXN000722,2025-02-18,,P01,4,0.0,Online,Smartphone,Electronics,45000,,Karachi,South
+TXN003070,2025-02-18,C0505,P10,2,0.0,Online,Air Fryer,Home Appliances,18000,Customer 505,Lahore,Central
+TXN004481,2025-02-19,C0135,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 135,Peshawar,North
+TXN002351,2025-02-19,C0674,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 674,Karachi,South
+TXN005685,2025-02-19,C0342,P09,1,0.2,Online,Microwave Oven,Home Appliances,22000,Customer 342,Lahore,Central
+TXN002754,2025-02-19,C0345,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 345,Quetta,West
+TXN003619,2025-02-19,C0596,P05,4,0.05,Store,T-Shirt,Clothing,1500,Customer 596,Peshawar,North
+TXN000397,2025-02-20,C0249,P07,3,0.1,Online,Jacket,Clothing,6500,Customer 249,Peshawar,North
+TXN000476,2025-02-20,C0174,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 174,Peshawar,North
+TXN004453,2025-02-20,C0274,P14,2,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 274,Quetta,West
+TXN003414,2025-02-20,C0132,P05,4,0.2,Store,T-Shirt,Clothing,1500,Customer 132,Islamabad,North
+TXN004775,2025-02-20,C0778,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 778,Karachi,South
+TXN003365,2025-02-21,C0348,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 348,Quetta,West
+TXN005528,2025-02-21,C0457,P10,3,0.1,Store,Air Fryer,Home Appliances,18000,Customer 457,Karachi,South
+TXN003487,2025-02-21,C0596,P11,1,0.1,Store,Blender,Home Appliances,6000,Customer 596,Peshawar,North
+TXN001255,2025-02-21,C0559,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 559,Peshawar,North
+TXN001495,2025-02-21,C0080,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 80,Peshawar,North
+TXN001553,2025-02-21,C0277,P06,2,0.1,Store,Jeans,Clothing,3500,Customer 277,Multan,Central
+TXN003107,2025-02-22,C0703,P01,3,0.1,Online,Smartphone,Electronics,45000,Customer 703,Lahore,Central
+TXN002141,2025-02-22,C0075,P06,4,0.05,Online,Jeans,Clothing,3500,Customer 75,Peshawar,North
+TXN004209,2025-02-23,C0273,P07,4,0.0,Store,JACKET ,Clothing,6500,Customer 273,Karachi,South
+TXN004482,2025-02-23,C0314,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 314,Lahore,Central
+TXN003378,2025-02-23,C0750,P08,4,0.2,Store,Sneakers,Clothing,7000,Customer 750,Karachi,South
+TXN005158,2025-02-23,C0129,P12,2,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 129,Islamabad,North
+TXN000532,2025-02-24,C0336,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 336,Peshawar,North
+TXN005273,2025-02-24,C0370,P09,2,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 370,Peshawar,North
+TXN000875,2025-02-24,C0789,P04,2,0.05,Online,Smart Watch,Electronics,15000,Customer 789,Islamabad,North
+TXN005679,2025-02-24,C0397,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 397,Karachi,South
+TXN002181,2025-02-24,C0799,P03,4,0.05,Online,Headphones,Electronics,8000,Customer 799,Lahore,Central
+TXN003614,2025-02-25,C0042,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 42,Peshawar,North
+TXN001331,2025-02-25,,P03,3,0.05,Store,Headphones,Electronics,8000,,Multan,Central
+TXN005067,2025-02-25,C0478,P09,2,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 478,Karachi,South
+TXN005167,2025-02-25,C0490,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 490,Islamabad,North
+TXN005810,2025-02-25,C0579,P01,3,0.0,Online,Smartphone,Electronics,45000,Customer 579,Quetta,West
+TXN004064,2025-02-25,C0355,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 355,Quetta,West
+TXN002293,2025-02-26,C0565,P08,2,0.05,Online,Sneakers,Clothing,7000,Customer 565,Quetta,West
+TXN000950,2025-02-26,C0800,P04,1,0.05,Store,Smart Watch,Electronics,15000,Customer 800,Multan,Central
+TXN004899,2025-02-26,C0769,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 769,Karachi,South
+TXN001219,2025-02-26,C0194,P10,3,0.0,Online,AIR FRYER ,Home Appliances,18000,Customer 194,Multan,Central
+TXN002169,2025-02-27,C0320,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 320,Peshawar,North
+TXN004104,2025-02-27,C0460,P02,4,0.05,Store,Laptop,Electronics,120000,Customer 460,Karachi,South
+TXN005784,2025-02-27,C0743,P14,3,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 743,Islamabad,North
+TXN001103,2025-02-27,C0268,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 268,Multan,Central
+TXN001264,2025-02-27,C0285,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 285,Multan,Central
+TXN002185,2025-02-27,C0170,P05,2,0.05,Store,T-Shirt,Clothing,1500,Customer 170,Karachi,South
+TXN003586,2025-02-28,C0098,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 98,Peshawar,North
+TXN000408,2025-02-28,C0177,P03,2,0.1,Online,Headphones,Electronics,8000,Customer 177,Peshawar,North
+TXN002841,2025-02-28,C0287,P12,4,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 287,Karachi,South
+TXN005470,2025-02-28,C0264,P01,4,0.05,Store,Smartphone,Electronics,45000,Customer 264,Quetta,West
+TXN002138,2025-03-01,C0794,P13,2,0.2,Store,Rice 5kg,Grocery,1400,Customer 794,Peshawar,North
+TXN001993,2025-03-01,C0490,P08,1,0.0,Online,Sneakers,Clothing,7000,Customer 490,Islamabad,North
+TXN003621,2025-03-01,C0720,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 720,Islamabad,North
+TXN004367,2025-03-01,C0763,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 763,Quetta,West
+TXN000841,2025-03-01,C0507,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 507,Islamabad,North
+TXN002600,2025-03-01,C0621,P10,4,0.1,Online,Air Fryer,Home Appliances,18000,Customer 621,Multan,Central
+TXN002931,2025-03-01,C0729,P12,3,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 729,Multan,Central
+TXN001798,2025-03-02,C0427,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 427,Quetta,West
+TXN000319,2025-03-02,C0343,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 343,Islamabad,North
+TXN003139,2025-03-02,C0495,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 495,Lahore,Central
+TXN004704,2025-03-03,C0306,P07,1,0.2,Store,Jacket,Clothing,6500,Customer 306,Karachi,South
+TXN004146,2025-03-03,C0756,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 756,Multan,Central
+TXN003738,2025-03-03,C0734,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 734,Peshawar,North
+TXN005348,2025-03-03,C0147,P11,1,0.05,Online,Blender,Home Appliances,6000,Customer 147,Karachi,South
+TXN003890,2025-03-03,C0239,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 239,Lahore,Central
+TXN002055,2025-03-03,C0456,P09,3,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 456,Islamabad,North
+TXN000337,2025-03-04,C0453,P10,2,0.0,Online,Air Fryer,Home Appliances,18000,Customer 453,Multan,Central
+TXN001267,2025-03-04,C0169,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 169,Multan,Central
+TXN003036,2025-03-04,C0535,P01,3,0.0,Store,Smartphone,Electronics,45000,Customer 535,Islamabad,North
+TXN002059,2025-03-04,C0230,P16,4,0.0,Store,Sugar 5kg,Grocery,700,Customer 230,Lahore,Central
+TXN005951,2025-03-05,C0515,P14,1,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 515,Quetta,West
+TXN003321,2025-03-05,C0447,P02,1,0.1,Store,Laptop,Electronics,120000,Customer 447,Lahore,Central
+TXN000870,2025-03-05,C0233,P07,4,0.05,Online,Jacket,Clothing,6500,Customer 233,Karachi,South
+TXN004052,2025-03-05,C0517,P09,3,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 517,Quetta,West
+TXN000798,2025-03-05,C0333,P09,1,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 333,Lahore,Central
+TXN002915,2025-03-05,C0550,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 550,Peshawar,North
+TXN001218,2025-03-06,C0130,P01,1,0.2,Online,Smartphone,Electronics,45000,Customer 130,Islamabad,North
+TXN004335,2025-03-06,C0696,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 696,Lahore,Central
+TXN003341,2025-03-06,C0302,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 302,Peshawar,North
+TXN001079,2025-03-06,C0639,P14,2,0.05,Online,Cooking Oil 5L,Grocery,3200,Customer 639,Peshawar,North
+TXN000985,2025-03-07,C0387,P16,1,0.05,Online,Sugar 5kg,Grocery,700,Customer 387,Karachi,South
+TXN004141,2025-03-07,C0298,P05,2,0.2,Online,T-Shirt,Clothing,1500,Customer 298,Multan,Central
+TXN002247,2025-03-07,C0742,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 742,Peshawar,North
+TXN001468,2025-03-07,C0409,P07,4,0.1,Online,Jacket,Clothing,6500,Customer 409,Quetta,West
+TXN004141,2025-03-07,C0298,P05,2,0.2,Online,T-Shirt,Clothing,1500,Customer 298,Multan,Central
+TXN000985,2025-03-07,C0387,P16,1,0.05,Online,Sugar 5kg,Grocery,700,Customer 387,Karachi,South
+TXN005574,2025-03-07,C0576,P12,1,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 576,Multan,Central
+TXN003794,2025-03-08,C0794,P11,3,0.05,Online,BLENDER ,Home Appliances,6000,Customer 794,Peshawar,North
+TXN005785,2025-03-08,C0686,P13,3,0.05,Online,Rice 5kg,Grocery,1400,Customer 686,Peshawar,North
+TXN003886,2025-03-08,C0695,P11,2,0.05,Online,Blender,Home Appliances,6000,Customer 695,Karachi,South
+TXN003153,2025-03-08,C0048,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 48,Quetta,West
+TXN002554,2025-03-08,C0090,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 90,Peshawar,North
+TXN002445,2025-03-09,C0603,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 603,Peshawar,North
+TXN001891,2025-03-09,C0275,P12,4,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 275,Multan,Central
+TXN003800,2025-03-09,C0075,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 75,Peshawar,North
+TXN004494,2025-03-09,C0465,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 465,Karachi,South
+TXN002480,2025-03-10,C0177,P06,2,0.05,Online,Jeans,Clothing,3500,Customer 177,Peshawar,North
+TXN005995,2025-03-10,C0371,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 371,Multan,Central
+TXN003134,2025-03-10,C0297,P09,3,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 297,Quetta,West
+TXN003333,2025-03-10,C0786,P01,2,0.0,Store,Smartphone,Electronics,45000,Customer 786,Islamabad,North
+TXN001909,2025-03-10,C0395,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 395,Peshawar,North
+TXN001773,2025-03-10,C0724,P06,2,0.05,Store,Jeans,Clothing,3500,Customer 724,Karachi,South
+TXN004607,2025-03-10,C0768,P12,4,0.05,Store,VACUUM CLEANER ,Home Appliances,25000,Customer 768,Multan,Central
+TXN004816,2025-03-11,C0665,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 665,Islamabad,North
+TXN000233,2025-03-11,C0734,P11,4,0.2,Store,Blender,Home Appliances,6000,Customer 734,Peshawar,North
+TXN003199,2025-03-11,C0453,P11,1,0.05,Store,Blender,Home Appliances,6000,Customer 453,Multan,Central
+TXN003199,2025-03-11,C0453,P11,1,0.05,Store,Blender,Home Appliances,6000,Customer 453,Multan,Central
+TXN000924,2025-03-11,C0023,P15,3,0.2,Online,Tea 900g,Grocery,1500,Customer 23,Lahore,Central
+TXN005338,2025-03-12,C0232,P11,1,0.05,Online,Blender,Home Appliances,6000,Customer 232,Quetta,West
+TXN000418,2025-03-12,C0160,P02,4,0.1,Online,Laptop,Electronics,120000,Customer 160,Peshawar,North
+TXN002231,2025-03-13,C0184,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 184,Peshawar,North
+TXN004391,2025-03-13,C0194,P06,4,0.05,Store,Jeans,Clothing,3500,Customer 194,Multan,Central
+TXN005459,2025-03-13,C0031,P04,3,0.0,Store,Smart Watch,Electronics,15000,Customer 31,Multan,Central
+TXN003146,2025-03-13,C0254,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 254,Lahore,Central
+TXN004991,2025-03-13,C0560,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 560,Quetta,West
+TXN001287,2025-03-13,C0538,P08,2,0.0,Store,Sneakers,Clothing,7000,Customer 538,Karachi,South
+TXN000432,2025-03-14,C0556,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 556,Islamabad,North
+TXN003051,2025-03-14,C0153,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 153,Quetta,West
+TXN003158,2025-03-14,C0650,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 650,Quetta,West
+TXN000773,2025-03-14,C0156,P02,2,0.1,Online,Laptop,Electronics,120000,Customer 156,Islamabad,North
+TXN003479,2025-03-14,C0273,P06,1,0.05,Store,Jeans,Clothing,3500,Customer 273,Karachi,South
+TXN000209,2025-03-14,C0775,P15,4,0.0,Store,Tea 900g,Grocery,1500,Customer 775,Quetta,West
+TXN004132,2025-03-14,C0648,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 648,Islamabad,North
+TXN002165,2025-03-14,C0695,P01,2,0.05,Store,Smartphone,Electronics,45000,Customer 695,Karachi,South
+TXN000914,2025-03-14,C0644,P04,3,0.05,Store,Smart Watch,Electronics,15000,Customer 644,Multan,Central
+TXN002880,2025-03-14,C0125,P06,3,0.2,Store,Jeans,Clothing,3500,Customer 125,Quetta,West
+TXN001600,2025-03-15,C0082,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 82,Multan,Central
+TXN001257,2025-03-15,C0482,P11,4,0.2,Store,Blender,Home Appliances,6000,Customer 482,Peshawar,North
+TXN002741,2025-03-15,C0036,P08,1,0.0,Online,Sneakers,Clothing,7000,Customer 36,Karachi,South
+TXN005494,2025-03-15,C0619,P04,2,0.0,Online,Smart Watch,Electronics,15000,Customer 619,Karachi,South
+TXN000549,2025-03-15,C0740,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 740,Quetta,West
+TXN000086,2025-03-15,C0033,P14,3,0.05,Online,Cooking Oil 5L,Grocery,3200,Customer 33,Karachi,South
+TXN001060,2025-03-15,C0728,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 728,Karachi,South
+TXN003905,2025-03-15,,P12,4,0.1,Store,Vacuum Cleaner,Home Appliances,25000,,Multan,Central
+TXN002673,2025-03-15,C0605,P09,2,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 605,Peshawar,North
+TXN003869,2025-03-16,C0324,P03,1,0.1,Store,Headphones,Electronics,8000,Customer 324,Quetta,West
+TXN000791,2025-03-16,C0096,P04,1,0.0,Store,SMART WATCH ,Electronics,15000,Customer 96,Lahore,Central
+TXN004860,2025-03-17,C0634,P16,1,0.05,Online,Sugar 5kg,Grocery,700,Customer 634,Multan,Central
+TXN000202,2025-03-17,C0332,P15,3,0.1,Online,Tea 900g,Grocery,1500,Customer 332,Multan,Central
+TXN002588,2025-03-17,C0684,P04,1,0.0,Online,Smart Watch,Electronics,15000,Customer 684,Quetta,West
+TXN002214,2025-03-17,C0330,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 330,Islamabad,North
+TXN003291,2025-03-18,C0121,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 121,Multan,Central
+TXN001544,2025-03-18,C0566,P09,2,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 566,Lahore,Central
+TXN002429,2025-03-18,C0648,P05,3,0.0,Online,T-SHIRT ,Clothing,1500,Customer 648,Islamabad,North
+TXN005073,2025-03-18,C0017,P16,1,0.05,Store,Sugar 5kg,Grocery,700,Customer 17,Islamabad,North
+TXN002850,2025-03-18,C0330,P16,2,0.0,Store,Sugar 5kg,Grocery,700,Customer 330,Islamabad,North
+TXN003645,2025-03-18,C0700,P06,4,0.05,Store,Jeans,Clothing,3500,Customer 700,Karachi,South
+TXN005834,2025-03-18,C0426,P15,4,0.05,Store,TEA 900G ,Grocery,1500,Customer 426,Lahore,Central
+TXN002467,2025-03-19,C0427,P11,1,0.0,Online,Blender,Home Appliances,6000,Customer 427,Quetta,West
+TXN001258,2025-03-19,C0385,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 385,Karachi,South
+TXN000802,2025-03-19,C0013,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 13,Peshawar,North
+TXN000005,2025-03-19,C0353,P02,2,0.1,Online,Laptop,Electronics,120000,Customer 353,Lahore,Central
+TXN005555,2025-03-19,C0474,P01,1,0.2,Store,Smartphone,Electronics,45000,Customer 474,Multan,Central
+TXN003269,2025-03-19,C0248,P08,1,0.0,Online,Sneakers,Clothing,7000,Customer 248,Multan,Central
+TXN000482,2025-03-20,C0222,P01,3,0.05,Store,Smartphone,Electronics,45000,Customer 222,Multan,Central
+TXN000649,2025-03-20,C0578,P06,2,0.2,Online,Jeans,Clothing,3500,Customer 578,Islamabad,North
+TXN004537,2025-03-20,,P05,2,0.05,Online,T-Shirt,Clothing,1500,,Multan,Central
+TXN003507,2025-03-20,C0521,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 521,Multan,Central
+TXN004852,2025-03-20,C0127,P15,-1,0.1,Store,Tea 900g,Grocery,1500,Customer 127,Karachi,South
+TXN004572,2025-03-20,C0013,P03,4,0.2,Online,Headphones,Electronics,8000,Customer 13,Peshawar,North
+TXN003130,2025-03-21,C0189,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 189,Lahore,Central
+TXN005990,2025-03-21,C0481,P12,1,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 481,Lahore,Central
+TXN003049,2025-03-21,C0529,P02,4,0.1,Store,Laptop,Electronics,120000,Customer 529,Quetta,West
+TXN004786,2025-03-21,C0106,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 106,Peshawar,North
+TXN001061,2025-03-21,C0522,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 522,Karachi,South
+TXN003539,2025-03-21,C0706,P03,2,0.05,Online,Headphones,Electronics,8000,Customer 706,Islamabad,North
+TXN002395,2025-03-21,C0173,P09,2,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 173,Peshawar,North
+TXN000481,2025-03-21,C0517,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 517,Quetta,West
+TXN005990,2025-03-21,C0481,P12,1,0.1,Online,VACUUM CLEANER ,Home Appliances,25000,Customer 481,Lahore,Central
+TXN004652,2025-03-22,C0706,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 706,Islamabad,North
+TXN003393,2025-03-22,C0012,P08,2,0.1,Store,Sneakers,Clothing,7000,Customer 12,Quetta,West
+TXN001315,2025-03-22,C0249,P15,4,0.05,Online,Tea 900g,Grocery,1500,Customer 249,Peshawar,North
+TXN002463,2025-03-22,C0122,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 122,Peshawar,North
+TXN005244,2025-03-23,C0715,P16,2,0.1,Online,Sugar 5kg,Grocery,700,Customer 715,Quetta,West
+TXN000922,2025-03-23,,P04,1,0.0,Online,Smart Watch,Electronics,15000,,Karachi,South
+TXN004575,2025-03-23,C0514,P13,2,0.2,Store,Rice 5kg,Grocery,1400,Customer 514,Peshawar,North
+TXN001166,2025-03-23,C0465,P05,4,0.05,Store,T-Shirt,Clothing,1500,Customer 465,Karachi,South
+TXN005607,2025-03-23,C0394,P05,2,0.1,Online,T-Shirt,Clothing,1500,Customer 394,Islamabad,North
+TXN005883,2025-03-23,C0797,P14,4,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 797,Quetta,West
+TXN000594,2025-03-23,C0240,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 240,Islamabad,North
+TXN002826,2025-03-24,C0407,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 407,Multan,Central
+TXN005127,2025-03-24,C0127,P08,4,0.1,Store,Sneakers,Clothing,7000,Customer 127,Karachi,South
+TXN000236,2025-03-24,C0138,P11,2,0.05,Store,Blender,Home Appliances,6000,Customer 138,Karachi,South
+TXN001045,2025-03-24,C0140,P10,3,0.0,Online,AIR FRYER ,Home Appliances,18000,Customer 140,Multan,Central
+TXN001838,2025-03-25,C0683,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 683,Quetta,West
+TXN000713,2025-03-25,C0385,P06,4,0.0,Store,Jeans,Clothing,3500,Customer 385,Karachi,South
+TXN005165,2025-03-25,C0202,P06,3,0.05,Store,Jeans,Clothing,3500,Customer 202,Quetta,West
+TXN000942,2025-03-25,C0297,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 297,Quetta,West
+TXN000339,2025-03-25,C0180,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 180,Islamabad,North
+TXN005165,2025-03-25,C0202,P06,3,0.05,Store,Jeans,Clothing,3500,Customer 202,Quetta,West
+TXN002694,2025-03-25,C0355,P09,2,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 355,Quetta,West
+TXN001372,2025-03-26,C0739,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 739,Peshawar,North
+TXN000078,2025-03-26,C0006,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 6,Quetta,West
+TXN005091,2025-03-26,C0378,P08,2,0.05,Store,Sneakers,Clothing,7000,Customer 378,Peshawar,North
+TXN004508,2025-03-26,C0289,P02,3,0.1,Online,Laptop,Electronics,120000,Customer 289,Islamabad,North
+TXN005091,2025-03-26,C0378,P08,2,0.05,Store,Sneakers,Clothing,7000,Customer 378,Peshawar,North
+TXN002220,2025-03-26,C0258,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 258,Karachi,South
+TXN002562,2025-03-26,C0756,P16,2,0.0,Online,Sugar 5kg,Grocery,700,Customer 756,Multan,Central
+TXN004558,2025-03-27,C0604,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 604,Karachi,South
+TXN003847,2025-03-27,C0281,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 281,Lahore,Central
+TXN005377,2025-03-27,C0681,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 681,Peshawar,North
+TXN005208,2025-03-27,C0126,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 126,Islamabad,North
+TXN005171,2025-03-27,C0543,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 543,Lahore,Central
+TXN001325,2025-03-27,C0603,P02,4,0.1,Online,Laptop,Electronics,120000,Customer 603,Peshawar,North
+TXN002672,2025-03-27,C0597,P07,2,0.1,Online,Jacket,Clothing,6500,Customer 597,Islamabad,North
+TXN001603,2025-03-27,C0057,P06,4,0.05,Online,Jeans,Clothing,3500,Customer 57,Islamabad,North
+TXN002383,2025-03-28,C0698,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 698,Islamabad,North
+TXN004015,2025-03-28,C0128,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 128,Peshawar,North
+TXN004197,2025-03-28,C0183,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 183,Multan,Central
+TXN001243,2025-03-28,C0785,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 785,Multan,Central
+TXN001525,2025-03-28,C0422,P03,2,0.05,Online,Headphones,Electronics,8000,Customer 422,Peshawar,North
+TXN004326,2025-03-28,C0081,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 81,Quetta,West
+TXN002187,2025-03-29,C0597,P02,3,0.05,Online,Laptop,Electronics,120000,Customer 597,Islamabad,North
+TXN004918,2025-03-29,C0444,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 444,Multan,Central
+TXN003402,2025-03-29,C0451,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 451,Quetta,West
+TXN005632,2025-03-29,C0125,P12,1,0.2,Online,Vacuum Cleaner,Home Appliances,25000,Customer 125,Quetta,West
+TXN002228,2025-03-29,C0098,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 98,Peshawar,North
+TXN001099,2025-03-29,C0686,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 686,Peshawar,North
+TXN002452,2025-03-29,C0499,P01,3,0.05,Store,Smartphone,Electronics,45000,Customer 499,Quetta,West
+TXN003978,2025-03-30,C0365,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 365,Karachi,South
+TXN002276,2025-03-30,C0693,P14,4,0.0,Store,COOKING OIL 5L ,Grocery,3200,Customer 693,Quetta,West
+TXN001494,2025-03-30,C0025,P06,1,0.0,Store,JEANS ,Clothing,3500,Customer 25,Peshawar,North
+TXN003670,2025-03-30,C0570,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 570,Islamabad,North
+TXN005290,2025-03-31,C0423,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 423,Peshawar,North
+TXN002367,2025-03-31,C0596,P15,4,0.0,Store,TEA 900G ,Grocery,1500,Customer 596,Peshawar,North
+TXN002666,2025-03-31,C0275,P06,3,0.05,Store,Jeans,Clothing,3500,Customer 275,Multan,Central
+TXN000095,2025-03-31,C0560,P09,3,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 560,Quetta,West
+TXN001244,2025-03-31,C0155,P16,2,0.0,Online,Sugar 5kg,Grocery,700,Customer 155,Multan,Central
+TXN002566,2025-03-31,C0609,P08,4,0.05,Store,Sneakers,Clothing,7000,Customer 609,Quetta,West
+TXN002968,2025-03-31,C0273,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 273,Karachi,South
+TXN003759,2025-04-01,C0454,P13,4,0.1,Online,Rice 5kg,Grocery,1400,Customer 454,Karachi,South
+TXN001552,2025-04-01,C0445,P01,3,0.05,Store,Smartphone,Electronics,45000,Customer 445,Islamabad,North
+TXN004941,2025-04-01,C0486,P13,4,0.0,Store,Rice 5kg,Grocery,1400,Customer 486,Lahore,Central
+TXN000434,2025-04-01,C0293,P07,1,0.0,Store,JACKET ,Clothing,6500,Customer 293,Quetta,West
+TXN002657,2025-04-01,C0048,P15,2,0.1,Store,Tea 900g,Grocery,1500,Customer 48,Quetta,West
+TXN003734,2025-04-02,C0263,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 263,Lahore,Central
+TXN001299,2025-04-02,C0067,P08,1,0.0,Online,Sneakers,Clothing,7000,Customer 67,Quetta,West
+TXN004045,2025-04-02,C0612,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 612,Multan,Central
+TXN005220,2025-04-02,C0686,P01,2,0.0,Store,Smartphone,Electronics,45000,Customer 686,Peshawar,North
+TXN004346,2025-04-02,C0401,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 401,Quetta,West
+TXN002923,2025-04-02,C0100,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 100,Karachi,South
+TXN004723,2025-04-02,C0198,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 198,Karachi,South
+TXN001249,2025-04-02,C0587,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 587,Peshawar,North
+TXN001184,2025-04-02,C0339,P05,2,0.05,Online,T-Shirt,Clothing,1500,Customer 339,Lahore,Central
+TXN002253,2025-04-02,C0038,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 38,Peshawar,North
+TXN002815,2025-04-02,C0584,P12,-1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 584,Karachi,South
+TXN001562,2025-04-02,C0581,P05,4,0.0,Online,T-Shirt,Clothing,1500,Customer 581,Karachi,South
+TXN000578,2025-04-03,C0493,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 493,Peshawar,North
+TXN001548,2025-04-03,,P11,1,0.0,Online,Blender,Home Appliances,6000,,Islamabad,North
+TXN002296,2025-04-03,C0202,P01,-1,0.05,Store,Smartphone,Electronics,45000,Customer 202,Quetta,West
+TXN003515,2025-04-03,C0422,P11,1,0.2,Online,Blender,Home Appliances,6000,Customer 422,Peshawar,North
+TXN000867,2025-04-03,C0453,P13,4,0.05,Store,Rice 5kg,Grocery,1400,Customer 453,Multan,Central
+TXN004841,2025-04-04,C0404,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 404,Quetta,West
+TXN000265,2025-04-04,C0021,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 21,Islamabad,North
+TXN004799,2025-04-04,C0457,P05,2,0.0,Store,T-Shirt,Clothing,1500,Customer 457,Karachi,South
+TXN002785,2025-04-04,C0604,P14,4,0.2,Store,Cooking Oil 5L,Grocery,3200,Customer 604,Karachi,South
+TXN001703,2025-04-04,C0225,P09,1,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 225,Peshawar,North
+TXN004006,2025-04-04,C0308,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 308,Islamabad,North
+TXN005199,2025-04-04,C0286,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 286,Quetta,West
+TXN003192,2025-04-05,C0179,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 179,Quetta,West
+TXN000990,2025-04-05,C0740,P03,3,0.2,Online,Headphones,Electronics,8000,Customer 740,Quetta,West
+TXN004750,2025-04-05,C0179,P11,1,0.0,Online,Blender,Home Appliances,6000,Customer 179,Quetta,West
+TXN004408,2025-04-05,C0729,P16,4,0.0,Store,Sugar 5kg,Grocery,700,Customer 729,Multan,Central
+TXN001714,2025-04-05,C0025,P08,4,0.0,Online,Sneakers,Clothing,7000,Customer 25,Peshawar,North
+TXN001195,2025-04-05,C0678,P09,-1,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 678,Karachi,South
+TXN002769,2025-04-06,C0319,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 319,Quetta,West
+TXN003191,2025-04-06,C0255,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 255,Islamabad,North
+TXN003746,2025-04-06,C0661,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 661,Lahore,Central
+TXN002482,2025-04-06,C0161,P01,3,0.05,Online,Smartphone,Electronics,45000,Customer 161,Quetta,West
+TXN001629,2025-04-06,C0448,P09,1,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 448,Quetta,West
+TXN004080,2025-04-07,C0125,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 125,Quetta,West
+TXN001806,2025-04-07,C0798,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 798,Multan,Central
+TXN002908,2025-04-07,C0101,P08,3,0.1,Online,Sneakers,Clothing,7000,Customer 101,Peshawar,North
+TXN000298,2025-04-07,C0092,P12,3,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 92,Peshawar,North
+TXN003984,2025-04-07,C0311,P07,2,0.0,Store,Jacket,Clothing,6500,Customer 311,Islamabad,North
+TXN005794,2025-04-08,C0644,P02,4,0.0,Store,Laptop,Electronics,120000,Customer 644,Multan,Central
+TXN003265,2025-04-08,C0055,P03,3,0.0,Online,Headphones,Electronics,8000,Customer 55,Multan,Central
+TXN003804,2025-04-08,C0491,P07,4,0.05,Store,Jacket,Clothing,6500,Customer 491,Quetta,West
+TXN000273,2025-04-08,C0487,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 487,Multan,Central
+TXN003464,2025-04-08,C0141,P15,2,0.2,Online,TEA 900G ,Grocery,1500,Customer 141,Quetta,West
+TXN003537,2025-04-08,C0200,P15,1,0.1,Online,Tea 900g,Grocery,1500,Customer 200,Quetta,West
+TXN004099,2025-04-08,C0532,P06,2,0.2,Store,Jeans,Clothing,3500,Customer 532,Karachi,South
+TXN001622,2025-04-09,C0560,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 560,Quetta,West
+TXN004060,2025-04-09,C0481,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 481,Lahore,Central
+TXN001622,2025-04-09,C0560,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 560,Quetta,West
+TXN001805,2025-04-10,C0150,P02,2,0.1,Store,Laptop,Electronics,120000,Customer 150,Karachi,South
+TXN004869,2025-04-10,C0498,P14,2,0.05,Online,Cooking Oil 5L,Grocery,3200,Customer 498,Multan,Central
+TXN004307,2025-04-10,C0494,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 494,Islamabad,North
+TXN004889,2025-04-10,C0121,P06,2,0.0,Online,Jeans,Clothing,3500,Customer 121,Multan,Central
+TXN004910,2025-04-10,C0035,P09,1,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 35,Quetta,West
+TXN005219,2025-04-10,C0077,P11,1,0.1,Store,Blender,Home Appliances,6000,Customer 77,Lahore,Central
+TXN000874,2025-04-10,C0549,P01,1,0.0,Online,SMARTPHONE ,Electronics,45000,Customer 549,Islamabad,North
+TXN004887,2025-04-10,C0515,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 515,Quetta,West
+TXN002984,2025-04-11,C0225,P15,1,0.1,Online,Tea 900g,Grocery,1500,Customer 225,Peshawar,North
+TXN002900,2025-04-11,C0621,P12,3,0.2,Online,Vacuum Cleaner,Home Appliances,25000,Customer 621,Multan,Central
+TXN000501,2025-04-11,C0611,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 611,Quetta,West
+TXN003439,2025-04-11,C0326,P06,4,0.1,Store,Jeans,Clothing,3500,Customer 326,Lahore,Central
+TXN001565,2025-04-11,C0706,P07,4,0.1,Online,JACKET ,Clothing,6500,Customer 706,Islamabad,North
+TXN005563,2025-04-11,C0779,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 779,Lahore,Central
+TXN003243,2025-04-11,C0298,P10,2,0.0,Store,Air Fryer,Home Appliances,18000,Customer 298,Multan,Central
+TXN001068,2025-04-12,,P12,1,0.05,Store,Vacuum Cleaner,Home Appliances,25000,,Islamabad,North
+TXN005646,2025-04-12,C0453,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 453,Multan,Central
+TXN002546,2025-04-12,C0028,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 28,Peshawar,North
+TXN002248,2025-04-12,C0681,P03,2,0.1,Store,Headphones,Electronics,8000,Customer 681,Peshawar,North
+TXN005646,2025-04-12,C0453,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 453,Multan,Central
+TXN004484,2025-04-12,C0638,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 638,Lahore,Central
+TXN002834,2025-04-12,C0190,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 190,Lahore,Central
+TXN002333,2025-04-12,C0786,P15,4,0.0,Store,Tea 900g,Grocery,1500,Customer 786,Islamabad,North
+TXN005591,2025-04-12,C0086,P04,2,0.0,Store,Smart Watch,Electronics,15000,Customer 86,Peshawar,North
+TXN005472,2025-04-13,C0198,P12,3,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 198,Karachi,South
+TXN005602,2025-04-13,C0405,P03,4,0.05,Store,Headphones,Electronics,8000,Customer 405,Multan,Central
+TXN005408,2025-04-13,C0669,P12,3,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 669,Quetta,West
+TXN000404,2025-04-13,C0105,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 105,Peshawar,North
+TXN005370,2025-04-13,C0077,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 77,Lahore,Central
+TXN001983,2025-04-14,C0098,P04,4,0.05,Online,Smart Watch,Electronics,15000,Customer 98,Peshawar,North
+TXN005226,2025-04-14,C0009,P15,4,0.05,Store,Tea 900g,Grocery,1500,Customer 9,Lahore,Central
+TXN005435,2025-04-14,C0534,P03,2,0.05,Store,Headphones,Electronics,8000,Customer 534,Lahore,Central
+TXN004771,2025-04-14,C0073,P03,-1,0.05,Online,Headphones,Electronics,8000,Customer 73,Multan,Central
+TXN003829,2025-04-14,C0555,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 555,Quetta,West
+TXN003972,2025-04-14,C0624,P07,2,0.05,Online,Jacket,Clothing,6500,Customer 624,Multan,Central
+TXN002143,2025-04-15,C0739,P16,2,0.05,Store,Sugar 5kg,Grocery,700,Customer 739,Peshawar,North
+TXN003106,2025-04-15,C0191,P15,2,0.05,Online,Tea 900g,Grocery,1500,Customer 191,Peshawar,North
+TXN001481,2025-04-15,C0508,P10,4,0.05,Online,Air Fryer,Home Appliances,18000,Customer 508,Lahore,Central
+TXN004041,2025-04-15,C0787,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 787,Karachi,South
+TXN002312,2025-04-15,C0597,P15,4,0.05,Online,Tea 900g,Grocery,1500,Customer 597,Islamabad,North
+TXN002345,2025-04-15,C0661,P10,3,0.1,Online,Air Fryer,Home Appliances,18000,Customer 661,Lahore,Central
+TXN000334,2025-04-15,C0689,P10,1,0.1,Store,Air Fryer,Home Appliances,18000,Customer 689,Multan,Central
+TXN000475,2025-04-15,C0059,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 59,Peshawar,North
+TXN003933,2025-04-15,C0190,P14,2,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 190,Lahore,Central
+TXN005736,2025-04-15,C0641,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 641,Peshawar,North
+TXN000871,2025-04-15,C0064,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 64,Quetta,West
+TXN004519,2025-04-15,C0627,P14,2,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 627,Multan,Central
+TXN000871,2025-04-15,C0064,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 64,Quetta,West
+TXN001376,2025-04-15,C0494,P05,4,0.0,Online,T-Shirt,Clothing,1500,Customer 494,Islamabad,North
+TXN003489,2025-04-16,C0208,P13,3,0.2,Store,Rice 5kg,Grocery,1400,Customer 208,Quetta,West
+TXN003280,2025-04-16,C0611,P14,4,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 611,Quetta,West
+TXN003623,2025-04-16,C0696,P03,4,0.1,Store,Headphones,Electronics,8000,Customer 696,Lahore,Central
+TXN002043,2025-04-16,C0516,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 516,Karachi,South
+TXN003776,2025-04-16,C0444,P15,4,0.05,Online,Tea 900g,Grocery,1500,Customer 444,Multan,Central
+TXN003836,2025-04-16,C0735,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 735,Lahore,Central
+TXN003478,2025-04-17,C0182,P13,2,0.2,Online,Rice 5kg,Grocery,1400,Customer 182,Karachi,South
+TXN003253,2025-04-17,C0632,P12,3,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 632,Lahore,Central
+TXN004688,2025-04-17,C0718,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 718,Multan,Central
+TXN002782,2025-04-17,C0393,P12,4,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 393,Multan,Central
+TXN005286,2025-04-17,C0624,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 624,Multan,Central
+TXN001374,2025-04-17,,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,,Peshawar,North
+TXN001374,2025-04-17,C0432,P12,3,0.0,Store,VACUUM CLEANER ,Home Appliances,25000,Customer 432,Peshawar,North
+TXN001022,2025-04-17,C0410,P12,1,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 410,Karachi,South
+TXN001307,2025-04-18,C0393,P16,4,0.0,Store,Sugar 5kg,Grocery,700,Customer 393,Multan,Central
+TXN004046,2025-04-18,C0629,P11,3,0.05,Online,Blender,Home Appliances,6000,Customer 629,Islamabad,North
+TXN003947,2025-04-18,,P15,2,0.0,Store,Tea 900g,Grocery,1500,,Multan,Central
+TXN002387,2025-04-18,C0028,P01,4,0.1,Online,Smartphone,Electronics,45000,Customer 28,Peshawar,North
+TXN004835,2025-04-19,C0336,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 336,Peshawar,North
+TXN003549,2025-04-19,C0595,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 595,Lahore,Central
+TXN003486,2025-04-19,C0256,P05,3,0.05,Online,T-Shirt,Clothing,1500,Customer 256,Karachi,South
+TXN004898,2025-04-20,C0081,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 81,Quetta,West
+TXN002447,2025-04-20,C0738,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 738,Multan,Central
+TXN003909,2025-04-20,C0624,P09,1,0.2,Store,Microwave Oven,Home Appliances,22000,Customer 624,Multan,Central
+TXN002137,2025-04-20,C0800,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 800,Multan,Central
+TXN004382,2025-04-20,C0342,P09,2,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 342,Lahore,Central
+TXN000975,2025-04-21,C0070,P12,3,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 70,Multan,Central
+TXN000348,2025-04-21,C0357,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 357,Karachi,South
+TXN002878,2025-04-22,C0099,P12,1,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 99,Islamabad,North
+TXN001321,2025-04-22,C0389,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 389,Quetta,West
+TXN003283,2025-04-22,C0175,P01,2,0.0,Store,Smartphone,Electronics,45000,Customer 175,Peshawar,North
+TXN005233,2025-04-22,C0793,P04,2,0.0,Store,Smart Watch,Electronics,15000,Customer 793,Peshawar,North
+TXN002403,2025-04-22,C0271,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 271,Lahore,Central
+TXN002195,2025-04-23,C0020,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 20,Multan,Central
+TXN002357,2025-04-23,C0667,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 667,Islamabad,North
+TXN000111,2025-04-23,C0508,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 508,Lahore,Central
+TXN003506,2025-04-23,C0380,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 380,Lahore,Central
+TXN002122,2025-04-23,C0337,P08,4,0.0,Online,Sneakers,Clothing,7000,Customer 337,Quetta,West
+TXN002632,2025-04-23,C0156,P01,2,0.0,Store,Smartphone,Electronics,45000,Customer 156,Islamabad,North
+TXN004800,2025-04-23,C0317,P07,2,0.1,Online,Jacket,Clothing,6500,Customer 317,Peshawar,North
+TXN000261,2025-04-23,C0388,P05,2,0.2,Store,T-Shirt,Clothing,1500,Customer 388,Peshawar,North
+TXN003498,2025-04-23,C0716,P14,1,0.0,Store,COOKING OIL 5L ,Grocery,3200,Customer 716,Peshawar,North
+TXN002827,2025-04-24,C0311,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 311,Islamabad,North
+TXN004697,2025-04-24,C0329,P01,3,0.0,Store,Smartphone,Electronics,45000,Customer 329,Karachi,South
+TXN003629,2025-04-24,C0256,P04,2,0.05,Store,Smart Watch,Electronics,15000,Customer 256,Karachi,South
+TXN004247,2025-04-24,C0362,P08,3,0.05,Store,Sneakers,Clothing,7000,Customer 362,Quetta,West
+TXN003047,2025-04-24,C0458,P16,2,0.0,Online,Sugar 5kg,Grocery,700,Customer 458,Islamabad,North
+TXN001070,2025-04-25,C0398,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 398,Lahore,Central
+TXN000891,2025-04-25,C0712,P13,3,0.05,Online,Rice 5kg,Grocery,1400,Customer 712,Islamabad,North
+TXN000064,2025-04-25,C0447,P08,1,0.0,Store,Sneakers,Clothing,7000,Customer 447,Lahore,Central
+TXN003704,2025-04-25,C0050,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 50,Peshawar,North
+TXN002426,2025-04-25,C0541,P11,4,0.05,Online,Blender,Home Appliances,6000,Customer 541,Peshawar,North
+TXN000258,2025-04-25,,P09,4,0.05,Online,MICROWAVE OVEN ,Home Appliances,22000,,Quetta,West
+TXN004174,2025-04-25,C0705,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 705,Karachi,South
+TXN001775,2025-04-26,C0798,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 798,Multan,Central
+TXN005359,2025-04-26,C0086,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 86,Peshawar,North
+TXN000758,2025-04-26,C0607,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 607,Lahore,Central
+TXN004428,2025-04-26,C0522,P02,4,0.0,Online,Laptop,Electronics,120000,Customer 522,Karachi,South
+TXN001025,2025-04-26,C0651,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 651,Multan,Central
+TXN004205,2025-04-26,,P13,4,0.05,Online,RICE 5KG ,Grocery,1400,,Islamabad,North
+TXN000478,2025-04-27,C0644,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 644,Multan,Central
+TXN005212,2025-04-27,C0399,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 399,Lahore,Central
+TXN003476,2025-04-27,C0032,P01,4,0.05,Store,Smartphone,Electronics,45000,Customer 32,Lahore,Central
+TXN001412,2025-04-27,C0077,P01,2,0.05,Store,Smartphone,Electronics,45000,Customer 77,Lahore,Central
+TXN002744,2025-04-27,C0318,P02,2,0.0,Online,Laptop,Electronics,120000,Customer 318,Peshawar,North
+TXN005898,2025-04-27,C0396,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 396,Quetta,West
+TXN001647,2025-04-27,C0400,P13,4,0.2,Store,Rice 5kg,Grocery,1400,Customer 400,Lahore,Central
+TXN002587,2025-04-27,C0636,P16,3,0.1,Store,Sugar 5kg,Grocery,700,Customer 636,Peshawar,North
+TXN001862,2025-04-28,C0082,P04,2,0.05,Online,Smart Watch,Electronics,15000,Customer 82,Multan,Central
+TXN004695,2025-04-28,C0748,P13,1,0.1,Online,Rice 5kg,Grocery,1400,Customer 748,Lahore,Central
+TXN001520,2025-04-28,C0166,P03,3,0.2,Store,Headphones,Electronics,8000,Customer 166,Peshawar,North
+TXN000539,2025-04-28,C0086,P15,4,0.05,Online,Tea 900g,Grocery,1500,Customer 86,Peshawar,North
+TXN002423,2025-04-29,C0345,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 345,Quetta,West
+TXN002424,2025-04-29,C0243,P12,1,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 243,Karachi,South
+TXN005478,2025-04-30,C0147,P06,4,0.1,Store,Jeans,Clothing,3500,Customer 147,Karachi,South
+TXN005521,2025-04-30,C0122,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 122,Peshawar,North
+TXN005478,2025-04-30,C0147,P06,4,0.1,Store,Jeans,Clothing,3500,Customer 147,Karachi,South
+TXN000811,2025-04-30,C0041,P05,1,0.05,Store,T-Shirt,Clothing,1500,Customer 41,Karachi,South
+TXN000036,2025-04-30,C0630,P04,3,0.0,Store,Smart Watch,Electronics,15000,Customer 630,Multan,Central
+TXN005104,2025-04-30,C0365,P09,2,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 365,Karachi,South
+TXN003066,2025-04-30,C0631,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 631,Peshawar,North
+TXN004115,2025-05-01,C0015,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 15,Peshawar,North
+TXN001114,2025-05-01,C0792,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 792,Multan,Central
+TXN002201,2025-05-01,C0357,P02,1,0.05,Store,Laptop,Electronics,120000,Customer 357,Karachi,South
+TXN000015,2025-05-01,C0296,P02,3,0.05,Online,Laptop,Electronics,120000,Customer 296,Islamabad,North
+TXN000442,2025-05-01,C0498,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 498,Multan,Central
+TXN000669,2025-05-01,C0724,P08,1,0.0,Store,Sneakers,Clothing,7000,Customer 724,Karachi,South
+TXN001296,2025-05-02,C0213,P06,2,0.0,Online,Jeans,Clothing,3500,Customer 213,Peshawar,North
+TXN005041,2025-05-02,C0427,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 427,Quetta,West
+TXN000931,2025-05-02,C0444,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 444,Multan,Central
+TXN001649,2025-05-02,C0660,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 660,Lahore,Central
+TXN000641,2025-05-03,C0133,P14,1,0.2,Store,Cooking Oil 5L,Grocery,3200,Customer 133,Karachi,South
+TXN002680,2025-05-03,C0511,P08,2,0.0,Store,Sneakers,Clothing,7000,Customer 511,Quetta,West
+TXN002058,2025-05-03,C0190,P10,2,0.0,Store,Air Fryer,Home Appliances,18000,Customer 190,Lahore,Central
+TXN000513,2025-05-03,C0402,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 402,Peshawar,North
+TXN001803,2025-05-04,C0201,P13,1,0.1,Store,Rice 5kg,Grocery,1400,Customer 201,Multan,Central
+TXN004385,2025-05-04,C0222,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 222,Multan,Central
+TXN004219,2025-05-04,C0128,P09,3,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 128,Peshawar,North
+TXN000698,2025-05-04,C0248,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 248,Multan,Central
+TXN002629,2025-05-04,C0352,P04,2,0.05,Store,Smart Watch,Electronics,15000,Customer 352,Karachi,South
+TXN004274,2025-05-05,C0239,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 239,Lahore,Central
+TXN002550,2025-05-05,C0529,P08,-1,0.0,Online,Sneakers,Clothing,7000,Customer 529,Quetta,West
+TXN000006,2025-05-05,C0419,P01,3,0.05,Store,Smartphone,Electronics,45000,Customer 419,Lahore,Central
+TXN002765,2025-05-05,C0739,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 739,Peshawar,North
+TXN005368,2025-05-05,C0067,P04,3,0.0,Online,Smart Watch,Electronics,15000,Customer 67,Quetta,West
+TXN003425,2025-05-06,C0601,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 601,Islamabad,North
+TXN002188,2025-05-06,C0086,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 86,Peshawar,North
+TXN002274,2025-05-06,C0533,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 533,Karachi,South
+TXN000412,2025-05-06,,P02,4,0.05,Store,Laptop,Electronics,120000,,Multan,Central
+TXN005517,2025-05-07,C0215,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 215,Peshawar,North
+TXN004692,2025-05-07,C0055,P07,-1,0.1,Online,Jacket,Clothing,6500,Customer 55,Multan,Central
+TXN000926,2025-05-07,C0541,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 541,Peshawar,North
+TXN003272,2025-05-07,C0159,P14,4,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 159,Islamabad,North
+TXN004153,2025-05-07,C0738,P09,4,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 738,Multan,Central
+TXN005308,2025-05-07,C0181,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 181,Quetta,West
+TXN002526,2025-05-07,C0364,P11,4,0.05,Store,Blender,Home Appliances,6000,Customer 364,Quetta,West
+TXN000118,2025-05-08,C0017,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 17,Islamabad,North
+TXN004555,2025-05-08,C0791,P04,1,0.05,Store,Smart Watch,Electronics,15000,Customer 791,Karachi,South
+TXN004571,2025-05-08,C0666,P12,2,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 666,Peshawar,North
+TXN000616,2025-05-08,C0537,P09,4,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 537,Multan,Central
+TXN003562,2025-05-09,C0527,P05,1,0.0,Store,T-SHIRT ,Clothing,1500,Customer 527,Quetta,West
+TXN003167,2025-05-09,C0640,P07,3,0.05,Store,Jacket,Clothing,6500,Customer 640,Quetta,West
+TXN004654,2025-05-09,C0521,P16,2,0.0,Store,Sugar 5kg,Grocery,700,Customer 521,Multan,Central
+TXN005827,2025-05-10,C0710,P15,1,0.0,Online,Tea 900g,Grocery,1500,Customer 710,Multan,Central
+TXN000155,2025-05-10,C0344,P05,4,0.1,Store,T-Shirt,Clothing,1500,Customer 344,Islamabad,North
+TXN005071,2025-05-11,C0183,P08,2,0.2,Online,Sneakers,Clothing,7000,Customer 183,Multan,Central
+TXN002582,2025-05-11,C0378,P01,4,0.05,Store,Smartphone,Electronics,45000,Customer 378,Peshawar,North
+TXN003813,2025-05-11,C0031,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 31,Multan,Central
+TXN004882,2025-05-11,C0302,P03,4,0.1,Online,Headphones,Electronics,8000,Customer 302,Peshawar,North
+TXN001848,2025-05-11,C0048,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 48,Quetta,West
+TXN004417,2025-05-11,C0441,P11,4,0.1,Online,Blender,Home Appliances,6000,Customer 441,Quetta,West
+TXN005687,2025-05-11,C0134,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 134,Islamabad,North
+TXN002523,2025-05-11,C0658,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 658,Islamabad,North
+TXN004763,2025-05-12,C0690,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 690,Peshawar,North
+TXN001209,2025-05-12,C0242,P01,3,0.0,Online,Smartphone,Electronics,45000,Customer 242,Islamabad,North
+TXN001484,2025-05-12,C0424,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 424,Islamabad,North
+TXN002622,2025-05-12,C0635,P07,4,0.1,Store,Jacket,Clothing,6500,Customer 635,Lahore,Central
+TXN000190,2025-05-12,C0104,P14,1,0.05,Online,Cooking Oil 5L,Grocery,3200,Customer 104,Karachi,South
+TXN000630,2025-05-12,C0682,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 682,Karachi,South
+TXN003284,2025-05-12,C0121,P07,2,0.1,Store,Jacket,Clothing,6500,Customer 121,Multan,Central
+TXN002255,2025-05-12,C0774,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 774,Peshawar,North
+TXN001484,2025-05-12,C0424,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 424,Islamabad,North
+TXN005651,2025-05-13,C0523,P16,3,0.1,Online,Sugar 5kg,Grocery,700,Customer 523,Lahore,Central
+TXN003325,2025-05-13,C0726,P03,1,0.1,Online,Headphones,Electronics,8000,Customer 726,Karachi,South
+TXN005299,2025-05-14,C0349,P11,3,0.05,Store,Blender,Home Appliances,6000,Customer 349,Lahore,Central
+TXN003115,2025-05-14,C0417,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 417,Quetta,West
+TXN005262,2025-05-14,C0295,P06,1,0.0,Store,JEANS ,Clothing,3500,Customer 295,Islamabad,North
+TXN001925,2025-05-15,C0745,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 745,Peshawar,North
+TXN001436,2025-05-15,C0693,P12,3,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 693,Quetta,West
+TXN005182,2025-05-15,C0087,P15,4,0.2,Online,Tea 900g,Grocery,1500,Customer 87,Karachi,South
+TXN005447,2025-05-15,C0142,P16,3,0.1,Online,Sugar 5kg,Grocery,700,Customer 142,Lahore,Central
+TXN005626,2025-05-15,C0306,P03,3,0.1,Online,Headphones,Electronics,8000,Customer 306,Karachi,South
+TXN004108,2025-05-15,C0140,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 140,Multan,Central
+TXN000661,2025-05-15,C0436,P11,3,0.0,Online,Blender,Home Appliances,6000,Customer 436,Karachi,South
+TXN002009,2025-05-16,C0619,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 619,Karachi,South
+TXN002330,2025-05-16,C0129,P05,-1,0.0,Store,T-Shirt,Clothing,1500,Customer 129,Islamabad,North
+TXN005839,2025-05-16,C0514,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 514,Peshawar,North
+TXN001871,2025-05-17,C0544,P15,3,0.1,Store,Tea 900g,Grocery,1500,Customer 544,Lahore,Central
+TXN004004,2025-05-17,C0161,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 161,Quetta,West
+TXN000614,2025-05-17,C0266,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 266,Islamabad,North
+TXN002001,2025-05-18,C0545,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 545,Peshawar,North
+TXN002354,2025-05-18,C0658,P15,4,0.1,Store,Tea 900g,Grocery,1500,Customer 658,Islamabad,North
+TXN000817,2025-05-19,C0494,P11,1,0.1,Store,Blender,Home Appliances,6000,Customer 494,Islamabad,North
+TXN000333,2025-05-19,C0629,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 629,Islamabad,North
+TXN003716,2025-05-19,C0339,P04,2,0.0,Online,Smart Watch,Electronics,15000,Customer 339,Lahore,Central
+TXN003299,2025-05-19,C0512,P08,3,0.05,Store,Sneakers,Clothing,7000,Customer 512,Peshawar,North
+TXN001186,2025-05-19,C0065,P15,2,0.2,Store,Tea 900g,Grocery,1500,Customer 65,Multan,Central
+TXN000454,2025-05-19,C0709,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 709,Multan,Central
+TXN001180,2025-05-19,C0798,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 798,Multan,Central
+TXN002596,2025-05-20,C0383,P14,3,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 383,Quetta,West
+TXN001747,2025-05-20,C0562,P15,2,0.0,Store,TEA 900G ,Grocery,1500,Customer 562,Karachi,South
+TXN001902,2025-05-20,C0147,P01,2,0.05,Store,Smartphone,Electronics,45000,Customer 147,Karachi,South
+TXN002032,2025-05-21,C0621,P14,4,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 621,Multan,Central
+TXN005894,2025-05-21,C0764,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 764,Quetta,West
+TXN000884,2025-05-21,C0515,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 515,Quetta,West
+TXN003912,2025-05-21,C0743,P13,1,0.05,Store,Rice 5kg,Grocery,1400,Customer 743,Islamabad,North
+TXN002683,2025-05-21,C0015,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 15,Peshawar,North
+TXN005109,2025-05-21,C0423,P11,2,0.05,Store,Blender,Home Appliances,6000,Customer 423,Peshawar,North
+TXN002032,2025-05-21,C0621,P14,4,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 621,Multan,Central
+TXN002496,2025-05-21,C0173,P07,4,0.1,Store,Jacket,Clothing,6500,Customer 173,Peshawar,North
+TXN002099,2025-05-22,C0587,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 587,Peshawar,North
+TXN002593,2025-05-22,C0336,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 336,Peshawar,North
+TXN001457,2025-05-22,C0449,P14,3,0.1,Store,COOKING OIL 5L ,Grocery,3200,Customer 449,Islamabad,North
+TXN002099,2025-05-22,C0587,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 587,Peshawar,North
+TXN002764,2025-05-22,C0799,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 799,Lahore,Central
+TXN000936,2025-05-23,C0206,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 206,Lahore,Central
+TXN004817,2025-05-23,C0294,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 294,Lahore,Central
+TXN005122,2025-05-23,C0012,P04,2,0.0,Store,Smart Watch,Electronics,15000,Customer 12,Quetta,West
+TXN001205,2025-05-23,C0757,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 757,Peshawar,North
+TXN004712,2025-05-23,C0488,P04,3,0.05,Online,Smart Watch,Electronics,15000,Customer 488,Islamabad,North
+TXN001406,2025-05-23,C0448,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 448,Quetta,West
+TXN005845,2025-05-23,C0590,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 590,Quetta,West
+TXN001757,2025-05-24,C0718,P09,2,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 718,Multan,Central
+TXN004109,2025-05-24,C0766,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 766,Peshawar,North
+TXN003471,2025-05-24,C0779,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 779,Lahore,Central
+TXN004496,2025-05-24,C0066,P04,2,0.05,Online,Smart Watch,Electronics,15000,Customer 66,Lahore,Central
+TXN005096,2025-05-24,C0534,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 534,Lahore,Central
+TXN002585,2025-05-24,C0340,P09,1,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 340,Quetta,West
+TXN002952,2025-05-24,C0444,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 444,Multan,Central
+TXN002585,2025-05-24,C0340,P09,1,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 340,Quetta,West
+TXN002681,2025-05-24,C0472,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 472,Peshawar,North
+TXN000212,2025-05-25,C0454,P01,3,0.0,Store,Smartphone,Electronics,45000,Customer 454,Karachi,South
+TXN005379,2025-05-25,C0028,P12,3,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 28,Peshawar,North
+TXN003667,2025-05-25,C0263,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 263,Lahore,Central
+TXN004673,2025-05-25,C0727,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 727,Peshawar,North
+TXN003508,2025-05-25,C0174,P15,4,0.0,Store,Tea 900g,Grocery,1500,Customer 174,Peshawar,North
+TXN002771,2025-05-25,C0761,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 761,Lahore,Central
+TXN000778,2025-05-25,C0280,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 280,Karachi,South
+TXN004744,2025-05-25,C0701,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 701,Islamabad,North
+TXN001767,2025-05-26,C0626,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 626,Lahore,Central
+TXN002102,2025-05-26,C0674,P04,2,0.1,Online,Smart Watch,Electronics,15000,Customer 674,Karachi,South
+TXN004562,2025-05-26,C0695,P03,2,0.05,Online,Headphones,Electronics,8000,Customer 695,Karachi,South
+TXN001767,2025-05-26,C0626,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 626,Lahore,Central
+TXN003725,2025-05-26,C0321,P13,2,0.05,Store,Rice 5kg,Grocery,1400,Customer 321,Lahore,Central
+TXN000484,2025-05-26,C0025,P14,1,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 25,Peshawar,North
+TXN002183,2025-05-27,C0694,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 694,Quetta,West
+TXN000052,2025-05-27,C0423,P01,4,0.1,Store,Smartphone,Electronics,45000,Customer 423,Peshawar,North
+TXN001735,2025-05-27,C0399,P06,1,0.05,Store,Jeans,Clothing,3500,Customer 399,Lahore,Central
+TXN005848,2025-05-27,C0088,P11,2,0.0,Store,Blender,Home Appliances,6000,Customer 88,Lahore,Central
+TXN004593,2025-05-27,C0141,P04,4,0.05,Store,Smart Watch,Electronics,15000,Customer 141,Quetta,West
+TXN004621,2025-05-27,C0435,P10,1,0.05,Store,Air Fryer,Home Appliances,18000,Customer 435,Multan,Central
+TXN000060,2025-05-27,C0658,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 658,Islamabad,North
+TXN004175,2025-05-27,C0656,P13,4,0.1,Store,Rice 5kg,Grocery,1400,Customer 656,Islamabad,North
+TXN001697,2025-05-27,C0782,P14,4,0.05,Store,COOKING OIL 5L ,Grocery,3200,Customer 782,Islamabad,North
+TXN004355,2025-05-27,C0478,P11,4,0.05,Online,Blender,Home Appliances,6000,Customer 478,Karachi,South
+TXN000287,2025-05-27,C0358,P12,2,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 358,Quetta,West
+TXN001496,2025-05-27,C0553,P13,1,0.05,Store,Rice 5kg,Grocery,1400,Customer 553,Peshawar,North
+TXN001496,2025-05-27,C0553,P13,1,0.05,Store,Rice 5kg,Grocery,1400,Customer 553,Peshawar,North
+TXN003205,2025-05-27,C0210,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 210,Peshawar,North
+TXN004176,2025-05-28,C0115,P02,4,0.0,Store,Laptop,Electronics,120000,Customer 115,Islamabad,North
+TXN005696,2025-05-28,C0771,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 771,Islamabad,North
+TXN005445,2025-05-28,C0106,P13,2,0.05,Online,Rice 5kg,Grocery,1400,Customer 106,Peshawar,North
+TXN005323,2025-05-28,C0704,P09,1,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 704,Lahore,Central
+TXN001771,2025-05-28,C0747,P03,2,0.1,Store,Headphones,Electronics,8000,Customer 747,Islamabad,North
+TXN002500,2025-05-28,C0371,P12,1,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 371,Multan,Central
+TXN002257,2025-05-28,C0672,P12,1,0.2,Store,Vacuum Cleaner,Home Appliances,25000,Customer 672,Islamabad,North
+TXN000460,2025-05-28,C0152,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 152,Lahore,Central
+TXN005539,2025-05-28,C0008,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 8,Peshawar,North
+TXN002237,2025-05-28,C0494,P15,2,0.05,Online,Tea 900g,Grocery,1500,Customer 494,Islamabad,North
+TXN003509,2025-05-29,C0082,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 82,Multan,Central
+TXN003018,2025-05-29,C0546,P09,4,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 546,Karachi,South
+TXN003509,2025-05-29,C0082,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 82,Multan,Central
+TXN000399,2025-05-29,C0191,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 191,Peshawar,North
+TXN005712,2025-05-30,C0736,P04,4,0.1,Online,Smart Watch,Electronics,15000,Customer 736,Peshawar,North
+TXN004415,2025-05-30,C0381,P01,1,0.1,Store,Smartphone,Electronics,45000,Customer 381,Karachi,South
+TXN000949,2025-05-31,C0466,P03,3,0.05,Store,Headphones,Electronics,8000,Customer 466,Quetta,West
+TXN001293,2025-05-31,C0529,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 529,Quetta,West
+TXN001745,2025-05-31,C0102,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 102,Lahore,Central
+TXN003003,2025-05-31,C0507,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 507,Islamabad,North
+TXN004532,2025-06-01,C0557,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 557,Peshawar,North
+TXN004010,2025-06-01,C0443,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 443,Karachi,South
+TXN003953,2025-06-01,C0239,P04,1,0.0,Online,Smart Watch,Electronics,15000,Customer 239,Lahore,Central
+TXN005823,2025-06-01,,P11,4,0.0,Store,Blender,Home Appliances,6000,,Islamabad,North
+TXN001732,2025-06-01,C0410,P01,2,0.2,Store,Smartphone,Electronics,45000,Customer 410,Karachi,South
+TXN002913,2025-06-02,C0416,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 416,Peshawar,North
+TXN005877,2025-06-02,C0369,P01,3,0.0,Store,Smartphone,Electronics,45000,Customer 369,Karachi,South
+TXN004279,2025-06-02,C0595,P03,3,0.1,Store,Headphones,Electronics,8000,Customer 595,Lahore,Central
+TXN003488,2025-06-02,C0744,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 744,Lahore,Central
+TXN005507,2025-06-02,C0748,P04,2,0.05,Store,Smart Watch,Electronics,15000,Customer 748,Lahore,Central
+TXN003406,2025-06-02,C0019,P12,3,0.1,Store,VACUUM CLEANER ,Home Appliances,25000,Customer 19,Quetta,West
+TXN004644,2025-06-03,C0052,P08,3,0.0,Store,SNEAKERS ,Clothing,7000,Customer 52,Lahore,Central
+TXN002135,2025-06-03,C0289,P01,4,0.1,Online,Smartphone,Electronics,45000,Customer 289,Islamabad,North
+TXN004245,2025-06-03,,P12,4,0.05,Store,Vacuum Cleaner,Home Appliances,25000,,Peshawar,North
+TXN000534,2025-06-03,C0169,P13,4,0.05,Store,Rice 5kg,Grocery,1400,Customer 169,Multan,Central
+TXN004789,2025-06-03,C0719,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 719,Lahore,Central
+TXN005652,2025-06-03,C0091,P14,1,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 91,Multan,Central
+TXN002969,2025-06-03,C0561,P02,2,0.0,Online,Laptop,Electronics,120000,Customer 561,Islamabad,North
+TXN003033,2025-06-04,C0299,P12,4,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 299,Lahore,Central
+TXN000201,2025-06-04,C0721,P11,2,0.05,Store,Blender,Home Appliances,6000,Customer 721,Karachi,South
+TXN001948,2025-06-04,C0133,P14,1,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 133,Karachi,South
+TXN000037,2025-06-04,C0573,P02,3,0.0,Online,LAPTOP ,Electronics,120000,Customer 573,Lahore,Central
+TXN000419,2025-06-05,C0202,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 202,Quetta,West
+TXN002446,2025-06-05,C0511,P02,4,0.0,Store,Laptop,Electronics,120000,Customer 511,Quetta,West
+TXN001361,2025-06-05,C0134,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 134,Islamabad,North
+TXN005715,2025-06-05,C0661,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 661,Lahore,Central
+TXN003068,2025-06-06,C0201,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 201,Multan,Central
+TXN003254,2025-06-06,C0348,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 348,Quetta,West
+TXN002708,2025-06-07,C0387,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 387,Karachi,South
+TXN001884,2025-06-07,C0100,P05,4,0.05,Online,T-Shirt,Clothing,1500,Customer 100,Karachi,South
+TXN005644,2025-06-07,C0173,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 173,Peshawar,North
+TXN005437,2025-06-07,C0427,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 427,Quetta,West
+TXN002708,2025-06-07,C0387,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 387,Karachi,South
+TXN004608,2025-06-08,C0607,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 607,Lahore,Central
+TXN002398,2025-06-08,C0266,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 266,Islamabad,North
+TXN002210,2025-06-08,C0105,P09,-1,0.2,Store,Microwave Oven,Home Appliances,22000,Customer 105,Peshawar,North
+TXN004858,2025-06-08,C0421,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 421,Quetta,West
+TXN005605,2025-06-08,C0248,P12,2,0.1,Online,VACUUM CLEANER ,Home Appliances,25000,Customer 248,Multan,Central
+TXN000774,2025-06-09,C0769,P08,1,0.0,Online,Sneakers,Clothing,7000,Customer 769,Karachi,South
+TXN000085,2025-06-09,C0038,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 38,Peshawar,North
+TXN001359,2025-06-09,C0746,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 746,Multan,Central
+TXN004506,2025-06-10,C0473,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 473,Multan,Central
+TXN002408,2025-06-10,C0522,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 522,Karachi,South
+TXN002601,2025-06-10,C0383,P16,1,0.0,Online,SUGAR 5KG ,Grocery,700,Customer 383,Quetta,West
+TXN000626,2025-06-11,C0794,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 794,Peshawar,North
+TXN002278,2025-06-11,C0114,P03,3,0.05,Store,Headphones,Electronics,8000,Customer 114,Multan,Central
+TXN005086,2025-06-11,C0119,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 119,Lahore,Central
+TXN004906,2025-06-11,C0019,P03,2,0.1,Store,Headphones,Electronics,8000,Customer 19,Quetta,West
+TXN005565,2025-06-11,C0311,P10,3,0.0,Store,AIR FRYER ,Home Appliances,18000,Customer 311,Islamabad,North
+TXN005346,2025-06-12,C0011,P11,2,0.05,Store,Blender,Home Appliances,6000,Customer 11,Islamabad,North
+TXN004170,2025-06-12,C0708,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 708,Islamabad,North
+TXN001396,2025-06-12,C0498,P06,4,0.05,Online,Jeans,Clothing,3500,Customer 498,Multan,Central
+TXN003592,2025-06-12,C0780,P09,3,0.2,Online,Microwave Oven,Home Appliances,22000,Customer 780,Quetta,West
+TXN004739,2025-06-12,C0667,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 667,Islamabad,North
+TXN004321,2025-06-12,C0208,P15,2,0.0,Online,TEA 900G ,Grocery,1500,Customer 208,Quetta,West
+TXN001043,2025-06-13,C0692,P03,3,0.0,Online,Headphones,Electronics,8000,Customer 692,Peshawar,North
+TXN001165,2025-06-13,C0043,P10,2,0.05,Online,Air Fryer,Home Appliances,18000,Customer 43,Peshawar,North
+TXN000735,2025-06-13,C0179,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 179,Quetta,West
+TXN003574,2025-06-14,C0019,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 19,Quetta,West
+TXN004556,2025-06-14,C0463,P11,4,0.0,Store,Blender,Home Appliances,6000,Customer 463,Peshawar,North
+TXN005637,2025-06-14,C0302,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 302,Peshawar,North
+TXN002655,2025-06-14,C0201,P06,1,0.1,Online,Jeans,Clothing,3500,Customer 201,Multan,Central
+TXN003574,2025-06-14,C0019,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 19,Quetta,West
+TXN002073,2025-06-14,C0644,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 644,Multan,Central
+TXN004389,2025-06-14,C0731,P04,3,0.05,Store,Smart Watch,Electronics,15000,Customer 731,Peshawar,North
+TXN001164,2025-06-15,C0353,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 353,Lahore,Central
+TXN001716,2025-06-16,C0373,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 373,Multan,Central
+TXN000049,2025-06-16,C0277,P05,2,0.1,Online,T-Shirt,Clothing,1500,Customer 277,Multan,Central
+TXN005752,2025-06-16,C0582,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 582,Quetta,West
+TXN004424,2025-06-16,C0569,P12,3,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 569,Islamabad,North
+TXN005152,2025-06-16,C0177,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 177,Peshawar,North
+TXN005369,2025-06-16,C0754,P15,4,0.0,Online,Tea 900g,Grocery,1500,Customer 754,Quetta,West
+TXN000067,2025-06-16,C0359,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 359,Karachi,South
+TXN004198,2025-06-16,C0019,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 19,Quetta,West
+TXN001538,2025-06-16,C0430,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 430,Peshawar,North
+TXN004594,2025-06-16,C0100,P03,3,0.05,Online,Headphones,Electronics,8000,Customer 100,Karachi,South
+TXN002282,2025-06-17,C0039,P16,4,0.05,Store,Sugar 5kg,Grocery,700,Customer 39,Lahore,Central
+TXN002564,2025-06-17,C0038,P11,4,0.2,Online,Blender,Home Appliances,6000,Customer 38,Peshawar,North
+TXN005184,2025-06-18,C0551,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 551,Peshawar,North
+TXN005884,2025-06-18,C0725,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 725,Peshawar,North
+TXN001488,2025-06-18,C0307,P02,1,0.1,Store,Laptop,Electronics,120000,Customer 307,Lahore,Central
+TXN000431,2025-06-18,C0460,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 460,Karachi,South
+TXN000225,2025-06-18,C0100,P13,1,0.1,Online,Rice 5kg,Grocery,1400,Customer 100,Karachi,South
+TXN005033,2025-06-19,C0517,P12,-1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 517,Quetta,West
+TXN002184,2025-06-19,C0681,P16,2,0.05,Online,Sugar 5kg,Grocery,700,Customer 681,Peshawar,North
+TXN000464,2025-06-19,,P01,4,0.0,Store,Smartphone,Electronics,45000,,Karachi,South
+TXN002369,2025-06-19,C0540,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 540,Karachi,South
+TXN002145,2025-06-19,C0016,P06,1,0.0,Online,Jeans,Clothing,3500,Customer 16,Peshawar,North
+TXN004478,2025-06-20,C0039,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 39,Lahore,Central
+TXN001526,2025-06-20,C0689,P10,2,0.0,Store,Air Fryer,Home Appliances,18000,Customer 689,Multan,Central
+TXN001572,2025-06-20,C0646,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 646,Lahore,Central
+TXN004438,2025-06-20,C0485,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 485,Multan,Central
+TXN001534,2025-06-20,C0016,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 16,Peshawar,North
+TXN000787,2025-06-20,C0662,P11,4,0.0,Store,Blender,Home Appliances,6000,Customer 662,Peshawar,North
+TXN003837,2025-06-21,C0029,P12,1,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 29,Islamabad,North
+TXN003090,2025-06-21,C0426,P10,4,0.1,Store,Air Fryer,Home Appliances,18000,Customer 426,Lahore,Central
+TXN003443,2025-06-21,C0448,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 448,Quetta,West
+TXN003556,2025-06-21,C0004,P10,3,0.1,Store,Air Fryer,Home Appliances,18000,Customer 4,Multan,Central
+TXN003423,2025-06-22,C0339,P11,3,0.0,Online,Blender,Home Appliances,6000,Customer 339,Lahore,Central
+TXN001123,2025-06-22,C0423,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 423,Peshawar,North
+TXN005305,2025-06-22,C0044,P01,1,0.1,Online,Smartphone,Electronics,45000,Customer 44,Multan,Central
+TXN001123,2025-06-22,C0423,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 423,Peshawar,North
+TXN005193,2025-06-22,C0612,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 612,Multan,Central
+TXN004868,2025-06-23,C0523,P10,-1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 523,Lahore,Central
+TXN005567,2025-06-23,C0494,P12,1,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 494,Islamabad,North
+TXN002721,2025-06-23,C0258,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 258,Karachi,South
+TXN004483,2025-06-23,C0100,P09,3,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 100,Karachi,South
+TXN000803,2025-06-23,C0219,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 219,Multan,Central
+TXN001187,2025-06-24,C0673,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 673,Islamabad,North
+TXN001810,2025-06-24,C0010,P09,4,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 10,Karachi,South
+TXN005490,2025-06-24,C0490,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 490,Islamabad,North
+TXN001624,2025-06-24,C0286,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 286,Quetta,West
+TXN001281,2025-06-24,C0717,P02,4,0.0,Online,Laptop,Electronics,120000,Customer 717,Islamabad,North
+TXN002740,2025-06-24,C0568,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 568,Lahore,Central
+TXN004348,2025-06-24,C0691,P07,4,0.1,Store,Jacket,Clothing,6500,Customer 691,Quetta,West
+TXN003866,2025-06-24,C0198,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 198,Karachi,South
+TXN000240,2025-06-24,C0613,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 613,Peshawar,North
+TXN003823,2025-06-24,C0796,P05,-1,0.0,Online,T-Shirt,Clothing,1500,Customer 796,Lahore,Central
+TXN004627,2025-06-24,C0771,P02,3,0.1,Online,Laptop,Electronics,120000,Customer 771,Islamabad,North
+TXN002723,2025-06-25,C0691,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 691,Quetta,West
+TXN004062,2025-06-25,C0286,P01,1,0.1,Store,Smartphone,Electronics,45000,Customer 286,Quetta,West
+TXN004134,2025-06-25,C0637,P07,2,0.1,Online,Jacket,Clothing,6500,Customer 637,Lahore,Central
+TXN003935,2025-06-25,C0312,P05,1,0.05,Store,T-Shirt,Clothing,1500,Customer 312,Peshawar,North
+TXN004208,2025-06-26,C0501,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 501,Karachi,South
+TXN001606,2025-06-26,C0085,P01,2,0.1,Online,Smartphone,Electronics,45000,Customer 85,Islamabad,North
+TXN004258,2025-06-26,C0764,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 764,Quetta,West
+TXN001171,2025-06-26,C0175,P16,4,0.0,Store,Sugar 5kg,Grocery,700,Customer 175,Peshawar,North
+TXN005893,2025-06-26,C0774,P01,4,0.1,Online,Smartphone,Electronics,45000,Customer 774,Peshawar,North
+TXN005202,2025-06-26,C0365,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 365,Karachi,South
+TXN004491,2025-06-26,C0658,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 658,Islamabad,North
+TXN002022,2025-06-27,C0298,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 298,Multan,Central
+TXN005163,2025-06-27,C0108,P14,1,0.1,Online,Cooking Oil 5L,Grocery,3200,Customer 108,Islamabad,North
+TXN002267,2025-06-27,C0686,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 686,Peshawar,North
+TXN001655,2025-06-27,C0711,P04,3,0.0,Store,Smart Watch,Electronics,15000,Customer 711,Peshawar,North
+TXN002640,2025-06-27,C0119,P08,3,0.1,Online,Sneakers,Clothing,7000,Customer 119,Lahore,Central
+TXN002830,2025-06-27,C0343,P09,1,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 343,Islamabad,North
+TXN004857,2025-06-28,C0276,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 276,Multan,Central
+TXN003922,2025-06-28,C0516,P03,4,0.05,Online,Headphones,Electronics,8000,Customer 516,Karachi,South
+TXN004287,2025-06-28,C0348,P16,3,0.2,Store,Sugar 5kg,Grocery,700,Customer 348,Quetta,West
+TXN004287,2025-06-28,C0348,P16,3,0.2,Store,Sugar 5kg,Grocery,700,Customer 348,Quetta,West
+TXN001486,2025-06-30,C0027,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 27,Multan,Central
+TXN002940,2025-06-30,C0509,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 509,Lahore,Central
+TXN002825,2025-06-30,C0692,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 692,Peshawar,North
+TXN001446,2025-06-30,C0710,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 710,Multan,Central
+TXN003861,2025-06-30,C0468,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 468,Islamabad,North
+TXN002581,2025-06-30,C0005,P01,3,0.0,Store,Smartphone,Electronics,45000,Customer 5,Multan,Central
+TXN002327,2025-06-30,C0701,P01,3,0.0,Online,Smartphone,Electronics,45000,Customer 701,Islamabad,North
+TXN002940,2025-06-30,C0509,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 509,Lahore,Central
+TXN003875,2025-06-30,C0577,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 577,Quetta,West
+TXN005083,2025-07-01,C0502,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 502,Islamabad,North
+TXN004465,2025-07-01,C0779,P07,1,0.1,Online,Jacket,Clothing,6500,Customer 779,Lahore,Central
+TXN002390,2025-07-02,C0170,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 170,Karachi,South
+TXN001133,2025-07-02,C0339,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 339,Lahore,Central
+TXN001133,2025-07-02,C0339,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 339,Lahore,Central
+TXN003273,2025-07-02,C0294,P13,2,0.05,Online,Rice 5kg,Grocery,1400,Customer 294,Lahore,Central
+TXN003739,2025-07-02,C0113,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 113,Islamabad,North
+TXN002390,2025-07-02,C0170,P10,4,0.0,Online,AIR FRYER ,Home Appliances,18000,Customer 170,Karachi,South
+TXN004931,2025-07-03,C0464,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 464,Multan,Central
+TXN001065,2025-07-03,C0189,P16,2,0.05,Online,Sugar 5kg,Grocery,700,Customer 189,Lahore,Central
+TXN002063,2025-07-03,C0644,P10,4,0.05,Store,Air Fryer,Home Appliances,18000,Customer 644,Multan,Central
+TXN002430,2025-07-03,C0259,P07,3,0.1,Store,Jacket,Clothing,6500,Customer 259,Lahore,Central
+TXN001990,2025-07-03,C0288,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 288,Islamabad,North
+TXN003896,2025-07-03,C0599,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 599,Islamabad,North
+TXN000297,2025-07-03,C0130,P01,2,0.05,Online,Smartphone,Electronics,45000,Customer 130,Islamabad,North
+TXN003683,2025-07-04,C0779,P01,4,0.05,Store,Smartphone,Electronics,45000,Customer 779,Lahore,Central
+TXN002251,2025-07-04,C0025,P02,2,0.0,Online,Laptop,Electronics,120000,Customer 25,Peshawar,North
+TXN000280,2025-07-04,C0243,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 243,Karachi,South
+TXN004403,2025-07-04,C0329,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 329,Karachi,South
+TXN000850,2025-07-04,C0579,P10,2,0.0,Online,AIR FRYER ,Home Appliances,18000,Customer 579,Quetta,West
+TXN004364,2025-07-04,C0308,P06,4,0.0,Store,Jeans,Clothing,3500,Customer 308,Islamabad,North
+TXN005641,2025-07-04,C0325,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 325,Quetta,West
+TXN004173,2025-07-04,C0620,P09,1,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 620,Karachi,South
+TXN004782,2025-07-04,C0656,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 656,Islamabad,North
+TXN000216,2025-07-05,C0648,P01,1,0.05,Online,Smartphone,Electronics,45000,Customer 648,Islamabad,North
+TXN004706,2025-07-05,C0608,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 608,Islamabad,North
+TXN000016,2025-07-05,,P04,1,0.2,Store,Smart Watch,Electronics,15000,,Quetta,West
+TXN004232,2025-07-05,C0785,P09,2,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 785,Multan,Central
+TXN002707,2025-07-05,C0156,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 156,Islamabad,North
+TXN002348,2025-07-05,C0292,P06,2,0.0,Online,Jeans,Clothing,3500,Customer 292,Lahore,Central
+TXN004143,2025-07-05,C0517,P04,3,0.0,Store,Smart Watch,Electronics,15000,Customer 517,Quetta,West
+TXN004047,2025-07-06,C0023,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 23,Lahore,Central
+TXN004091,2025-07-06,C0381,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 381,Karachi,South
+TXN005135,2025-07-06,C0110,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 110,Peshawar,North
+TXN000068,2025-07-06,C0199,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 199,Multan,Central
+TXN001904,2025-07-06,C0055,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 55,Multan,Central
+TXN001984,2025-07-06,C0609,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 609,Quetta,West
+TXN003566,2025-07-06,C0003,P09,3,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 3,Islamabad,North
+TXN000286,2025-07-07,C0709,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 709,Multan,Central
+TXN000859,2025-07-07,C0509,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 509,Lahore,Central
+TXN001408,2025-07-07,C0245,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 245,Islamabad,North
+TXN000286,2025-07-07,C0709,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 709,Multan,Central
+TXN005771,2025-07-07,C0156,P04,1,0.05,Online,Smart Watch,Electronics,15000,Customer 156,Islamabad,North
+TXN001169,2025-07-07,C0008,P16,4,0.0,Store,Sugar 5kg,Grocery,700,Customer 8,Peshawar,North
+TXN000163,2025-07-08,C0273,P02,3,0.05,Online,Laptop,Electronics,120000,Customer 273,Karachi,South
+TXN001651,2025-07-08,C0454,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 454,Karachi,South
+TXN001161,2025-07-08,C0298,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 298,Multan,Central
+TXN005729,2025-07-08,C0577,P07,2,0.2,Online,Jacket,Clothing,6500,Customer 577,Quetta,West
+TXN004522,2025-07-09,C0335,P05,4,0.05,Online,T-Shirt,Clothing,1500,Customer 335,Multan,Central
+TXN002431,2025-07-09,C0442,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 442,Lahore,Central
+TXN001657,2025-07-09,C0771,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 771,Islamabad,North
+TXN000325,2025-07-09,C0061,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 61,Quetta,West
+TXN000224,2025-07-10,C0566,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 566,Lahore,Central
+TXN004738,2025-07-10,C0282,P10,1,0.0,Online,Air Fryer,Home Appliances,18000,Customer 282,Multan,Central
+TXN000700,2025-07-10,C0161,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 161,Quetta,West
+TXN002659,2025-07-10,C0620,P06,1,0.1,Store,JEANS ,Clothing,3500,Customer 620,Karachi,South
+TXN003748,2025-07-11,C0688,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 688,Islamabad,North
+TXN002772,2025-07-11,C0695,P16,4,0.05,Store,Sugar 5kg,Grocery,700,Customer 695,Karachi,South
+TXN003841,2025-07-11,C0396,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 396,Quetta,West
+TXN003202,2025-07-11,C0175,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 175,Peshawar,North
+TXN003308,2025-07-11,C0097,P12,2,0.2,Store,Vacuum Cleaner,Home Appliances,25000,Customer 97,Lahore,Central
+TXN002026,2025-07-11,C0594,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 594,Quetta,West
+TXN004933,2025-07-11,C0297,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 297,Quetta,West
+TXN001368,2025-07-12,C0248,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 248,Multan,Central
+TXN004653,2025-07-12,C0616,P14,3,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 616,Islamabad,North
+TXN000293,2025-07-12,C0338,P16,2,0.1,Store,Sugar 5kg,Grocery,700,Customer 338,Lahore,Central
+TXN000326,2025-07-12,C0724,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 724,Karachi,South
+TXN005317,2025-07-12,C0190,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 190,Lahore,Central
+TXN005474,2025-07-12,C0766,P08,2,0.05,Online,Sneakers,Clothing,7000,Customer 766,Peshawar,North
+TXN003985,2025-07-13,C0661,P06,4,0.0,Store,Jeans,Clothing,3500,Customer 661,Lahore,Central
+TXN000344,2025-07-13,C0113,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 113,Islamabad,North
+TXN003480,2025-07-13,C0675,P06,1,0.05,Store,Jeans,Clothing,3500,Customer 675,Islamabad,North
+TXN004684,2025-07-13,C0513,P11,2,0.1,Online,Blender,Home Appliances,6000,Customer 513,Quetta,West
+TXN001639,2025-07-13,C0205,P04,1,0.1,Online,Smart Watch,Electronics,15000,Customer 205,Multan,Central
+TXN004119,2025-07-13,C0108,P12,3,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 108,Islamabad,North
+TXN000799,2025-07-14,C0013,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 13,Peshawar,North
+TXN002829,2025-07-14,C0528,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 528,Karachi,South
+TXN004211,2025-07-14,C0424,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 424,Islamabad,North
+TXN001044,2025-07-15,C0694,P13,3,0.1,Store,Rice 5kg,Grocery,1400,Customer 694,Quetta,West
+TXN004057,2025-07-15,C0518,P10,2,0.05,Online,Air Fryer,Home Appliances,18000,Customer 518,Karachi,South
+TXN001084,2025-07-15,C0149,P08,1,0.0,Store,Sneakers,Clothing,7000,Customer 149,Peshawar,North
+TXN003198,2025-07-15,C0283,P04,3,0.0,Online,Smart Watch,Electronics,15000,Customer 283,Peshawar,North
+TXN000065,2025-07-15,C0722,P06,4,0.1,Store,Jeans,Clothing,3500,Customer 722,Quetta,West
+TXN001236,2025-07-15,C0363,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 363,Lahore,Central
+TXN004500,2025-07-15,C0147,P11,4,0.0,Store,Blender,Home Appliances,6000,Customer 147,Karachi,South
+TXN005852,2025-07-16,C0148,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 148,Lahore,Central
+TXN004790,2025-07-16,C0618,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 618,Lahore,Central
+TXN001349,2025-07-16,C0078,P04,3,0.0,Online,Smart Watch,Electronics,15000,Customer 78,Lahore,Central
+TXN003257,2025-07-16,C0585,P06,2,0.0,Online,Jeans,Clothing,3500,Customer 585,Multan,Central
+TXN005852,2025-07-16,C0148,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 148,Lahore,Central
+TXN001821,2025-07-16,C0021,P04,1,0.0,Online,Smart Watch,Electronics,15000,Customer 21,Islamabad,North
+TXN002516,2025-07-16,C0086,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 86,Peshawar,North
+TXN000857,2025-07-16,C0643,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 643,Quetta,West
+TXN005611,2025-07-17,C0675,P13,1,0.05,Store,Rice 5kg,Grocery,1400,Customer 675,Islamabad,North
+TXN002534,2025-07-17,C0649,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 649,Quetta,West
+TXN003962,2025-07-17,C0176,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 176,Multan,Central
+TXN001063,2025-07-17,C0633,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 633,Multan,Central
+TXN000363,2025-07-17,C0501,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 501,Karachi,South
+TXN002356,2025-07-17,C0064,P01,2,0.1,Online,Smartphone,Electronics,45000,Customer 64,Quetta,West
+TXN005856,2025-07-18,C0464,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 464,Multan,Central
+TXN003136,2025-07-18,C0255,P14,4,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 255,Islamabad,North
+TXN003006,2025-07-18,C0144,P16,2,0.1,Online,Sugar 5kg,Grocery,700,Customer 144,Multan,Central
+TXN003981,2025-07-19,C0171,P02,4,0.2,Online,Laptop,Electronics,120000,Customer 171,Karachi,South
+TXN002119,2025-07-19,C0564,P06,4,0.0,Store,Jeans,Clothing,3500,Customer 564,Lahore,Central
+TXN002910,2025-07-19,C0070,P05,4,0.0,Online,T-Shirt,Clothing,1500,Customer 70,Multan,Central
+TXN003118,2025-07-19,C0289,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 289,Islamabad,North
+TXN000056,2025-07-19,C0703,P07,2,0.1,Store,Jacket,Clothing,6500,Customer 703,Lahore,Central
+TXN000207,2025-07-19,C0489,P09,1,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 489,Peshawar,North
+TXN005255,2025-07-19,C0582,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 582,Quetta,West
+TXN000748,2025-07-19,C0655,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 655,Islamabad,North
+TXN002532,2025-07-20,C0327,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 327,Lahore,Central
+TXN001519,2025-07-20,C0185,P03,4,0.0,Online,Headphones,Electronics,8000,Customer 185,Multan,Central
+TXN000082,2025-07-20,C0212,P08,3,0.05,Online,Sneakers,Clothing,7000,Customer 212,Peshawar,North
+TXN004097,2025-07-20,C0589,P05,2,0.05,Online,T-Shirt,Clothing,1500,Customer 589,Quetta,West
+TXN003527,2025-07-20,C0695,P05,4,0.1,Online,T-Shirt,Clothing,1500,Customer 695,Karachi,South
+TXN000358,2025-07-20,C0597,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 597,Islamabad,North
+TXN004795,2025-07-20,C0485,P10,1,0.0,Online,Air Fryer,Home Appliances,18000,Customer 485,Multan,Central
+TXN002978,2025-07-20,C0316,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 316,Islamabad,North
+TXN005386,2025-07-20,C0494,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 494,Islamabad,North
+TXN003675,2025-07-20,C0317,P06,1,0.05,Store,Jeans,Clothing,3500,Customer 317,Peshawar,North
+TXN001855,2025-07-20,C0015,P07,2,0.1,Online,Jacket,Clothing,6500,Customer 15,Peshawar,North
+TXN004039,2025-07-20,C0036,P01,2,0.0,Online,SMARTPHONE ,Electronics,45000,Customer 36,Karachi,South
+TXN000350,2025-07-21,C0258,P07,1,0.0,Online,JACKET ,Clothing,6500,Customer 258,Karachi,South
+TXN001096,2025-07-21,C0073,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 73,Multan,Central
+TXN001873,2025-07-21,C0207,P04,3,0.1,Online,Smart Watch,Electronics,15000,Customer 207,Peshawar,North
+TXN003166,2025-07-21,C0249,P15,1,0.1,Store,Tea 900g,Grocery,1500,Customer 249,Peshawar,North
+TXN005993,2025-07-21,C0369,P06,1,0.0,Online,Jeans,Clothing,3500,Customer 369,Karachi,South
+TXN001056,2025-07-21,C0663,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 663,Karachi,South
+TXN003519,2025-07-21,C0063,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 63,Multan,Central
+TXN000665,2025-07-21,C0359,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 359,Karachi,South
+TXN004601,2025-07-21,C0277,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 277,Multan,Central
+TXN003384,2025-07-22,C0608,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 608,Islamabad,North
+TXN001840,2025-07-22,C0318,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 318,Peshawar,North
+TXN005515,2025-07-22,C0410,P03,1,0.0,Online,Headphones,Electronics,8000,Customer 410,Karachi,South
+TXN000510,2025-07-22,C0255,P09,4,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 255,Islamabad,North
+TXN005631,2025-07-22,C0221,P13,1,0.0,Store,Rice 5kg,Grocery,1400,Customer 221,Karachi,South
+TXN001712,2025-07-22,C0057,P01,2,0.0,Online,SMARTPHONE ,Electronics,45000,Customer 57,Islamabad,North
+TXN000752,2025-07-23,C0394,P07,1,0.05,Store,Jacket,Clothing,6500,Customer 394,Islamabad,North
+TXN001577,2025-07-23,C0134,P05,2,0.0,Store,T-Shirt,Clothing,1500,Customer 134,Islamabad,North
+TXN003904,2025-07-23,C0603,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 603,Peshawar,North
+TXN003904,2025-07-23,C0603,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 603,Peshawar,North
+TXN004564,2025-07-23,C0299,P10,2,0.1,Online,Air Fryer,Home Appliances,18000,Customer 299,Lahore,Central
+TXN000514,2025-07-23,C0127,P10,2,0.1,Store,Air Fryer,Home Appliances,18000,Customer 127,Karachi,South
+TXN005036,2025-07-24,C0622,P04,3,0.1,Online,Smart Watch,Electronics,15000,Customer 622,Multan,Central
+TXN004381,2025-07-24,C0330,P01,4,0.05,Online,Smartphone,Electronics,45000,Customer 330,Islamabad,North
+TXN000327,2025-07-24,C0711,P09,2,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 711,Peshawar,North
+TXN001350,2025-07-24,C0024,P13,1,0.0,Store,Rice 5kg,Grocery,1400,Customer 24,Quetta,West
+TXN003267,2025-07-24,C0626,P13,4,0.05,Store,Rice 5kg,Grocery,1400,Customer 626,Lahore,Central
+TXN000601,2025-07-24,C0597,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 597,Islamabad,North
+TXN000035,2025-07-24,C0052,P06,2,0.05,Store,Jeans,Clothing,3500,Customer 52,Lahore,Central
+TXN005197,2025-07-24,C0051,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 51,Peshawar,North
+TXN005946,2025-07-25,C0779,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 779,Lahore,Central
+TXN001872,2025-07-25,C0057,P15,4,0.1,Store,Tea 900g,Grocery,1500,Customer 57,Islamabad,North
+TXN000547,2025-07-25,C0030,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 30,Multan,Central
+TXN004171,2025-07-25,C0209,P12,4,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 209,Lahore,Central
+TXN000760,2025-07-25,C0770,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 770,Multan,Central
+TXN003348,2025-07-25,C0405,P08,2,0.05,Store,Sneakers,Clothing,7000,Customer 405,Multan,Central
+TXN002194,2025-07-26,C0384,P06,2,0.1,Store,JEANS ,Clothing,3500,Customer 384,Lahore,Central
+TXN001353,2025-07-26,C0350,P14,1,0.1,Online,Cooking Oil 5L,Grocery,3200,Customer 350,Karachi,South
+TXN002778,2025-07-26,C0110,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 110,Peshawar,North
+TXN000242,2025-07-26,C0417,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 417,Quetta,West
+TXN003512,2025-07-27,C0003,P16,1,0.05,Store,SUGAR 5KG ,Grocery,700,Customer 3,Islamabad,North
+TXN005498,2025-07-28,C0735,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 735,Lahore,Central
+TXN002539,2025-07-28,C0555,P11,3,0.05,Store,Blender,Home Appliances,6000,Customer 555,Quetta,West
+TXN003185,2025-07-28,C0214,P05,3,0.1,Online,T-Shirt,Clothing,1500,Customer 214,Multan,Central
+TXN002579,2025-07-28,C0620,P07,2,0.1,Store,Jacket,Clothing,6500,Customer 620,Karachi,South
+TXN000492,2025-07-28,,P02,2,0.1,Store,Laptop,Electronics,120000,,Peshawar,North
+TXN003651,2025-07-29,C0640,P07,2,0.05,Store,Jacket,Clothing,6500,Customer 640,Quetta,West
+TXN004356,2025-07-29,C0542,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 542,Karachi,South
+TXN000906,2025-07-29,C0294,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 294,Lahore,Central
+TXN003162,2025-07-30,C0729,P07,2,0.1,Store,Jacket,Clothing,6500,Customer 729,Multan,Central
+TXN005256,2025-07-30,C0094,P14,2,0.05,Online,Cooking Oil 5L,Grocery,3200,Customer 94,Multan,Central
+TXN003342,2025-07-30,C0236,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 236,Peshawar,North
+TXN000447,2025-07-30,C0119,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 119,Lahore,Central
+TXN002932,2025-07-30,C0093,P08,2,0.05,Online,Sneakers,Clothing,7000,Customer 93,Quetta,West
+TXN004436,2025-07-31,C0669,P11,1,0.0,Online,Blender,Home Appliances,6000,Customer 669,Quetta,West
+TXN001398,2025-07-31,C0550,P04,1,0.0,Online,Smart Watch,Electronics,15000,Customer 550,Peshawar,North
+TXN001298,2025-07-31,C0294,P09,4,0.0,Online,MICROWAVE OVEN ,Home Appliances,22000,Customer 294,Lahore,Central
+TXN003758,2025-07-31,C0143,P15,2,0.1,Online,Tea 900g,Grocery,1500,Customer 143,Lahore,Central
+TXN004863,2025-07-31,C0708,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 708,Islamabad,North
+TXN001682,2025-07-31,C0627,P10,2,0.0,Store,Air Fryer,Home Appliances,18000,Customer 627,Multan,Central
+TXN002069,2025-07-31,C0597,P15,4,0.0,Store,Tea 900g,Grocery,1500,Customer 597,Islamabad,North
+TXN004630,2025-07-31,C0084,P01,4,0.1,Online,Smartphone,Electronics,45000,Customer 84,Peshawar,North
+TXN000619,2025-07-31,C0706,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 706,Islamabad,North
+TXN003533,2025-07-31,C0402,P13,4,0.0,Store,Rice 5kg,Grocery,1400,Customer 402,Peshawar,North
+TXN004689,2025-07-31,C0290,P14,4,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 290,Multan,Central
+TXN002307,2025-07-31,C0379,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 379,Multan,Central
+TXN004630,2025-07-31,C0084,P01,4,0.1,Online,Smartphone,Electronics,45000,Customer 84,Peshawar,North
+TXN001532,2025-07-31,C0200,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 200,Quetta,West
+TXN002464,2025-08-01,C0358,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 358,Quetta,West
+TXN005921,2025-08-01,C0453,P12,1,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 453,Multan,Central
+TXN005797,2025-08-01,C0612,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 612,Multan,Central
+TXN000789,2025-08-01,C0081,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 81,Quetta,West
+TXN000935,2025-08-01,C0005,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 5,Multan,Central
+TXN003349,2025-08-02,C0479,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 479,Islamabad,North
+TXN000686,2025-08-02,C0686,P01,3,0.05,Online,Smartphone,Electronics,45000,Customer 686,Peshawar,North
+TXN002047,2025-08-02,C0192,P12,3,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 192,Islamabad,North
+TXN003894,2025-08-02,C0579,P11,3,0.05,Online,Blender,Home Appliances,6000,Customer 579,Quetta,West
+TXN004488,2025-08-02,C0301,P06,3,0.1,Online,Jeans,Clothing,3500,Customer 301,Multan,Central
+TXN002103,2025-08-03,C0456,P11,3,0.0,Online,Blender,Home Appliances,6000,Customer 456,Islamabad,North
+TXN005991,2025-08-03,C0054,P04,1,0.0,Online,Smart Watch,Electronics,15000,Customer 54,Multan,Central
+TXN000709,2025-08-03,C0505,P08,4,0.1,Store,Sneakers,Clothing,7000,Customer 505,Lahore,Central
+TXN001801,2025-08-03,C0657,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 657,Peshawar,North
+TXN000029,2025-08-03,C0379,P09,2,0.2,Store,Microwave Oven,Home Appliances,22000,Customer 379,Multan,Central
+TXN005927,2025-08-03,C0346,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 346,Lahore,Central
+TXN004387,2025-08-03,C0460,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 460,Karachi,South
+TXN000721,2025-08-04,C0121,P16,3,0.0,Online,Sugar 5kg,Grocery,700,Customer 121,Multan,Central
+TXN003073,2025-08-04,C0625,P03,4,0.05,Store,Headphones,Electronics,8000,Customer 625,Islamabad,North
+TXN005576,2025-08-04,C0211,P10,1,0.1,Online,Air Fryer,Home Appliances,18000,Customer 211,Lahore,Central
+TXN004144,2025-08-04,C0051,P13,2,0.1,Online,Rice 5kg,Grocery,1400,Customer 51,Peshawar,North
+TXN002106,2025-08-04,C0523,P07,4,0.05,Store,Jacket,Clothing,6500,Customer 523,Lahore,Central
+TXN003081,2025-08-04,C0319,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 319,Quetta,West
+TXN000480,2025-08-05,C0428,P07,2,0.0,Store,Jacket,Clothing,6500,Customer 428,Peshawar,North
+TXN000934,2025-08-05,C0452,P09,1,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 452,Quetta,West
+TXN005311,2025-08-05,C0292,P06,4,0.2,Store,Jeans,Clothing,3500,Customer 292,Lahore,Central
+TXN002656,2025-08-05,C0208,P05,3,0.1,Online,T-Shirt,Clothing,1500,Customer 208,Quetta,West
+TXN003949,2025-08-05,C0055,P05,4,0.2,Store,T-Shirt,Clothing,1500,Customer 55,Multan,Central
+TXN002670,2025-08-06,C0728,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 728,Karachi,South
+TXN005964,2025-08-06,C0698,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 698,Islamabad,North
+TXN001758,2025-08-06,C0232,P10,1,0.1,Store,Air Fryer,Home Appliances,18000,Customer 232,Quetta,West
+TXN000525,2025-08-06,C0382,P06,3,0.1,Online,Jeans,Clothing,3500,Customer 382,Quetta,West
+TXN005554,2025-08-07,C0566,P08,2,0.0,Store,Sneakers,Clothing,7000,Customer 566,Lahore,Central
+TXN002018,2025-08-07,C0701,P10,3,0.05,Store,Air Fryer,Home Appliances,18000,Customer 701,Islamabad,North
+TXN005189,2025-08-07,C0783,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 783,Karachi,South
+TXN002320,2025-08-07,C0563,P15,4,0.0,Online,Tea 900g,Grocery,1500,Customer 563,Multan,Central
+TXN002663,2025-08-07,C0323,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 323,Islamabad,North
+TXN000414,2025-08-07,C0115,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 115,Islamabad,North
+TXN004373,2025-08-07,C0167,P08,3,0.2,Online,Sneakers,Clothing,7000,Customer 167,Lahore,Central
+TXN002540,2025-08-07,C0219,P09,1,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 219,Multan,Central
+TXN004997,2025-08-08,C0359,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 359,Karachi,South
+TXN005945,2025-08-08,C0250,P02,3,0.05,Online,Laptop,Electronics,120000,Customer 250,Karachi,South
+TXN003874,2025-08-08,C0557,P14,1,0.05,Online,Cooking Oil 5L,Grocery,3200,Customer 557,Peshawar,North
+TXN005835,2025-08-08,C0281,P13,4,0.05,Online,Rice 5kg,Grocery,1400,Customer 281,Lahore,Central
+TXN000223,2025-08-09,C0483,P01,1,0.05,Online,Smartphone,Electronics,45000,Customer 483,Lahore,Central
+TXN003679,2025-08-09,C0510,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 510,Lahore,Central
+TXN005350,2025-08-09,C0649,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 649,Quetta,West
+TXN003750,2025-08-09,C0306,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 306,Karachi,South
+TXN003740,2025-08-09,C0393,P06,1,0.1,Online,Jeans,Clothing,3500,Customer 393,Multan,Central
+TXN004714,2025-08-10,C0115,P05,4,0.05,Online,T-Shirt,Clothing,1500,Customer 115,Islamabad,North
+TXN004600,2025-08-11,C0043,P02,4,0.0,Store,Laptop,Electronics,120000,Customer 43,Peshawar,North
+TXN001305,2025-08-11,C0144,P09,2,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 144,Multan,Central
+TXN005807,2025-08-11,C0484,P14,3,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 484,Peshawar,North
+TXN002079,2025-08-11,C0278,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 278,Peshawar,North
+TXN003041,2025-08-12,C0792,P10,1,0.0,Online,Air Fryer,Home Appliances,18000,Customer 792,Multan,Central
+TXN003954,2025-08-12,C0205,P12,4,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 205,Multan,Central
+TXN001956,2025-08-12,C0157,P16,2,0.05,Online,Sugar 5kg,Grocery,700,Customer 157,Karachi,South
+TXN003954,2025-08-12,C0205,P12,4,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 205,Multan,Central
+TXN001997,2025-08-12,C0267,P10,3,0.05,Online,Air Fryer,Home Appliances,18000,Customer 267,Multan,Central
+TXN004225,2025-08-12,C0070,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 70,Multan,Central
+TXN003105,2025-08-13,C0495,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 495,Lahore,Central
+TXN004319,2025-08-13,C0235,P15,4,0.05,Online,Tea 900g,Grocery,1500,Customer 235,Multan,Central
+TXN003809,2025-08-13,C0132,P13,1,0.05,Online,Rice 5kg,Grocery,1400,Customer 132,Islamabad,North
+TXN005023,2025-08-13,C0454,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 454,Karachi,South
+TXN000121,2025-08-13,C0206,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 206,Lahore,Central
+TXN003626,2025-08-13,C0771,P11,2,0.2,Online,Blender,Home Appliances,6000,Customer 771,Islamabad,North
+TXN004122,2025-08-13,C0549,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 549,Islamabad,North
+TXN004017,2025-08-13,C0605,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 605,Peshawar,North
+TXN001590,2025-08-13,C0224,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 224,Lahore,Central
+TXN002360,2025-08-13,C0061,P06,1,0.0,Online,Jeans,Clothing,3500,Customer 61,Quetta,West
+TXN005045,2025-08-14,C0112,P05,-1,0.1,Online,T-SHIRT ,Clothing,1500,Customer 112,Peshawar,North
+TXN004824,2025-08-14,C0060,P16,2,0.0,Store,Sugar 5kg,Grocery,700,Customer 60,Peshawar,North
+TXN000858,2025-08-14,C0749,P10,2,0.05,Store,Air Fryer,Home Appliances,18000,Customer 749,Lahore,Central
+TXN001910,2025-08-15,C0714,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 714,Peshawar,North
+TXN001143,2025-08-15,C0459,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 459,Quetta,West
+TXN004590,2025-08-15,C0600,P13,2,0.05,Online,Rice 5kg,Grocery,1400,Customer 600,Islamabad,North
+TXN001098,2025-08-15,C0701,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 701,Islamabad,North
+TXN000608,2025-08-15,C0548,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 548,Islamabad,North
+TXN005382,2025-08-15,C0054,P11,3,0.1,Online,Blender,Home Appliances,6000,Customer 54,Multan,Central
+TXN001586,2025-08-16,C0442,P09,2,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 442,Lahore,Central
+TXN004586,2025-08-16,C0428,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 428,Peshawar,North
+TXN005160,2025-08-16,C0533,P11,4,0.05,Online,Blender,Home Appliances,6000,Customer 533,Karachi,South
+TXN004586,2025-08-16,C0428,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 428,Peshawar,North
+TXN002618,2025-08-16,C0134,P06,3,0.1,Store,Jeans,Clothing,3500,Customer 134,Islamabad,North
+TXN000445,2025-08-16,C0583,P04,2,0.0,Online,Smart Watch,Electronics,15000,Customer 583,Karachi,South
+TXN001342,2025-08-16,C0315,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 315,Lahore,Central
+TXN005100,2025-08-16,C0522,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 522,Karachi,South
+TXN001024,2025-08-17,C0380,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 380,Lahore,Central
+TXN002558,2025-08-17,C0063,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 63,Multan,Central
+TXN005231,2025-08-17,C0575,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 575,Karachi,South
+TXN003672,2025-08-17,C0502,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 502,Islamabad,North
+TXN004442,2025-08-18,C0355,P15,4,0.0,Store,Tea 900g,Grocery,1500,Customer 355,Quetta,West
+TXN005037,2025-08-18,C0637,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 637,Lahore,Central
+TXN001878,2025-08-19,C0410,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 410,Karachi,South
+TXN004847,2025-08-19,C0092,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 92,Peshawar,North
+TXN001201,2025-08-19,C0517,P07,1,0.05,Online,Jacket,Clothing,6500,Customer 517,Quetta,West
+TXN001427,2025-08-19,C0488,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 488,Islamabad,North
+TXN000916,2025-08-19,C0351,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 351,Islamabad,North
+TXN001504,2025-08-20,C0431,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 431,Karachi,South
+TXN005698,2025-08-20,C0494,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 494,Islamabad,North
+TXN005981,2025-08-20,C0336,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 336,Peshawar,North
+TXN001093,2025-08-20,C0258,P14,3,0.1,Online,Cooking Oil 5L,Grocery,3200,Customer 258,Karachi,South
+TXN000012,2025-08-20,C0651,P12,3,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 651,Multan,Central
+TXN003530,2025-08-20,C0520,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 520,Islamabad,North
+TXN000401,2025-08-20,C0546,P09,1,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 546,Karachi,South
+TXN001852,2025-08-20,C0441,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 441,Quetta,West
+TXN004065,2025-08-20,C0649,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 649,Quetta,West
+TXN000913,2025-08-21,C0304,P13,4,0.0,Store,Rice 5kg,Grocery,1400,Customer 304,Quetta,West
+TXN003339,2025-08-22,C0193,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 193,Islamabad,North
+TXN001901,2025-08-22,C0446,P02,2,0.2,Store,Laptop,Electronics,120000,Customer 446,Islamabad,North
+TXN000834,2025-08-22,C0343,P11,1,0.05,Store,Blender,Home Appliances,6000,Customer 343,Islamabad,North
+TXN000992,2025-08-22,C0497,P02,4,0.1,Online,Laptop,Electronics,120000,Customer 497,Karachi,South
+TXN001851,2025-08-22,C0713,P09,3,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 713,Peshawar,North
+TXN004951,2025-08-22,C0089,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 89,Peshawar,North
+TXN000341,2025-08-22,C0144,P05,3,0.1,Store,T-Shirt,Clothing,1500,Customer 144,Multan,Central
+TXN004221,2025-08-22,C0364,P06,4,0.05,Store,Jeans,Clothing,3500,Customer 364,Quetta,West
+TXN000571,2025-08-22,C0609,P06,4,0.0,Online,Jeans,Clothing,3500,Customer 609,Quetta,West
+TXN005691,2025-08-23,C0404,P04,2,0.05,Online,Smart Watch,Electronics,15000,Customer 404,Quetta,West
+TXN002748,2025-08-23,C0358,P16,3,0.2,Online,Sugar 5kg,Grocery,700,Customer 358,Quetta,West
+TXN002779,2025-08-23,C0110,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 110,Peshawar,North
+TXN002781,2025-08-23,C0364,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 364,Quetta,West
+TXN004492,2025-08-23,C0183,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 183,Multan,Central
+TXN004710,2025-08-23,C0069,P03,3,0.0,Online,Headphones,Electronics,8000,Customer 69,Karachi,South
+TXN005068,2025-08-23,C0200,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 200,Quetta,West
+TXN002439,2025-08-24,C0515,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 515,Quetta,West
+TXN005328,2025-08-24,C0322,P13,4,0.2,Online,Rice 5kg,Grocery,1400,Customer 322,Karachi,South
+TXN005897,2025-08-24,C0402,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 402,Peshawar,North
+TXN002246,2025-08-24,C0619,P08,1,0.1,Online,Sneakers,Clothing,7000,Customer 619,Karachi,South
+TXN004983,2025-08-25,C0679,P02,1,0.1,Online,Laptop,Electronics,120000,Customer 679,Islamabad,North
+TXN004190,2025-08-25,C0689,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 689,Multan,Central
+TXN002628,2025-08-25,C0721,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 721,Karachi,South
+TXN001015,2025-08-25,C0368,P14,4,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 368,Lahore,Central
+TXN005876,2025-08-25,C0270,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 270,Islamabad,North
+TXN000104,2025-08-26,,P05,2,0.1,Online,T-Shirt,Clothing,1500,,Quetta,West
+TXN001957,2025-08-26,C0581,P07,4,0.0,Online,Jacket,Clothing,6500,Customer 581,Karachi,South
+TXN001440,2025-08-26,C0387,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 387,Karachi,South
+TXN002674,2025-08-27,C0546,P12,2,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 546,Karachi,South
+TXN003212,2025-08-27,C0352,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 352,Karachi,South
+TXN004893,2025-08-28,C0564,P11,4,0.2,Store,Blender,Home Appliances,6000,Customer 564,Lahore,Central
+TXN003928,2025-08-28,C0721,P06,2,0.05,Store,Jeans,Clothing,3500,Customer 721,Karachi,South
+TXN005302,2025-08-28,C0346,P02,3,0.2,Online,Laptop,Electronics,120000,Customer 346,Lahore,Central
+TXN004422,2025-08-28,C0038,P03,1,0.2,Store,Headphones,Electronics,8000,Customer 38,Peshawar,North
+TXN000524,2025-08-28,C0727,P15,4,0.0,Online,Tea 900g,Grocery,1500,Customer 727,Peshawar,North
+TXN003913,2025-08-28,C0503,P02,4,0.1,Store,Laptop,Electronics,120000,Customer 503,Quetta,West
+TXN000204,2025-08-28,C0457,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 457,Karachi,South
+TXN001291,2025-08-29,C0419,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 419,Lahore,Central
+TXN005857,2025-08-29,C0210,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 210,Peshawar,North
+TXN004291,2025-08-29,C0463,P09,4,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 463,Peshawar,North
+TXN000952,2025-08-29,C0330,P09,2,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 330,Islamabad,North
+TXN004746,2025-08-29,C0195,P11,2,0.1,Online,Blender,Home Appliances,6000,Customer 195,Quetta,West
+TXN000575,2025-08-29,C0297,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 297,Quetta,West
+TXN003901,2025-08-30,C0382,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 382,Quetta,West
+TXN001112,2025-08-30,C0475,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 475,Islamabad,North
+TXN002706,2025-08-30,C0292,P15,3,0.05,Online,TEA 900G ,Grocery,1500,Customer 292,Lahore,Central
+TXN004466,2025-08-30,C0337,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 337,Quetta,West
+TXN001698,2025-08-30,C0157,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 157,Karachi,South
+TXN003774,2025-08-30,C0628,P07,4,0.0,Online,Jacket,Clothing,6500,Customer 628,Multan,Central
+TXN003917,2025-08-31,C0522,P07,2,0.05,Store,Jacket,Clothing,6500,Customer 522,Karachi,South
+TXN003669,2025-08-31,C0609,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 609,Quetta,West
+TXN005224,2025-08-31,C0563,P11,1,0.05,Store,Blender,Home Appliances,6000,Customer 563,Multan,Central
+TXN002362,2025-09-01,C0543,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 543,Lahore,Central
+TXN001652,2025-09-01,C0699,P02,3,0.1,Store,Laptop,Electronics,120000,Customer 699,Karachi,South
+TXN000892,2025-09-01,C0407,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 407,Multan,Central
+TXN000806,2025-09-01,C0250,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 250,Karachi,South
+TXN002326,2025-09-01,C0220,P02,4,0.05,Store,Laptop,Electronics,120000,Customer 220,Quetta,West
+TXN005901,2025-09-01,C0730,P02,3,0.05,Store,Laptop,Electronics,120000,Customer 730,Islamabad,North
+TXN004943,2025-09-02,C0447,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 447,Lahore,Central
+TXN004943,2025-09-02,C0447,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 447,Lahore,Central
+TXN000589,2025-09-02,C0191,P06,4,0.05,Store,Jeans,Clothing,3500,Customer 191,Peshawar,North
+TXN002995,2025-09-03,C0790,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 790,Karachi,South
+TXN004063,2025-09-03,C0010,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 10,Karachi,South
+TXN004008,2025-09-04,C0118,P14,1,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 118,Karachi,South
+TXN001242,2025-09-04,C0178,P16,1,0.05,Online,Sugar 5kg,Grocery,700,Customer 178,Karachi,South
+TXN004660,2025-09-04,C0239,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 239,Lahore,Central
+TXN001500,2025-09-04,C0333,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 333,Lahore,Central
+TXN005942,2025-09-04,C0705,P15,4,0.05,Online,TEA 900G ,Grocery,1500,Customer 705,Karachi,South
+TXN004384,2025-09-04,C0633,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 633,Multan,Central
+TXN004614,2025-09-04,C0724,P03,3,0.05,Store,HEADPHONES ,Electronics,8000,Customer 724,Karachi,South
+TXN003020,2025-09-04,C0174,P06,4,0.0,Store,Jeans,Clothing,3500,Customer 174,Peshawar,North
+TXN001671,2025-09-04,C0447,P10,3,0.05,Online,Air Fryer,Home Appliances,18000,Customer 447,Lahore,Central
+TXN003534,2025-09-05,C0294,P12,1,0.2,Online,VACUUM CLEANER ,Home Appliances,25000,Customer 294,Lahore,Central
+TXN005905,2025-09-06,C0082,P12,1,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 82,Multan,Central
+TXN001261,2025-09-06,C0312,P13,3,0.05,Online,Rice 5kg,Grocery,1400,Customer 312,Peshawar,North
+TXN003606,2025-09-06,C0137,P05,3,0.2,Store,T-Shirt,Clothing,1500,Customer 137,Islamabad,North
+TXN002230,2025-09-06,C0092,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 92,Peshawar,North
+TXN001646,2025-09-06,C0268,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 268,Multan,Central
+TXN003482,2025-09-07,C0498,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 498,Multan,Central
+TXN004534,2025-09-07,C0206,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 206,Lahore,Central
+TXN000504,2025-09-07,C0169,P16,4,0.2,Store,Sugar 5kg,Grocery,700,Customer 169,Multan,Central
+TXN002178,2025-09-08,,P03,4,0.0,Store,Headphones,Electronics,8000,,Multan,Central
+TXN000757,2025-09-08,C0648,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 648,Islamabad,North
+TXN001078,2025-09-08,C0399,P02,4,0.05,Store,Laptop,Electronics,120000,Customer 399,Lahore,Central
+TXN003031,2025-09-09,C0052,P13,1,0.05,Store,Rice 5kg,Grocery,1400,Customer 52,Lahore,Central
+TXN003765,2025-09-09,C0776,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 776,Quetta,West
+TXN000832,2025-09-09,C0313,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 313,Karachi,South
+TXN002443,2025-09-09,C0519,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 519,Multan,Central
+TXN002443,2025-09-09,C0519,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 519,Multan,Central
+TXN000028,2025-09-09,,P16,4,0.1,Store,Sugar 5kg,Grocery,700,,Multan,Central
+TXN000584,2025-09-09,C0481,P01,1,0.05,Online,Smartphone,Electronics,45000,Customer 481,Lahore,Central
+TXN003633,2025-09-10,C0195,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 195,Quetta,West
+TXN005281,2025-09-10,C0324,P15,2,0.1,Store,Tea 900g,Grocery,1500,Customer 324,Quetta,West
+TXN003820,2025-09-10,C0226,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 226,Lahore,Central
+TXN000671,2025-09-10,C0584,P10,3,0.05,Store,Air Fryer,Home Appliances,18000,Customer 584,Karachi,South
+TXN005682,2025-09-10,C0513,P05,3,0.05,Store,T-Shirt,Clothing,1500,Customer 513,Quetta,West
+TXN003650,2025-09-10,C0385,P05,1,0.05,Store,T-Shirt,Clothing,1500,Customer 385,Karachi,South
+TXN002038,2025-09-11,C0002,P08,1,0.05,Store,Sneakers,Clothing,7000,Customer 2,Peshawar,North
+TXN004661,2025-09-11,C0122,P02,2,0.2,Online,Laptop,Electronics,120000,Customer 122,Peshawar,North
+TXN004133,2025-09-11,C0115,P01,4,0.1,Store,Smartphone,Electronics,45000,Customer 115,Islamabad,North
+TXN003797,2025-09-11,C0254,P16,4,0.0,Store,SUGAR 5KG ,Grocery,700,Customer 254,Lahore,Central
+TXN003390,2025-09-12,C0796,P01,1,0.05,Store,Smartphone,Electronics,45000,Customer 796,Lahore,Central
+TXN004050,2025-09-12,C0746,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 746,Multan,Central
+TXN004449,2025-09-13,C0742,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 742,Peshawar,North
+TXN005464,2025-09-13,C0513,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 513,Quetta,West
+TXN002309,2025-09-13,C0276,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 276,Multan,Central
+TXN004181,2025-09-13,C0401,P06,4,0.05,Online,Jeans,Clothing,3500,Customer 401,Quetta,West
+TXN001026,2025-09-14,C0693,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 693,Quetta,West
+TXN005391,2025-09-14,C0581,P14,1,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 581,Karachi,South
+TXN004440,2025-09-14,C0055,P12,1,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 55,Multan,Central
+TXN001978,2025-09-15,C0577,P01,1,0.05,Store,Smartphone,Electronics,45000,Customer 577,Quetta,West
+TXN000515,2025-09-15,,P13,2,0.0,Store,Rice 5kg,Grocery,1400,,Islamabad,North
+TXN004256,2025-09-15,C0159,P12,3,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 159,Islamabad,North
+TXN000628,2025-09-15,C0604,P11,4,0.0,Online,Blender,Home Appliances,6000,Customer 604,Karachi,South
+TXN002139,2025-09-15,C0717,P05,3,0.2,Store,T-Shirt,Clothing,1500,Customer 717,Islamabad,North
+TXN005879,2025-09-15,C0468,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 468,Islamabad,North
+TXN002718,2025-09-15,C0053,P06,4,0.1,Online,JEANS ,Clothing,3500,Customer 53,Multan,Central
+TXN000237,2025-09-15,C0057,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 57,Islamabad,North
+TXN003281,2025-09-16,C0104,P10,2,0.05,Online,Air Fryer,Home Appliances,18000,Customer 104,Karachi,South
+TXN004819,2025-09-16,C0271,P15,4,0.0,Store,Tea 900g,Grocery,1500,Customer 271,Lahore,Central
+TXN000932,2025-09-16,C0260,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 260,Islamabad,North
+TXN003026,2025-09-16,C0310,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 310,Karachi,South
+TXN002189,2025-09-16,C0005,P01,4,0.05,Online,Smartphone,Electronics,45000,Customer 5,Multan,Central
+TXN000932,2025-09-16,C0260,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 260,Islamabad,North
+TXN000406,2025-09-16,C0401,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 401,Quetta,West
+TXN003110,2025-09-18,C0183,P14,4,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 183,Multan,Central
+TXN002904,2025-09-18,C0586,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 586,Quetta,West
+TXN002950,2025-09-19,C0416,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 416,Peshawar,North
+TXN001487,2025-09-19,C0043,P07,4,0.2,Online,Jacket,Clothing,6500,Customer 43,Peshawar,North
+TXN005352,2025-09-19,C0419,P03,4,0.0,Online,Headphones,Electronics,8000,Customer 419,Lahore,Central
+TXN003407,2025-09-19,C0702,P01,4,0.1,Online,Smartphone,Electronics,45000,Customer 702,Islamabad,North
+TXN004713,2025-09-19,C0180,P04,2,0.0,Store,Smart Watch,Electronics,15000,Customer 180,Islamabad,North
+TXN001268,2025-09-20,C0437,P02,1,0.1,Online,Laptop,Electronics,120000,Customer 437,Islamabad,North
+TXN002498,2025-09-20,C0249,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 249,Peshawar,North
+TXN000308,2025-09-20,C0416,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 416,Peshawar,North
+TXN004023,2025-09-21,C0088,P03,1,0.05,Online,Headphones,Electronics,8000,Customer 88,Lahore,Central
+TXN000487,2025-09-21,C0527,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 527,Quetta,West
+TXN002328,2025-09-21,C0651,P08,1,0.0,Online,Sneakers,Clothing,7000,Customer 651,Multan,Central
+TXN000043,2025-09-22,C0400,P10,-1,0.0,Online,Air Fryer,Home Appliances,18000,Customer 400,Lahore,Central
+TXN000769,2025-09-22,C0286,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 286,Quetta,West
+TXN004443,2025-09-22,C0222,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 222,Multan,Central
+TXN000354,2025-09-22,C0657,P08,1,0.0,Online,Sneakers,Clothing,7000,Customer 657,Peshawar,North
+TXN004443,2025-09-22,C0222,P03,3,0.0,Store,HEADPHONES ,Electronics,8000,Customer 222,Multan,Central
+TXN004271,2025-09-22,C0302,P11,2,0.2,Online,Blender,Home Appliances,6000,Customer 302,Peshawar,North
+TXN000590,2025-09-22,C0602,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 602,Peshawar,North
+TXN003714,2025-09-23,C0482,P13,1,0.1,Online,Rice 5kg,Grocery,1400,Customer 482,Peshawar,North
+TXN001314,2025-09-23,C0235,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 235,Multan,Central
+TXN002790,2025-09-23,C0253,P11,1,0.0,Store,Blender,Home Appliances,6000,Customer 253,Lahore,Central
+TXN002295,2025-09-23,C0165,P05,1,0.05,Store,T-Shirt,Clothing,1500,Customer 165,Multan,Central
+TXN001893,2025-09-23,C0794,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 794,Peshawar,North
+TXN001893,2025-09-23,C0794,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 794,Peshawar,North
+TXN000040,2025-09-24,C0681,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 681,Peshawar,North
+TXN004511,2025-09-24,C0769,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 769,Karachi,South
+TXN003353,2025-09-25,C0319,P13,4,0.0,Store,Rice 5kg,Grocery,1400,Customer 319,Quetta,West
+TXN005125,2025-09-25,C0787,P05,1,0.1,Store,T-Shirt,Clothing,1500,Customer 787,Karachi,South
+TXN003715,2025-09-25,C0282,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 282,Multan,Central
+TXN004250,2025-09-25,C0226,P03,4,0.2,Online,Headphones,Electronics,8000,Customer 226,Lahore,Central
+TXN001985,2025-09-25,C0212,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 212,Peshawar,North
+TXN005275,2025-09-25,C0139,P06,2,0.05,Store,Jeans,Clothing,3500,Customer 139,Multan,Central
+TXN004525,2025-09-26,C0233,P15,1,0.05,Store,Tea 900g,Grocery,1500,Customer 233,Karachi,South
+TXN003449,2025-09-26,C0638,P16,1,0.2,Online,Sugar 5kg,Grocery,700,Customer 638,Lahore,Central
+TXN001364,2025-09-26,C0220,P14,1,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 220,Quetta,West
+TXN000908,2025-09-26,C0313,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 313,Karachi,South
+TXN004525,2025-09-26,C0233,P15,1,0.05,Store,Tea 900g,Grocery,1500,Customer 233,Karachi,South
+TXN002584,2025-09-26,C0196,P07,3,0.05,Store,Jacket,Clothing,6500,Customer 196,Karachi,South
+TXN005065,2025-09-26,C0684,P01,3,0.05,Online,Smartphone,Electronics,45000,Customer 684,Quetta,West
+TXN001301,2025-09-26,C0353,P16,2,0.1,Online,Sugar 5kg,Grocery,700,Customer 353,Lahore,Central
+TXN002094,2025-09-26,C0306,P11,4,0.1,Store,Blender,Home Appliances,6000,Customer 306,Karachi,South
+TXN005187,2025-09-27,C0373,P13,3,0.1,Online,Rice 5kg,Grocery,1400,Customer 373,Multan,Central
+TXN004392,2025-09-27,C0507,P13,2,0.0,Store,Rice 5kg,Grocery,1400,Customer 507,Islamabad,North
+TXN005333,2025-09-27,C0247,P05,3,0.05,Store,T-Shirt,Clothing,1500,Customer 247,Peshawar,North
+TXN001833,2025-09-27,C0356,P14,2,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 356,Quetta,West
+TXN004254,2025-09-27,C0246,P14,1,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 246,Karachi,South
+TXN002402,2025-09-27,C0499,P16,3,0.05,Store,Sugar 5kg,Grocery,700,Customer 499,Quetta,West
+TXN000143,2025-09-27,C0403,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 403,Lahore,Central
+TXN005120,2025-09-27,C0248,P10,1,0.1,Store,Air Fryer,Home Appliances,18000,Customer 248,Multan,Central
+TXN004439,2025-09-27,C0784,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 784,Karachi,South
+TXN005108,2025-09-27,C0037,P16,-1,0.0,Online,Sugar 5kg,Grocery,700,Customer 37,Quetta,West
+TXN004237,2025-09-28,C0355,P16,2,0.2,Online,SUGAR 5KG ,Grocery,700,Customer 355,Quetta,West
+TXN001313,2025-09-28,C0148,P06,3,0.2,Store,Jeans,Clothing,3500,Customer 148,Lahore,Central
+TXN005077,2025-09-28,C0509,P10,2,0.05,Online,Air Fryer,Home Appliances,18000,Customer 509,Lahore,Central
+TXN000707,2025-09-28,C0127,P10,4,0.1,Store,Air Fryer,Home Appliances,18000,Customer 127,Karachi,South
+TXN001151,2025-09-29,C0501,P14,4,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 501,Karachi,South
+TXN001996,2025-09-29,C0606,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 606,Islamabad,North
+TXN000554,2025-09-29,C0258,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 258,Karachi,South
+TXN001731,2025-09-29,C0566,P03,4,0.1,Online,Headphones,Electronics,8000,Customer 566,Lahore,Central
+TXN001505,2025-09-29,C0264,P01,2,0.0,Store,Smartphone,Electronics,45000,Customer 264,Quetta,West
+TXN005956,2025-09-29,C0701,P03,4,0.0,Online,Headphones,Electronics,8000,Customer 701,Islamabad,North
+TXN005518,2025-09-30,C0004,P04,1,0.0,Online,Smart Watch,Electronics,15000,Customer 4,Multan,Central
+TXN005606,2025-09-30,C0448,P08,3,0.05,Online,Sneakers,Clothing,7000,Customer 448,Quetta,West
+TXN001148,2025-09-30,C0158,P16,2,0.0,Store,Sugar 5kg,Grocery,700,Customer 158,Islamabad,North
+TXN003535,2025-09-30,C0239,P09,1,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 239,Lahore,Central
+TXN005384,2025-09-30,C0094,P09,1,0.2,Store,Microwave Oven,Home Appliances,22000,Customer 94,Multan,Central
+TXN002530,2025-10-01,C0464,P03,1,0.0,Online,Headphones,Electronics,8000,Customer 464,Multan,Central
+TXN000370,2025-10-01,C0733,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 733,Quetta,West
+TXN002645,2025-10-02,C0597,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 597,Islamabad,North
+TXN005298,2025-10-02,,P16,3,0.05,Store,Sugar 5kg,Grocery,700,,Peshawar,North
+TXN003931,2025-10-02,C0342,P15,3,0.0,Store,TEA 900G ,Grocery,1500,Customer 342,Lahore,Central
+TXN005443,2025-10-02,C0401,P04,3,0.05,Store,Smart Watch,Electronics,15000,Customer 401,Quetta,West
+TXN004029,2025-10-02,C0561,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 561,Islamabad,North
+TXN002602,2025-10-02,C0783,P03,4,0.0,Store,HEADPHONES ,Electronics,8000,Customer 783,Karachi,South
+TXN001583,2025-10-02,C0330,P08,3,0.1,Store,Sneakers,Clothing,7000,Customer 330,Islamabad,North
+TXN004029,2025-10-02,C0561,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 561,Islamabad,North
+TXN000004,2025-10-02,,P04,3,0.0,Online,Smart Watch,Electronics,15000,,Quetta,West
+TXN000764,2025-10-03,C0669,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 669,Quetta,West
+TXN000303,2025-10-03,C0518,P06,1,0.05,Store,Jeans,Clothing,3500,Customer 518,Karachi,South
+TXN005380,2025-10-03,C0584,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 584,Karachi,South
+TXN000764,2025-10-03,C0669,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 669,Quetta,West
+TXN004159,2025-10-03,C0528,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 528,Karachi,South
+TXN004724,2025-10-03,C0729,P02,2,0.2,Store,Laptop,Electronics,120000,Customer 729,Multan,Central
+TXN002949,2025-10-03,C0567,P08,3,0.0,Online,Sneakers,Clothing,7000,Customer 567,Lahore,Central
+TXN005686,2025-10-03,C0030,P01,3,0.0,Store,Smartphone,Electronics,45000,Customer 30,Multan,Central
+TXN000730,2025-10-03,C0047,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 47,Multan,Central
+TXN003840,2025-10-03,C0263,P07,1,0.2,Online,Jacket,Clothing,6500,Customer 263,Lahore,Central
+TXN000169,2025-10-04,C0438,P01,3,0.2,Store,Smartphone,Electronics,45000,Customer 438,Quetta,West
+TXN000281,2025-10-04,C0274,P05,1,0.2,Store,T-Shirt,Clothing,1500,Customer 274,Quetta,West
+TXN000905,2025-10-04,C0751,P10,3,0.05,Store,Air Fryer,Home Appliances,18000,Customer 751,Quetta,West
+TXN003045,2025-10-05,C0583,P14,1,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 583,Karachi,South
+TXN003631,2025-10-05,C0462,P02,4,0.1,Store,Laptop,Electronics,120000,Customer 462,Karachi,South
+TXN004423,2025-10-05,C0362,P03,2,0.05,Store,Headphones,Electronics,8000,Customer 362,Quetta,West
+TXN001172,2025-10-05,C0058,P11,4,0.0,Store,BLENDER ,Home Appliances,6000,Customer 58,Karachi,South
+TXN000206,2025-10-05,C0001,P10,3,0.05,Online,Air Fryer,Home Appliances,18000,Customer 1,Karachi,South
+TXN001825,2025-10-05,C0187,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 187,Karachi,South
+TXN002401,2025-10-05,C0364,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 364,Quetta,West
+TXN004949,2025-10-06,C0062,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 62,Peshawar,North
+TXN003630,2025-10-06,C0324,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 324,Quetta,West
+TXN002858,2025-10-06,C0630,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 630,Multan,Central
+TXN002161,2025-10-06,C0359,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 359,Karachi,South
+TXN001214,2025-10-06,C0397,P13,2,0.05,Online,Rice 5kg,Grocery,1400,Customer 397,Karachi,South
+TXN002720,2025-10-06,C0746,P10,4,0.0,Store,AIR FRYER ,Home Appliances,18000,Customer 746,Multan,Central
+TXN004069,2025-10-06,C0294,P14,2,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 294,Lahore,Central
+TXN005813,2025-10-06,C0062,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 62,Peshawar,North
+TXN004495,2025-10-07,C0660,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 660,Lahore,Central
+TXN005604,2025-10-07,C0399,P16,4,0.0,Online,SUGAR 5KG ,Grocery,700,Customer 399,Lahore,Central
+TXN003001,2025-10-07,C0570,P06,4,0.0,Store,Jeans,Clothing,3500,Customer 570,Islamabad,North
+TXN005966,2025-10-07,C0527,P08,4,0.0,Online,Sneakers,Clothing,7000,Customer 527,Quetta,West
+TXN002031,2025-10-07,C0754,P06,3,0.0,Online,JEANS ,Clothing,3500,Customer 754,Quetta,West
+TXN004643,2025-10-07,C0265,P05,1,0.0,Online,T-Shirt,Clothing,1500,Customer 265,Quetta,West
+TXN005018,2025-10-07,C0234,P08,2,0.05,Store,Sneakers,Clothing,7000,Customer 234,Peshawar,North
+TXN000823,2025-10-08,C0673,P11,2,0.05,Online,Blender,Home Appliances,6000,Customer 673,Islamabad,North
+TXN004179,2025-10-08,C0504,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 504,Quetta,West
+TXN001366,2025-10-08,C0584,P13,1,0.05,Store,Rice 5kg,Grocery,1400,Customer 584,Karachi,South
+TXN002476,2025-10-08,C0552,P16,4,0.05,Online,Sugar 5kg,Grocery,700,Customer 552,Multan,Central
+TXN004840,2025-10-08,C0329,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 329,Karachi,South
+TXN001190,2025-10-08,C0191,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 191,Peshawar,North
+TXN001824,2025-10-08,C0639,P05,2,0.2,Store,T-Shirt,Clothing,1500,Customer 639,Peshawar,North
+TXN004188,2025-10-08,C0259,P15,1,0.2,Store,Tea 900g,Grocery,1500,Customer 259,Lahore,Central
+TXN005069,2025-10-09,C0076,P11,4,0.05,Store,Blender,Home Appliances,6000,Customer 76,Multan,Central
+TXN005284,2025-10-09,C0005,P03,4,0.1,Online,Headphones,Electronics,8000,Customer 5,Multan,Central
+TXN001733,2025-10-09,C0256,P16,1,0.1,Store,Sugar 5kg,Grocery,700,Customer 256,Karachi,South
+TXN000879,2025-10-09,C0350,P15,3,0.0,Store,Tea 900g,Grocery,1500,Customer 350,Karachi,South
+TXN003100,2025-10-09,C0553,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 553,Peshawar,North
+TXN002805,2025-10-09,C0346,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 346,Lahore,Central
+TXN000462,2025-10-09,C0086,P11,4,0.1,Online,Blender,Home Appliances,6000,Customer 86,Peshawar,North
+TXN000267,2025-10-10,C0003,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 3,Islamabad,North
+TXN003092,2025-10-10,C0641,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 641,Peshawar,North
+TXN005992,2025-10-11,,P11,2,0.0,Online,Blender,Home Appliances,6000,,Islamabad,North
+TXN001770,2025-10-11,C0718,P15,1,0.05,Online,Tea 900g,Grocery,1500,Customer 718,Multan,Central
+TXN003172,2025-10-11,C0267,P04,1,0.2,Online,Smart Watch,Electronics,15000,Customer 267,Multan,Central
+TXN004360,2025-10-11,C0602,P03,3,0.1,Online,Headphones,Electronics,8000,Customer 602,Peshawar,North
+TXN003743,2025-10-11,C0526,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 526,Lahore,Central
+TXN003569,2025-10-11,C0274,P09,3,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 274,Quetta,West
+TXN004512,2025-10-12,C0163,P04,3,0.0,Online,Smart Watch,Electronics,15000,Customer 163,Multan,Central
+TXN000062,2025-10-12,C0451,P07,2,0.0,Online,Jacket,Clothing,6500,Customer 451,Quetta,West
+TXN000382,2025-10-12,C0644,P05,3,0.05,Store,T-Shirt,Clothing,1500,Customer 644,Multan,Central
+TXN003432,2025-10-12,C0742,P16,2,0.0,Store,Sugar 5kg,Grocery,700,Customer 742,Peshawar,North
+TXN005131,2025-10-12,C0179,P03,2,0.05,Store,Headphones,Electronics,8000,Customer 179,Quetta,West
+TXN001812,2025-10-12,C0101,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 101,Peshawar,North
+TXN003495,2025-10-12,C0621,P16,3,0.05,Store,Sugar 5kg,Grocery,700,Customer 621,Multan,Central
+TXN005610,2025-10-13,,P01,3,0.0,Store,Smartphone,Electronics,45000,,Karachi,South
+TXN004051,2025-10-13,C0107,P05,2,0.05,Online,T-Shirt,Clothing,1500,Customer 107,Peshawar,North
+TXN005183,2025-10-13,C0386,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 386,Karachi,South
+TXN002842,2025-10-13,C0572,P11,4,0.1,Store,BLENDER ,Home Appliances,6000,Customer 572,Multan,Central
+TXN003468,2025-10-13,C0383,P14,4,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 383,Quetta,West
+TXN003143,2025-10-13,C0648,P04,2,0.0,Online,Smart Watch,Electronics,15000,Customer 648,Islamabad,North
+TXN002695,2025-10-13,C0467,P14,2,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 467,Karachi,South
+TXN003096,2025-10-14,C0627,P07,4,0.05,Online,Jacket,Clothing,6500,Customer 627,Multan,Central
+TXN003288,2025-10-14,C0319,P08,2,0.0,Store,Sneakers,Clothing,7000,Customer 319,Quetta,West
+TXN004357,2025-10-14,C0185,P05,1,0.0,Online,T-Shirt,Clothing,1500,Customer 185,Multan,Central
+TXN001700,2025-10-14,C0641,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 641,Peshawar,North
+TXN001693,2025-10-14,C0367,P03,4,0.1,Store,Headphones,Electronics,8000,Customer 367,Multan,Central
+TXN004851,2025-10-14,C0397,P10,3,0.05,Online,Air Fryer,Home Appliances,18000,Customer 397,Karachi,South
+TXN003636,2025-10-14,C0031,P10,2,0.1,Store,AIR FRYER ,Home Appliances,18000,Customer 31,Multan,Central
+TXN003580,2025-10-14,C0458,P13,2,0.2,Online,Rice 5kg,Grocery,1400,Customer 458,Islamabad,North
+TXN003492,2025-10-14,C0668,P10,3,0.05,Store,Air Fryer,Home Appliances,18000,Customer 668,Quetta,West
+TXN005101,2025-10-15,C0727,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 727,Peshawar,North
+TXN002203,2025-10-15,C0539,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 539,Islamabad,North
+TXN003332,2025-10-15,C0411,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 411,Lahore,Central
+TXN000716,2025-10-15,C0223,P15,3,0.1,Online,Tea 900g,Grocery,1500,Customer 223,Peshawar,North
+TXN002314,2025-10-15,C0616,P05,2,0.0,Store,T-Shirt,Clothing,1500,Customer 616,Islamabad,North
+TXN002843,2025-10-15,C0360,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 360,Peshawar,North
+TXN005373,2025-10-15,C0417,P09,1,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 417,Quetta,West
+TXN002513,2025-10-15,C0326,P04,4,0.05,Store,Smart Watch,Electronics,15000,Customer 326,Lahore,Central
+TXN005148,2025-10-16,C0797,P01,2,0.05,Store,Smartphone,Electronics,45000,Customer 797,Quetta,West
+TXN004938,2025-10-16,C0103,P07,1,0.05,Online,Jacket,Clothing,6500,Customer 103,Peshawar,North
+TXN004040,2025-10-16,C0283,P02,4,0.0,Online,Laptop,Electronics,120000,Customer 283,Peshawar,North
+TXN001613,2025-10-16,C0185,P10,1,0.05,Online,Air Fryer,Home Appliances,18000,Customer 185,Multan,Central
+TXN000343,2025-10-16,C0800,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 800,Multan,Central
+TXN005004,2025-10-16,C0022,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 22,Multan,Central
+TXN002062,2025-10-16,C0247,P14,1,0.05,Store,Cooking Oil 5L,Grocery,3200,Customer 247,Peshawar,North
+TXN001933,2025-10-16,C0309,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 309,Lahore,Central
+TXN000951,2025-10-16,C0514,P07,2,0.05,Online,Jacket,Clothing,6500,Customer 514,Peshawar,North
+TXN001875,2025-10-16,C0764,P16,3,0.0,Store,Sugar 5kg,Grocery,700,Customer 764,Quetta,West
+TXN005853,2025-10-17,C0680,P08,1,0.0,Store,Sneakers,Clothing,7000,Customer 680,Quetta,West
+TXN004189,2025-10-17,C0369,P15,2,0.05,Online,Tea 900g,Grocery,1500,Customer 369,Karachi,South
+TXN004020,2025-10-17,C0655,P11,1,0.0,Online,Blender,Home Appliances,6000,Customer 655,Islamabad,North
+TXN004448,2025-10-17,C0492,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 492,Quetta,West
+TXN000473,2025-10-17,C0455,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 455,Islamabad,North
+TXN005600,2025-10-17,C0792,P08,4,0.0,Online,Sneakers,Clothing,7000,Customer 792,Multan,Central
+TXN001177,2025-10-17,C0051,P02,3,0.0,Store,LAPTOP ,Electronics,120000,Customer 51,Peshawar,North
+TXN005177,2025-10-17,C0428,P02,3,0.1,Store,Laptop,Electronics,120000,Customer 428,Peshawar,North
+TXN000733,2025-10-18,C0667,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 667,Islamabad,North
+TXN002934,2025-10-18,C0235,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 235,Multan,Central
+TXN001772,2025-10-18,C0126,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 126,Islamabad,North
+TXN001428,2025-10-18,C0401,P09,4,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 401,Quetta,West
+TXN002087,2025-10-18,C0541,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 541,Peshawar,North
+TXN003473,2025-10-18,C0421,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 421,Quetta,West
+TXN005822,2025-10-19,C0126,P04,4,0.05,Store,Smart Watch,Electronics,15000,Customer 126,Islamabad,North
+TXN002639,2025-10-20,C0277,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 277,Multan,Central
+TXN001895,2025-10-20,C0364,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 364,Quetta,West
+TXN005915,2025-10-20,C0337,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 337,Quetta,West
+TXN000643,2025-10-20,C0454,P01,4,0.0,Store,Smartphone,Electronics,45000,Customer 454,Karachi,South
+TXN005149,2025-10-20,C0144,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 144,Multan,Central
+TXN004778,2025-10-20,C0650,P06,4,0.05,Online,Jeans,Clothing,3500,Customer 650,Quetta,West
+TXN001348,2025-10-21,C0140,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 140,Multan,Central
+TXN001831,2025-10-21,C0356,P10,1,0.1,Online,Air Fryer,Home Appliances,18000,Customer 356,Quetta,West
+TXN001982,2025-10-21,C0161,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 161,Quetta,West
+TXN004599,2025-10-21,C0474,P04,2,0.0,Online,Smart Watch,Electronics,15000,Customer 474,Multan,Central
+TXN000966,2025-10-21,C0571,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 571,Quetta,West
+TXN001658,2025-10-21,C0446,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 446,Islamabad,North
+TXN005824,2025-10-22,C0677,P09,2,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 677,Islamabad,North
+TXN004397,2025-10-22,C0145,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 145,Quetta,West
+TXN001489,2025-10-22,C0410,P13,3,0.05,Online,Rice 5kg,Grocery,1400,Customer 410,Karachi,South
+TXN001849,2025-10-22,C0654,P14,2,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 654,Peshawar,North
+TXN002153,2025-10-22,C0296,P01,2,0.0,Store,Smartphone,Electronics,45000,Customer 296,Islamabad,North
+TXN003408,2025-10-22,C0492,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 492,Quetta,West
+TXN002078,2025-10-22,C0238,P04,4,0.1,Store,Smart Watch,Electronics,15000,Customer 238,Multan,Central
+TXN001369,2025-10-22,C0375,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 375,Quetta,West
+TXN001991,2025-10-22,C0438,P16,3,0.05,Store,Sugar 5kg,Grocery,700,Customer 438,Quetta,West
+TXN002142,2025-10-22,,P03,1,0.2,Online,Headphones,Electronics,8000,,Peshawar,North
+TXN003604,2025-10-23,C0138,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 138,Karachi,South
+TXN004299,2025-10-23,C0108,P12,2,0.05,Online,Vacuum Cleaner,Home Appliances,25000,Customer 108,Islamabad,North
+TXN005562,2025-10-23,C0030,P07,2,0.1,Store,Jacket,Clothing,6500,Customer 30,Multan,Central
+TXN004216,2025-10-23,C0321,P04,1,0.1,Store,Smart Watch,Electronics,15000,Customer 321,Lahore,Central
+TXN005420,2025-10-23,C0481,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 481,Lahore,Central
+TXN001433,2025-10-24,C0695,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 695,Karachi,South
+TXN002552,2025-10-24,C0114,P09,3,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 114,Multan,Central
+TXN005741,2025-10-24,C0652,P05,3,0.05,Store,T-Shirt,Clothing,1500,Customer 652,Islamabad,North
+TXN003121,2025-10-24,,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,,Quetta,West
+TXN002753,2025-10-24,C0392,P08,4,0.1,Store,Sneakers,Clothing,7000,Customer 392,Lahore,Central
+TXN002372,2025-10-24,C0616,P07,3,0.05,Online,Jacket,Clothing,6500,Customer 616,Islamabad,North
+TXN005401,2025-10-24,C0429,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 429,Karachi,South
+TXN002943,2025-10-24,C0424,P16,4,0.0,Store,Sugar 5kg,Grocery,700,Customer 424,Islamabad,North
+TXN000647,2025-10-24,,P02,1,0.05,Store,Laptop,Electronics,120000,,Lahore,Central
+TXN003677,2025-10-24,C0564,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 564,Lahore,Central
+TXN004912,2025-10-25,C0657,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 657,Peshawar,North
+TXN000889,2025-10-25,C0034,P05,3,0.0,Online,T-Shirt,Clothing,1500,Customer 34,Islamabad,North
+TXN005573,2025-10-25,C0018,P08,1,0.0,Store,Sneakers,Clothing,7000,Customer 18,Karachi,South
+TXN005975,2025-10-25,C0115,P06,2,0.0,Store,Jeans,Clothing,3500,Customer 115,Islamabad,North
+TXN004912,2025-10-25,C0657,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 657,Peshawar,North
+TXN001110,2025-10-26,C0056,P12,-1,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 56,Karachi,South
+TXN003581,2025-10-26,C0596,P04,1,0.0,Store,Smart Watch,Electronics,15000,Customer 596,Peshawar,North
+TXN004214,2025-10-26,C0135,P10,2,0.05,Store,Air Fryer,Home Appliances,18000,Customer 135,Peshawar,North
+TXN001297,2025-10-26,C0269,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 269,Islamabad,North
+TXN000136,2025-10-26,C0242,P12,3,0.2,Online,Vacuum Cleaner,Home Appliances,25000,Customer 242,Islamabad,North
+TXN001913,2025-10-26,C0688,P14,4,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 688,Islamabad,North
+TXN001074,2025-10-27,C0275,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 275,Multan,Central
+TXN000309,2025-10-27,C0225,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 225,Peshawar,North
+TXN004976,2025-10-27,C0127,P10,1,0.05,Store,Air Fryer,Home Appliances,18000,Customer 127,Karachi,South
+TXN000309,2025-10-27,C0225,P13,3,0.0,Store,Rice 5kg,Grocery,1400,Customer 225,Peshawar,North
+TXN001037,2025-10-27,C0310,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 310,Karachi,South
+TXN001074,2025-10-27,C0275,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 275,Multan,Central
+TXN002888,2025-10-27,C0344,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 344,Islamabad,North
+TXN003274,2025-10-28,C0717,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 717,Islamabad,North
+TXN003156,2025-10-29,C0167,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 167,Lahore,Central
+TXN004398,2025-10-29,C0460,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 460,Karachi,South
+TXN005802,2025-10-29,C0164,P13,1,0.0,Store,Rice 5kg,Grocery,1400,Customer 164,Multan,Central
+TXN000881,2025-10-29,C0286,P12,2,0.0,Store,VACUUM CLEANER ,Home Appliances,25000,Customer 286,Quetta,West
+TXN004597,2025-10-30,C0534,P09,2,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 534,Lahore,Central
+TXN005862,2025-10-30,C0350,P10,2,0.05,Store,Air Fryer,Home Appliances,18000,Customer 350,Karachi,South
+TXN005460,2025-10-30,C0094,P11,4,0.05,Store,Blender,Home Appliances,6000,Customer 94,Multan,Central
+TXN002028,2025-10-30,C0121,P10,3,0.0,Store,Air Fryer,Home Appliances,18000,Customer 121,Multan,Central
+TXN005525,2025-10-30,C0737,P01,4,0.2,Online,Smartphone,Electronics,45000,Customer 737,Peshawar,North
+TXN002510,2025-10-30,C0334,P04,2,0.05,Store,Smart Watch,Electronics,15000,Customer 334,Peshawar,North
+TXN004160,2025-10-30,C0800,P13,4,0.0,Store,Rice 5kg,Grocery,1400,Customer 800,Multan,Central
+TXN002662,2025-10-31,C0254,P11,3,0.2,Online,Blender,Home Appliances,6000,Customer 254,Lahore,Central
+TXN004732,2025-10-31,C0331,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 331,Islamabad,North
+TXN005976,2025-10-31,C0103,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 103,Peshawar,North
+TXN003923,2025-10-31,C0025,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 25,Peshawar,North
+TXN004165,2025-10-31,C0317,P10,2,0.2,Store,Air Fryer,Home Appliances,18000,Customer 317,Peshawar,North
+TXN002905,2025-10-31,C0060,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 60,Peshawar,North
+TXN003437,2025-10-31,C0760,P04,1,0.0,Store,SMART WATCH ,Electronics,15000,Customer 760,Peshawar,North
+TXN000126,2025-11-01,C0006,P12,2,0.0,Online,VACUUM CLEANER ,Home Appliances,25000,Customer 6,Quetta,West
+TXN002118,2025-11-01,C0036,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 36,Karachi,South
+TXN001421,2025-11-01,C0252,P15,2,0.2,Store,Tea 900g,Grocery,1500,Customer 252,Multan,Central
+TXN001820,2025-11-01,C0502,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 502,Islamabad,North
+TXN003322,2025-11-01,C0135,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 135,Peshawar,North
+TXN004701,2025-11-01,C0185,P09,1,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 185,Multan,Central
+TXN000126,2025-11-01,,P12,2,0.0,Online,Vacuum Cleaner,Home Appliances,25000,,Quetta,West
+TXN003161,2025-11-02,C0086,P11,1,0.0,Online,BLENDER ,Home Appliances,6000,Customer 86,Peshawar,North
+TXN004111,2025-11-02,C0493,P09,2,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 493,Peshawar,North
+TXN001597,2025-11-02,C0539,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 539,Islamabad,North
+TXN005683,2025-11-02,C0018,P15,3,0.2,Store,Tea 900g,Grocery,1500,Customer 18,Karachi,South
+TXN004257,2025-11-03,C0106,P16,4,0.0,Online,Sugar 5kg,Grocery,700,Customer 106,Peshawar,North
+TXN000149,2025-11-03,C0301,P10,4,0.0,Online,Air Fryer,Home Appliances,18000,Customer 301,Multan,Central
+TXN001254,2025-11-03,C0522,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 522,Karachi,South
+TXN001944,2025-11-03,C0096,P14,1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 96,Lahore,Central
+TXN003638,2025-11-03,C0235,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 235,Multan,Central
+TXN005707,2025-11-04,C0252,P15,4,0.0,Online,TEA 900G ,Grocery,1500,Customer 252,Multan,Central
+TXN001728,2025-11-04,C0654,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 654,Peshawar,North
+TXN004582,2025-11-04,C0437,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 437,Islamabad,North
+TXN003887,2025-11-04,C0567,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 567,Lahore,Central
+TXN002641,2025-11-04,C0335,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 335,Multan,Central
+TXN003887,2025-11-04,C0567,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 567,Lahore,Central
+TXN005234,2025-11-04,C0126,P11,4,0.1,Online,Blender,Home Appliances,6000,Customer 126,Islamabad,North
+TXN002108,2025-11-04,C0529,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 529,Quetta,West
+TXN000165,2025-11-05,C0065,P16,4,0.0,Store,SUGAR 5KG ,Grocery,700,Customer 65,Multan,Central
+TXN003802,2025-11-05,C0444,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 444,Multan,Central
+TXN000927,2025-11-05,C0007,P02,2,0.1,Store,Laptop,Electronics,120000,Customer 7,Karachi,South
+TXN002386,2025-11-05,C0584,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 584,Karachi,South
+TXN004308,2025-11-06,C0141,P12,1,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 141,Quetta,West
+TXN000621,2025-11-06,C0574,P03,3,0.1,Store,Headphones,Electronics,8000,Customer 574,Karachi,South
+TXN004400,2025-11-06,C0380,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 380,Lahore,Central
+TXN001228,2025-11-06,C0035,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 35,Quetta,West
+TXN003668,2025-11-06,C0325,P10,4,0.1,Store,Air Fryer,Home Appliances,18000,Customer 325,Quetta,West
+TXN004206,2025-11-06,,P03,2,0.0,Store,Headphones,Electronics,8000,,Multan,Central
+TXN005738,2025-11-07,C0030,P15,1,0.2,Store,Tea 900g,Grocery,1500,Customer 30,Multan,Central
+TXN000495,2025-11-08,C0190,P05,1,0.05,Store,T-Shirt,Clothing,1500,Customer 190,Lahore,Central
+TXN003102,2025-11-08,C0183,P11,2,0.2,Online,Blender,Home Appliances,6000,Customer 183,Multan,Central
+TXN001130,2025-11-08,C0276,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 276,Multan,Central
+TXN004873,2025-11-09,C0728,P10,4,0.0,Store,Air Fryer,Home Appliances,18000,Customer 728,Karachi,South
+TXN001587,2025-11-09,C0486,P02,1,0.0,Store,Laptop,Electronics,120000,Customer 486,Lahore,Central
+TXN003399,2025-11-09,C0780,P04,4,0.0,Online,Smart Watch,Electronics,15000,Customer 780,Quetta,West
+TXN001032,2025-11-09,C0244,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 244,Islamabad,North
+TXN000469,2025-11-09,C0378,P04,2,0.0,Online,Smart Watch,Electronics,15000,Customer 378,Peshawar,North
+TXN003040,2025-11-09,C0327,P07,1,0.05,Store,Jacket,Clothing,6500,Customer 327,Lahore,Central
+TXN005402,2025-11-09,C0443,P06,1,0.1,Online,Jeans,Clothing,3500,Customer 443,Karachi,South
+TXN002775,2025-11-09,C0570,P15,1,0.0,Online,Tea 900g,Grocery,1500,Customer 570,Islamabad,North
+TXN001322,2025-11-09,C0774,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 774,Peshawar,North
+TXN001134,2025-11-09,C0399,P09,2,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 399,Lahore,Central
+TXN003843,2025-11-09,C0636,P01,2,0.1,Online,Smartphone,Electronics,45000,Customer 636,Peshawar,North
+TXN003206,2025-11-09,C0614,P05,4,0.0,Store,T-Shirt,Clothing,1500,Customer 614,Multan,Central
+TXN005759,2025-11-10,C0338,P16,4,0.2,Store,Sugar 5kg,Grocery,700,Customer 338,Lahore,Central
+TXN005674,2025-11-10,,P06,3,0.0,Store,Jeans,Clothing,3500,,Quetta,West
+TXN005960,2025-11-10,C0371,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 371,Multan,Central
+TXN000984,2025-11-11,C0531,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 531,Islamabad,North
+TXN001365,2025-11-11,C0235,P07,3,0.05,Online,Jacket,Clothing,6500,Customer 235,Multan,Central
+TXN004848,2025-11-12,C0140,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 140,Multan,Central
+TXN002236,2025-11-12,C0239,P11,3,0.05,Store,Blender,Home Appliances,6000,Customer 239,Lahore,Central
+TXN001589,2025-11-12,C0722,P07,4,0.1,Store,Jacket,Clothing,6500,Customer 722,Quetta,West
+TXN000640,2025-11-12,C0381,P08,1,0.2,Store,Sneakers,Clothing,7000,Customer 381,Karachi,South
+TXN003799,2025-11-12,C0667,P02,2,0.0,Online,Laptop,Electronics,120000,Customer 667,Islamabad,North
+TXN004072,2025-11-13,C0074,P13,3,0.05,Online,Rice 5kg,Grocery,1400,Customer 74,Karachi,South
+TXN001743,2025-11-13,,P10,1,0.05,Store,Air Fryer,Home Appliances,18000,,Peshawar,North
+TXN005795,2025-11-13,C0748,P12,4,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 748,Lahore,Central
+TXN004915,2025-11-14,C0530,P01,2,0.0,Store,Smartphone,Electronics,45000,Customer 530,Quetta,West
+TXN005098,2025-11-14,C0295,P08,3,0.05,Online,Sneakers,Clothing,7000,Customer 295,Islamabad,North
+TXN002688,2025-11-15,C0229,P15,4,0.05,Online,Tea 900g,Grocery,1500,Customer 229,Islamabad,North
+TXN004270,2025-11-15,C0672,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 672,Islamabad,North
+TXN000254,2025-11-15,C0087,P05,3,0.05,Online,T-Shirt,Clothing,1500,Customer 87,Karachi,South
+TXN000283,2025-11-15,C0587,P03,4,0.0,Online,Headphones,Electronics,8000,Customer 587,Peshawar,North
+TXN002688,2025-11-15,C0229,P15,4,0.05,Online,Tea 900g,Grocery,1500,Customer 229,Islamabad,North
+TXN001970,2025-11-15,C0674,P02,4,0.1,Online,Laptop,Electronics,120000,Customer 674,Karachi,South
+TXN000576,2025-11-16,C0762,P15,4,0.0,Online,TEA 900G ,Grocery,1500,Customer 762,Islamabad,North
+TXN001010,2025-11-16,C0300,P08,3,0.0,Store,Sneakers,Clothing,7000,Customer 300,Karachi,South
+TXN002845,2025-11-16,C0379,P15,1,0.1,Store,Tea 900g,Grocery,1500,Customer 379,Multan,Central
+TXN004444,2025-11-16,C0250,P10,2,0.05,Store,Air Fryer,Home Appliances,18000,Customer 250,Karachi,South
+TXN001139,2025-11-16,C0056,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 56,Karachi,South
+TXN000648,2025-11-16,C0346,P03,2,0.05,Online,Headphones,Electronics,8000,Customer 346,Lahore,Central
+TXN004182,2025-11-16,C0251,P04,1,0.1,Store,Smart Watch,Electronics,15000,Customer 251,Lahore,Central
+TXN005406,2025-11-16,C0676,P08,2,0.2,Online,Sneakers,Clothing,7000,Customer 676,Peshawar,North
+TXN005742,2025-11-16,C0370,P02,4,0.0,Store,Laptop,Electronics,120000,Customer 370,Peshawar,North
+TXN003039,2025-11-16,C0082,P05,1,0.2,Online,T-Shirt,Clothing,1500,Customer 82,Multan,Central
+TXN002411,2025-11-17,C0597,P01,3,0.1,Store,Smartphone,Electronics,45000,Customer 597,Islamabad,North
+TXN002598,2025-11-17,C0420,P02,4,0.0,Store,Laptop,Electronics,120000,Customer 420,Islamabad,North
+TXN001317,2025-11-17,C0095,P16,4,0.05,Store,Sugar 5kg,Grocery,700,Customer 95,Quetta,West
+TXN002953,2025-11-17,C0635,P01,1,0.1,Store,Smartphone,Electronics,45000,Customer 635,Lahore,Central
+TXN003295,2025-11-17,C0648,P04,3,0.1,Store,Smart Watch,Electronics,15000,Customer 648,Islamabad,North
+TXN002204,2025-11-17,,P12,1,0.1,Store,Vacuum Cleaner,Home Appliances,25000,,Karachi,South
+TXN001931,2025-11-18,C0478,P03,4,0.0,Online,Headphones,Electronics,8000,Customer 478,Karachi,South
+TXN000900,2025-11-18,C0227,P16,1,0.05,Store,Sugar 5kg,Grocery,700,Customer 227,Peshawar,North
+TXN002835,2025-11-18,C0578,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 578,Islamabad,North
+TXN002583,2025-11-18,C0584,P02,3,0.1,Store,Laptop,Electronics,120000,Customer 584,Karachi,South
+TXN004137,2025-11-18,C0748,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 748,Lahore,Central
+TXN004631,2025-11-18,C0322,P12,4,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 322,Karachi,South
+TXN000423,2025-11-18,C0320,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 320,Peshawar,North
+TXN001563,2025-11-19,C0618,P14,2,0.1,Store,Cooking Oil 5L,Grocery,3200,Customer 618,Lahore,Central
+TXN001877,2025-11-19,C0637,P01,1,0.05,Online,Smartphone,Electronics,45000,Customer 637,Lahore,Central
+TXN002864,2025-11-19,C0240,P11,1,0.0,Online,Blender,Home Appliances,6000,Customer 240,Islamabad,North
+TXN001343,2025-11-19,C0323,P13,3,0.05,Online,Rice 5kg,Grocery,1400,Customer 323,Islamabad,North
+TXN000577,2025-11-19,C0485,P06,2,0.05,Online,Jeans,Clothing,3500,Customer 485,Multan,Central
+TXN000199,2025-11-19,C0333,P04,2,0.05,Online,Smart Watch,Electronics,15000,Customer 333,Lahore,Central
+TXN000053,2025-11-20,C0543,P05,3,0.05,Store,T-Shirt,Clothing,1500,Customer 543,Lahore,Central
+TXN001713,2025-11-20,C0675,P06,1,0.0,Online,Jeans,Clothing,3500,Customer 675,Islamabad,North
+TXN000410,2025-11-20,C0749,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 749,Lahore,Central
+TXN004253,2025-11-20,C0745,P01,4,0.1,Store,SMARTPHONE ,Electronics,45000,Customer 745,Peshawar,North
+TXN000443,2025-11-20,C0197,P06,3,0.1,Online,Jeans,Clothing,3500,Customer 197,Multan,Central
+TXN000569,2025-11-20,C0073,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 73,Multan,Central
+TXN002014,2025-11-21,C0736,P16,4,0.05,Store,Sugar 5kg,Grocery,700,Customer 736,Peshawar,North
+TXN005524,2025-11-21,C0450,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 450,Lahore,Central
+TXN005175,2025-11-21,C0323,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 323,Islamabad,North
+TXN005344,2025-11-21,C0041,P06,1,0.1,Online,Jeans,Clothing,3500,Customer 41,Karachi,South
+TXN001870,2025-11-21,C0673,P07,1,0.0,Online,Jacket,Clothing,6500,Customer 673,Islamabad,North
+TXN002414,2025-11-22,C0686,P13,2,0.0,Online,Rice 5kg,Grocery,1400,Customer 686,Peshawar,North
+TXN005388,2025-11-22,C0486,P04,2,0.0,Store,Smart Watch,Electronics,15000,Customer 486,Lahore,Central
+TXN003557,2025-11-22,C0014,P12,1,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 14,Peshawar,North
+TXN001868,2025-11-23,C0380,P11,1,0.1,Store,Blender,Home Appliances,6000,Customer 380,Lahore,Central
+TXN005973,2025-11-23,C0416,P14,2,0.2,Online,Cooking Oil 5L,Grocery,3200,Customer 416,Peshawar,North
+TXN002037,2025-11-23,C0232,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 232,Quetta,West
+TXN003710,2025-11-23,C0602,P12,2,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 602,Peshawar,North
+TXN004187,2025-11-24,C0671,P01,4,0.05,Store,Smartphone,Electronics,45000,Customer 671,Quetta,West
+TXN005792,2025-11-24,,P07,4,0.0,Online,Jacket,Clothing,6500,,Lahore,Central
+TXN002889,2025-11-24,C0219,P11,1,0.05,Online,Blender,Home Appliances,6000,Customer 219,Multan,Central
+TXN005014,2025-11-25,C0509,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 509,Lahore,Central
+TXN003961,2025-11-25,C0162,P11,2,0.0,Store,Blender,Home Appliances,6000,Customer 162,Islamabad,North
+TXN003564,2025-11-25,C0308,P13,1,0.2,Online,Rice 5kg,Grocery,1400,Customer 308,Islamabad,North
+TXN001799,2025-11-26,C0240,P07,4,0.1,Store,Jacket,Clothing,6500,Customer 240,Islamabad,North
+TXN002006,2025-11-26,C0016,P06,3,0.1,Store,JEANS ,Clothing,3500,Customer 16,Peshawar,North
+TXN000767,2025-11-26,C0335,P05,3,0.0,Store,T-Shirt,Clothing,1500,Customer 335,Multan,Central
+TXN000061,2025-11-26,C0582,P15,2,0.1,Online,Tea 900g,Grocery,1500,Customer 582,Quetta,West
+TXN002863,2025-11-26,C0080,P08,2,0.0,Online,Sneakers,Clothing,7000,Customer 80,Peshawar,North
+TXN003560,2025-11-27,C0423,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 423,Peshawar,North
+TXN000426,2025-11-27,C0493,P09,3,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 493,Peshawar,North
+TXN001779,2025-11-27,C0723,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 723,Quetta,West
+TXN002483,2025-11-27,C0100,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 100,Karachi,South
+TXN005124,2025-11-27,C0125,P07,1,0.0,Store,Jacket,Clothing,6500,Customer 125,Quetta,West
+TXN003144,2025-11-27,C0057,P03,4,0.0,Online,Headphones,Electronics,8000,Customer 57,Islamabad,North
+TXN001811,2025-11-28,C0163,P13,2,0.05,Store,Rice 5kg,Grocery,1400,Customer 163,Multan,Central
+TXN003149,2025-11-28,C0735,P04,2,0.05,Online,Smart Watch,Electronics,15000,Customer 735,Lahore,Central
+TXN003112,2025-11-28,C0190,P11,4,0.05,Store,Blender,Home Appliances,6000,Customer 190,Lahore,Central
+TXN005625,2025-11-28,C0277,P12,1,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 277,Multan,Central
+TXN003108,2025-11-28,C0785,P01,4,0.05,Store,Smartphone,Electronics,45000,Customer 785,Multan,Central
+TXN004294,2025-11-28,C0778,P12,3,0.0,Online,Vacuum Cleaner,Home Appliances,25000,Customer 778,Karachi,South
+TXN000433,2025-11-28,C0353,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 353,Lahore,Central
+TXN001789,2025-11-28,C0415,P09,4,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 415,Karachi,South
+TXN001155,2025-11-29,C0523,P14,2,0.1,Online,Cooking Oil 5L,Grocery,3200,Customer 523,Lahore,Central
+TXN005702,2025-11-29,C0667,P04,1,0.05,Online,Smart Watch,Electronics,15000,Customer 667,Islamabad,North
+TXN003525,2025-11-29,C0402,P04,2,0.05,Store,SMART WATCH ,Electronics,15000,Customer 402,Peshawar,North
+TXN003993,2025-11-29,C0248,P11,4,0.0,Store,Blender,Home Appliances,6000,Customer 248,Multan,Central
+TXN002711,2025-11-29,C0170,P01,3,0.0,Online,Smartphone,Electronics,45000,Customer 170,Karachi,South
+TXN003336,2025-11-29,C0286,P07,2,0.05,Store,Jacket,Clothing,6500,Customer 286,Quetta,West
+TXN000159,2025-11-29,C0236,P07,4,0.05,Online,Jacket,Clothing,6500,Customer 236,Peshawar,North
+TXN001742,2025-11-29,C0799,P14,3,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 799,Lahore,Central
+TXN004622,2025-11-30,C0618,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 618,Lahore,Central
+TXN005843,2025-11-30,C0192,P03,2,0.0,Online,Headphones,Electronics,8000,Customer 192,Islamabad,North
+TXN002716,2025-11-30,C0792,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 792,Multan,Central
+TXN003782,2025-11-30,C0266,P12,4,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 266,Islamabad,North
+TXN002040,2025-11-30,C0409,P02,3,0.05,Online,Laptop,Electronics,120000,Customer 409,Quetta,West
+TXN002163,2025-12-01,C0708,P05,2,0.2,Store,T-Shirt,Clothing,1500,Customer 708,Islamabad,North
+TXN000147,2025-12-01,C0375,P11,4,0.1,Online,Blender,Home Appliances,6000,Customer 375,Quetta,West
+TXN001950,2025-12-02,C0473,P09,3,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 473,Multan,Central
+TXN004849,2025-12-02,C0363,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 363,Lahore,Central
+TXN005986,2025-12-02,C0256,P09,4,0.0,Online,Microwave Oven,Home Appliances,22000,Customer 256,Karachi,South
+TXN003337,2025-12-02,C0310,P14,2,0.0,Online,COOKING OIL 5L ,Grocery,3200,Customer 310,Karachi,South
+TXN004849,2025-12-02,C0363,P16,1,0.0,Online,Sugar 5kg,Grocery,700,Customer 363,Lahore,Central
+TXN004024,2025-12-03,C0620,P09,1,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 620,Karachi,South
+TXN004994,2025-12-03,C0094,P04,2,0.0,Online,Smart Watch,Electronics,15000,Customer 94,Multan,Central
+TXN005627,2025-12-03,C0506,P07,4,0.0,Online,Jacket,Clothing,6500,Customer 506,Multan,Central
+TXN002555,2025-12-03,C0328,P09,1,0.05,Online,Microwave Oven,Home Appliances,22000,Customer 328,Karachi,South
+TXN001588,2025-12-04,C0669,P08,2,0.2,Store,Sneakers,Clothing,7000,Customer 669,Quetta,West
+TXN002989,2025-12-04,C0544,P15,1,0.05,Store,Tea 900g,Grocery,1500,Customer 544,Lahore,Central
+TXN000997,2025-12-04,C0698,P14,2,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 698,Islamabad,North
+TXN002072,2025-12-04,,P07,4,0.0,Store,Jacket,Clothing,6500,,Karachi,South
+TXN002885,2025-12-04,C0518,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 518,Karachi,South
+TXN005292,2025-12-04,C0311,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 311,Islamabad,North
+TXN001332,2025-12-04,C0632,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 632,Lahore,Central
+TXN002024,2025-12-04,C0042,P12,1,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 42,Peshawar,North
+TXN003354,2025-12-05,C0391,P01,1,0.0,Online,Smartphone,Electronics,45000,Customer 391,Peshawar,North
+TXN001470,2025-12-05,C0408,P05,3,0.1,Store,T-Shirt,Clothing,1500,Customer 408,Karachi,South
+TXN000675,2025-12-05,C0381,P15,2,0.0,Online,Tea 900g,Grocery,1500,Customer 381,Karachi,South
+TXN004035,2025-12-05,C0102,P15,3,0.0,Online,Tea 900g,Grocery,1500,Customer 102,Lahore,Central
+TXN004121,2025-12-05,C0513,P01,1,0.1,Online,Smartphone,Electronics,45000,Customer 513,Quetta,West
+TXN000849,2025-12-05,C0439,P13,1,0.1,Store,Rice 5kg,Grocery,1400,Customer 439,Karachi,South
+TXN000450,2025-12-06,C0535,P01,4,0.05,Online,Smartphone,Electronics,45000,Customer 535,Islamabad,North
+TXN003314,2025-12-06,C0440,P10,1,0.05,Online,Air Fryer,Home Appliances,18000,Customer 440,Multan,Central
+TXN002080,2025-12-06,,P15,2,0.0,Store,Tea 900g,Grocery,1500,,Islamabad,North
+TXN005735,2025-12-07,C0126,P12,3,0.2,Store,Vacuum Cleaner,Home Appliances,25000,Customer 126,Islamabad,North
+TXN001370,2025-12-07,C0433,P11,3,0.0,Online,Blender,Home Appliances,6000,Customer 433,Peshawar,North
+TXN003517,2025-12-07,C0247,P13,3,0.1,Store,Rice 5kg,Grocery,1400,Customer 247,Peshawar,North
+TXN001827,2025-12-07,C0627,P12,3,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 627,Multan,Central
+TXN001736,2025-12-07,C0653,P11,2,0.0,Online,Blender,Home Appliances,6000,Customer 653,Lahore,Central
+TXN000946,2025-12-08,C0090,P08,3,0.1,Online,Sneakers,Clothing,7000,Customer 90,Peshawar,North
+TXN003277,2025-12-08,C0450,P16,1,0.1,Store,Sugar 5kg,Grocery,700,Customer 450,Lahore,Central
+TXN002399,2025-12-08,C0011,P07,2,0.1,Store,Jacket,Clothing,6500,Customer 11,Islamabad,North
+TXN005198,2025-12-08,C0689,P16,4,0.1,Online,Sugar 5kg,Grocery,700,Customer 689,Multan,Central
+TXN003453,2025-12-09,C0516,P07,1,0.1,Online,Jacket,Clothing,6500,Customer 516,Karachi,South
+TXN000114,2025-12-09,C0751,P08,1,0.05,Online,Sneakers,Clothing,7000,Customer 751,Quetta,West
+TXN004850,2025-12-09,C0293,P15,3,0.1,Store,Tea 900g,Grocery,1500,Customer 293,Quetta,West
+TXN000581,2025-12-09,C0549,P10,1,0.0,Online,Air Fryer,Home Appliances,18000,Customer 549,Islamabad,North
+TXN000581,2025-12-09,C0549,P10,1,0.0,Online,Air Fryer,Home Appliances,18000,Customer 549,Islamabad,North
+TXN001430,2025-12-09,C0615,P13,1,0.0,Store,Rice 5kg,Grocery,1400,Customer 615,Peshawar,North
+TXN000094,2025-12-09,C0544,P12,3,0.1,Store,Vacuum Cleaner,Home Appliances,25000,Customer 544,Lahore,Central
+TXN004921,2025-12-09,C0377,P09,2,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 377,Peshawar,North
+TXN004921,2025-12-09,C0377,P09,2,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 377,Peshawar,North
+TXN002626,2025-12-09,C0490,P07,2,0.05,Online,JACKET ,Clothing,6500,Customer 490,Islamabad,North
+TXN000051,2025-12-09,C0283,P15,4,0.0,Online,Tea 900g,Grocery,1500,Customer 283,Peshawar,North
+TXN003290,2025-12-10,,P15,3,0.2,Store,Tea 900g,Grocery,1500,,Multan,Central
+TXN005619,2025-12-10,C0117,P04,2,0.05,Online,Smart Watch,Electronics,15000,Customer 117,Karachi,South
+TXN005653,2025-12-10,C0684,P15,2,0.2,Store,Tea 900g,Grocery,1500,Customer 684,Quetta,West
+TXN002174,2025-12-10,C0621,P05,1,0.0,Store,T-Shirt,Clothing,1500,Customer 621,Multan,Central
+TXN004984,2025-12-10,C0471,P12,1,0.1,Online,Vacuum Cleaner,Home Appliances,25000,Customer 471,Peshawar,North
+TXN001890,2025-12-11,C0585,P06,2,0.0,Online,Jeans,Clothing,3500,Customer 585,Multan,Central
+TXN005522,2025-12-11,C0552,P06,1,0.1,Store,Jeans,Clothing,3500,Customer 552,Multan,Central
+TXN000398,2025-12-11,C0762,P02,3,0.0,Online,Laptop,Electronics,120000,Customer 762,Islamabad,North
+TXN001755,2025-12-11,C0752,P06,1,0.0,Store,Jeans,Clothing,3500,Customer 752,Karachi,South
+TXN001030,2025-12-11,C0317,P12,2,0.2,Store,Vacuum Cleaner,Home Appliances,25000,Customer 317,Peshawar,North
+TXN000907,2025-12-12,C0677,P08,4,0.1,Online,Sneakers,Clothing,7000,Customer 677,Islamabad,North
+TXN002470,2025-12-12,C0519,P02,3,0.0,Store,Laptop,Electronics,120000,Customer 519,Multan,Central
+TXN000876,2025-12-12,C0032,P11,2,0.1,Online,Blender,Home Appliances,6000,Customer 32,Lahore,Central
+TXN003289,2025-12-12,C0337,P07,4,0.0,Store,Jacket,Clothing,6500,Customer 337,Quetta,West
+TXN002604,2025-12-13,C0356,P09,2,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 356,Quetta,West
+TXN000593,2025-12-13,C0227,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 227,Peshawar,North
+TXN002948,2025-12-14,C0468,P02,2,0.0,Store,LAPTOP ,Electronics,120000,Customer 468,Islamabad,North
+TXN003323,2025-12-14,C0580,P03,2,0.1,Online,Headphones,Electronics,8000,Customer 580,Karachi,South
+TXN002985,2025-12-14,C0379,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 379,Multan,Central
+TXN000428,2025-12-14,C0713,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 713,Peshawar,North
+TXN002561,2025-12-14,C0574,P07,3,0.0,Store,Jacket,Clothing,6500,Customer 574,Karachi,South
+TXN000657,2025-12-14,C0451,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 451,Quetta,West
+TXN000403,2025-12-14,C0212,P14,4,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 212,Peshawar,North
+TXN002793,2025-12-14,C0800,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 800,Multan,Central
+TXN005548,2025-12-14,C0343,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 343,Islamabad,North
+TXN005270,2025-12-14,C0796,P08,2,0.05,Online,Sneakers,Clothing,7000,Customer 796,Lahore,Central
+TXN002948,2025-12-14,C0468,P02,2,0.0,Store,Laptop,Electronics,120000,Customer 468,Islamabad,North
+TXN001028,2025-12-14,C0310,P12,2,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 310,Karachi,South
+TXN000770,2025-12-14,C0420,P11,3,0.0,Store,Blender,Home Appliances,6000,Customer 420,Islamabad,North
+TXN000446,2025-12-15,C0361,P01,4,0.0,Online,SMARTPHONE ,Electronics,45000,Customer 361,Quetta,West
+TXN004163,2025-12-15,C0071,P14,-1,0.0,Online,Cooking Oil 5L,Grocery,3200,Customer 71,Peshawar,North
+TXN001235,2025-12-15,C0650,P09,3,0.05,Store,Microwave Oven,Home Appliances,22000,Customer 650,Quetta,West
+TXN002979,2025-12-15,C0513,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 513,Quetta,West
+TXN003852,2025-12-15,C0118,P04,2,0.05,Store,Smart Watch,Electronics,15000,Customer 118,Karachi,South
+TXN002419,2025-12-15,C0085,P13,4,0.0,Store,Rice 5kg,Grocery,1400,Customer 85,Islamabad,North
+TXN002946,2025-12-15,C0557,P05,4,0.2,Store,T-Shirt,Clothing,1500,Customer 557,Peshawar,North
+TXN002612,2025-12-16,C0238,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 238,Multan,Central
+TXN002571,2025-12-16,C0264,P12,3,0.05,Store,Vacuum Cleaner,Home Appliances,25000,Customer 264,Quetta,West
+TXN003974,2025-12-16,C0069,P16,1,0.05,Online,Sugar 5kg,Grocery,700,Customer 69,Karachi,South
+TXN003724,2025-12-16,C0469,P02,4,0.0,Online,Laptop,Electronics,120000,Customer 469,Lahore,Central
+TXN005082,2025-12-16,C0555,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 555,Quetta,West
+TXN004588,2025-12-16,C0685,P01,2,0.0,Online,Smartphone,Electronics,45000,Customer 685,Lahore,Central
+TXN004990,2025-12-16,C0023,P07,1,0.2,Store,Jacket,Clothing,6500,Customer 23,Lahore,Central
+TXN005542,2025-12-16,C0785,P03,3,0.0,Store,Headphones,Electronics,8000,Customer 785,Multan,Central
+TXN003335,2025-12-16,C0034,P08,4,0.1,Store,Sneakers,Clothing,7000,Customer 34,Islamabad,North
+TXN003178,2025-12-17,C0736,P11,2,0.0,Store,Blender,Home Appliances,6000,Customer 736,Peshawar,North
+TXN001579,2025-12-17,C0759,P10,3,0.2,Store,Air Fryer,Home Appliances,18000,Customer 759,Karachi,South
+TXN000947,2025-12-17,C0654,P02,2,0.1,Store,Laptop,Electronics,120000,Customer 654,Peshawar,North
+TXN003302,2025-12-17,C0181,P07,1,0.1,Store,Jacket,Clothing,6500,Customer 181,Quetta,West
+TXN001239,2025-12-17,C0260,P01,3,0.1,Online,Smartphone,Electronics,45000,Customer 260,Islamabad,North
+TXN001162,2025-12-18,C0070,P16,2,0.0,Store,Sugar 5kg,Grocery,700,Customer 70,Multan,Central
+TXN001853,2025-12-18,C0258,P03,3,0.05,Online,Headphones,Electronics,8000,Customer 258,Karachi,South
+TXN004788,2025-12-18,C0092,P12,1,0.2,Store,Vacuum Cleaner,Home Appliances,25000,Customer 92,Peshawar,North
+TXN003801,2025-12-18,C0592,P16,1,0.0,Store,Sugar 5kg,Grocery,700,Customer 592,Quetta,West
+TXN000282,2025-12-19,C0712,P15,4,0.0,Store,TEA 900G ,Grocery,1500,Customer 712,Islamabad,North
+TXN002349,2025-12-19,C0350,P01,3,0.2,Store,Smartphone,Electronics,45000,Customer 350,Karachi,South
+TXN002734,2025-12-19,C0528,P12,1,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 528,Karachi,South
+TXN002003,2025-12-19,C0624,P06,4,0.1,Online,Jeans,Clothing,3500,Customer 624,Multan,Central
+TXN003918,2025-12-19,C0291,P15,1,0.0,Store,Tea 900g,Grocery,1500,Customer 291,Peshawar,North
+TXN004681,2025-12-19,C0191,P07,1,0.05,Store,Jacket,Clothing,6500,Customer 191,Peshawar,North
+TXN003466,2025-12-20,C0176,P13,1,0.0,Online,Rice 5kg,Grocery,1400,Customer 176,Multan,Central
+TXN000288,2025-12-20,C0181,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 181,Quetta,West
+TXN003893,2025-12-20,C0559,P05,1,0.0,Online,T-Shirt,Clothing,1500,Customer 559,Peshawar,North
+TXN001576,2025-12-20,C0108,P06,2,0.1,Online,Jeans,Clothing,3500,Customer 108,Islamabad,North
+TXN002926,2025-12-20,C0218,P03,2,0.0,Store,Headphones,Electronics,8000,Customer 218,Karachi,South
+TXN004699,2025-12-20,C0040,P13,3,0.1,Store,Rice 5kg,Grocery,1400,Customer 40,Islamabad,North
+TXN003721,2025-12-20,C0793,P09,3,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 793,Peshawar,North
+TXN005087,2025-12-20,C0301,P05,2,0.0,Online,T-Shirt,Clothing,1500,Customer 301,Multan,Central
+TXN001955,2025-12-20,C0585,P16,2,0.1,Online,Sugar 5kg,Grocery,700,Customer 585,Multan,Central
+TXN005571,2025-12-21,C0071,P03,4,0.1,Store,Headphones,Electronics,8000,Customer 71,Peshawar,North
+TXN000820,2025-12-21,C0639,P13,4,0.0,Online,Rice 5kg,Grocery,1400,Customer 639,Peshawar,North
+TXN004193,2025-12-21,C0733,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 733,Quetta,West
+TXN003992,2025-12-21,C0330,P09,3,0.1,Store,Microwave Oven,Home Appliances,22000,Customer 330,Islamabad,North
+TXN004740,2025-12-21,C0598,P02,1,0.0,Online,Laptop,Electronics,120000,Customer 598,Peshawar,North
+TXN004636,2025-12-21,C0798,P01,3,0.05,Online,Smartphone,Electronics,45000,Customer 798,Multan,Central
+TXN005139,2025-12-22,C0486,P13,1,0.0,Store,RICE 5KG ,Grocery,1400,Customer 486,Lahore,Central
+TXN004313,2025-12-22,C0697,P06,3,0.0,Online,Jeans,Clothing,3500,Customer 697,Peshawar,North
+TXN001817,2025-12-22,C0618,P13,1,0.1,Store,Rice 5kg,Grocery,1400,Customer 618,Lahore,Central
+TXN001460,2025-12-22,C0727,P05,2,0.1,Online,T-Shirt,Clothing,1500,Customer 727,Peshawar,North
+TXN001246,2025-12-22,C0252,P06,2,0.05,Store,Jeans,Clothing,3500,Customer 252,Multan,Central
+TXN004485,2025-12-22,C0505,P04,1,0.0,Online,Smart Watch,Electronics,15000,Customer 505,Lahore,Central
+TXN002479,2025-12-23,C0784,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 784,Karachi,South
+TXN000826,2025-12-23,C0452,P06,3,0.0,Store,Jeans,Clothing,3500,Customer 452,Quetta,West
+TXN003416,2025-12-23,,P14,2,0.05,Store,Cooking Oil 5L,Grocery,3200,,Multan,Central
+TXN004502,2025-12-23,C0707,P06,2,0.0,Online,Jeans,Clothing,3500,Customer 707,Karachi,South
+TXN002924,2025-12-23,C0709,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 709,Multan,Central
+TXN004461,2025-12-23,C0191,P04,3,0.1,Store,Smart Watch,Electronics,15000,Customer 191,Peshawar,North
+TXN001198,2025-12-23,C0272,P14,2,0.1,Online,Cooking Oil 5L,Grocery,3200,Customer 272,Karachi,South
+TXN001198,2025-12-23,C0272,P14,2,0.1,Online,Cooking Oil 5L,Grocery,3200,Customer 272,Karachi,South
+TXN001968,2025-12-23,C0378,P02,4,0.1,Online,Laptop,Electronics,120000,Customer 378,Peshawar,North
+TXN002438,2025-12-24,C0358,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 358,Quetta,West
+TXN002438,2025-12-24,C0358,P12,4,0.0,Store,Vacuum Cleaner,Home Appliances,25000,Customer 358,Quetta,West
+TXN003496,2025-12-24,C0387,P04,1,0.1,Store,Smart Watch,Electronics,15000,Customer 387,Karachi,South
+TXN002375,2025-12-25,C0341,P10,1,0.1,Store,Air Fryer,Home Appliances,18000,Customer 341,Islamabad,North
+TXN000759,2025-12-25,C0084,P09,2,0.1,Online,Microwave Oven,Home Appliances,22000,Customer 84,Peshawar,North
+TXN002358,2025-12-25,C0392,P01,2,0.1,Store,Smartphone,Electronics,45000,Customer 392,Lahore,Central
+TXN002156,2025-12-25,C0191,P05,2,0.05,Store,T-Shirt,Clothing,1500,Customer 191,Peshawar,North
+TXN003822,2025-12-25,C0341,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 341,Islamabad,North
+TXN000622,2025-12-25,C0695,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 695,Karachi,South
+TXN004239,2025-12-25,C0496,P01,3,0.0,Online,Smartphone,Electronics,45000,Customer 496,Multan,Central
+TXN002821,2025-12-26,C0144,P13,3,0.0,Online,Rice 5kg,Grocery,1400,Customer 144,Multan,Central
+TXN004340,2025-12-26,C0704,P13,3,0.1,Online,Rice 5kg,Grocery,1400,Customer 704,Lahore,Central
+TXN000256,2025-12-26,C0123,P01,1,0.0,Store,Smartphone,Electronics,45000,Customer 123,Islamabad,North
+TXN000317,2025-12-26,C0410,P10,1,0.0,Store,Air Fryer,Home Appliances,18000,Customer 410,Karachi,South
+TXN005486,2025-12-26,C0077,P04,4,0.0,Store,Smart Watch,Electronics,15000,Customer 77,Lahore,Central
+TXN001720,2025-12-27,C0224,P01,4,0.0,Online,Smartphone,Electronics,45000,Customer 224,Lahore,Central
+TXN000010,2025-12-27,C0703,P04,3,0.0,Store,Smart Watch,Electronics,15000,Customer 703,Lahore,Central
+TXN005008,2025-12-27,C0639,P06,2,0.0,Online,Jeans,Clothing,3500,Customer 639,Peshawar,North
+TXN001373,2025-12-27,C0238,P03,3,0.05,Store,Headphones,Electronics,8000,Customer 238,Multan,Central
+TXN004082,2025-12-28,C0104,P13,2,0.1,Online,Rice 5kg,Grocery,1400,Customer 104,Karachi,South
+TXN000546,2025-12-28,C0238,P09,4,0.0,Store,Microwave Oven,Home Appliances,22000,Customer 238,Multan,Central
+TXN005439,2025-12-28,C0372,P14,3,0.0,Store,Cooking Oil 5L,Grocery,3200,Customer 372,Islamabad,North
+TXN003703,2025-12-28,C0525,P03,1,0.0,Store,Headphones,Electronics,8000,Customer 525,Lahore,Central
+TXN004802,2025-12-29,C0332,P03,4,0.0,Store,Headphones,Electronics,8000,Customer 332,Multan,Central
+TXN000536,2025-12-29,C0103,P08,4,0.0,Store,Sneakers,Clothing,7000,Customer 103,Peshawar,North
+TXN001418,2025-12-29,C0733,P06,4,0.1,Online,Jeans,Clothing,3500,Customer 733,Quetta,West
+TXN002322,2025-12-29,C0793,P15,2,0.0,Store,Tea 900g,Grocery,1500,Customer 793,Peshawar,North
+TXN000369,2025-12-29,C0320,P06,4,0.05,Store,Jeans,Clothing,3500,Customer 320,Peshawar,North
+TXN002849,2025-12-29,C0785,P10,3,0.0,Online,Air Fryer,Home Appliances,18000,Customer 785,Multan,Central
+TXN002912,2025-12-29,C0760,P13,2,0.1,Store,Rice 5kg,Grocery,1400,Customer 760,Peshawar,North
+TXN000369,2025-12-29,C0320,P06,4,0.05,Store,Jeans,Clothing,3500,Customer 320,Peshawar,North
+TXN003622,2025-12-30,C0361,P07,3,0.05,Online,Jacket,Clothing,6500,Customer 361,Quetta,West
+TXN002407,2025-12-30,C0294,P07,2,0.0,Store,Jacket,Clothing,6500,Customer 294,Lahore,Central
+TXN000020,2025-12-30,C0081,P04,3,0.0,Online,Smart Watch,Electronics,15000,Customer 81,Quetta,West
+TXN001462,2025-12-30,C0585,P08,4,0.1,Store,Sneakers,Clothing,7000,Customer 585,Multan,Central
+TXN005042,2025-12-30,C0373,P07,3,0.0,Online,Jacket,Clothing,6500,Customer 373,Multan,Central
+TXN005808,2025-12-30,C0130,P10,2,0.1,Store,Air Fryer,Home Appliances,18000,Customer 130,Islamabad,North
